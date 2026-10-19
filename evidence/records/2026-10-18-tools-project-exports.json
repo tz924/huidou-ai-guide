@@ -1,0 +1,228 @@
+[
+  {
+    "project_name": "AI 照相馆",
+    "exported_at": 1792382296540,
+    "json_bytes": 43759,
+    "json_sha256": "e2cabd60514afab8b601d152e4939377d324b95ac2ae63efcf6c8598e7d610e7",
+    "node_count": 6,
+    "node_types": [
+      "exportImageNode",
+      "exportImageNode",
+      "exportImageNode",
+      "storyboardNode",
+      "exportImageNode",
+      "exportImageNode"
+    ],
+    "missingImages": [],
+    "images": [
+      {
+        "filename": "19e0b668a7237456ab012829b8accb3e.png",
+        "bytes": 538929,
+        "sha256": "ce8c4c630bfeaa660ee178b882d1fa17867d057dbfc2202789e2735766a89efc",
+        "size": [
+          509,
+          766
+        ]
+      },
+      {
+        "filename": "9ac8ddc56242b5561d654914065622e9.png",
+        "bytes": 94591,
+        "sha256": "98c3f2a282cf5bea77f694116c5329ac207ab2d32cb02428a4943a50964ae8cc",
+        "size": [
+          259,
+          259
+        ]
+      },
+      {
+        "filename": "b30a029c4f2af6644e43c893a9d6b7be.png",
+        "bytes": 548352,
+        "sha256": "8e0e86f6357eef9530a63317620cbb4c6e6abe7783069293b5d8ed404661d612",
+        "size": [
+          510,
+          766
+        ]
+      },
+      {
+        "filename": "da669b635c75b41357180768d8a8bff8.png",
+        "bytes": 526203,
+        "sha256": "91c6b52e204be7e2979ca5e6d423d26d02ade84d1a34252924d9eee8d895babf",
+        "size": [
+          509,
+          765
+        ]
+      },
+      {
+        "filename": "edc75b2ec5d015a1e9314d9747bbf43c.png",
+        "bytes": 2929136,
+        "sha256": "41c38331dcbdbf4f8c1c9c5a8bd97b6b86dd36a5d8501e46ffbe12c277298c5b",
+        "size": [
+          1024,
+          1536
+        ]
+      },
+      {
+        "filename": "f7e2125e2e80d25542a49d8d95f6187e.png",
+        "bytes": 304035,
+        "sha256": "564481022ef15e8857570a6fd25c878558bc85c1d44ac1f1cb7c65bd50da3d47",
+        "size": [
+          512,
+          341
+        ]
+      },
+      {
+        "filename": "fa21ed2c17d6deaa6f1c23d8762675b6.png",
+        "bytes": 2183778,
+        "sha256": "12b6a70e8561c0c14650f83a65a7d05a284006bde35b41b090147822506b4fc7",
+        "size": [
+          1024,
+          1536
+        ]
+      },
+      {
+        "filename": "fb556cb5f65c231a3b2f1098d13e3b32.png",
+        "bytes": 302795,
+        "sha256": "d68a730b0e96ea232af2977f2422d13953388f7b6a2af674e6b4ad1292211364",
+        "size": [
+          341,
+          512
+        ]
+      },
+      {
+        "filename": "feb7891d23808ad9900ee2bdde5a0ca0.png",
+        "bytes": 2935835,
+        "sha256": "54eefa3593c507086c97666c61e8b85787c4154a4130af13b08f7ea8712e0424",
+        "size": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "filename": "ffb54acdbdcea6d5302c8c4a52d1af80.png",
+        "bytes": 523469,
+        "sha256": "54baa77eda59fe51669971138b549d89d5ca8254792a1483048c191000621b0a",
+        "size": [
+          510,
+          765
+        ]
+      }
+    ],
+    "notes": [
+      "Raw package not committed; no array-index-to-node-reference assumption. Image copies identified by visual content and hash."
+    ],
+    "image_copy_mapping": {
+      "rotation": "feb7891d23808ad9900ee2bdde5a0ca0.png",
+      "crop_flip": "9ac8ddc56242b5561d654914065622e9.png",
+      "annotation": "edc75b2ec5d015a1e9314d9747bbf43c.png"
+    }
+  },
+  {
+    "project_name": "功能补测-20261018",
+    "exported_at": 1792384486035,
+    "json_bytes": 126907415,
+    "json_sha256": "3bbd3721c58680a87d31dfc04e4d21f411bca217992508dcba7af25987186363",
+    "node_count": 8,
+    "node_types": [
+      "imageNode",
+      "uploadNode",
+      "director3dNode",
+      "exportImageNode",
+      "exportImageNode",
+      "exportImageNode",
+      "uploadNode",
+      "drawingNode"
+    ],
+    "missingImages": [],
+    "images": [
+      {
+        "filename": "02cff2cbdae4469eb37016de0e5bd04a.png",
+        "bytes": 30254,
+        "sha256": "80cd6ccbc12a0cca589f486c12049ae9f0f55c98738b45725445429abc7f1cd3",
+        "size": [
+          1280,
+          720
+        ]
+      },
+      {
+        "filename": "514a5116a5744c22a454fe392917b3b1.png",
+        "bytes": 263858,
+        "sha256": "128d67900cc9395da53a33ca86d1f7577ccf48c7282162210af2c78d8f4fd7c1",
+        "size": [
+          512,
+          288
+        ]
+      },
+      {
+        "filename": "88ab1e9f0d0b1175ffaae0aec821c1a8.png",
+        "bytes": 272497,
+        "sha256": "89ce3e06cd59af9f314320c3a76ddd7f2283db453c149ede7b5b8ff2e0fb4c84",
+        "size": [
+          2048,
+          1152
+        ]
+      },
+      {
+        "filename": "b100c7959fe174117d19b31d905eb79e.png",
+        "bytes": 5047364,
+        "sha256": "bd33ca618fd2f2351f4fe6cadf97e10882a8277c2cfe36230b9c7c2976f128b4",
+        "size": [
+          2048,
+          1152
+        ]
+      },
+      {
+        "filename": "e2424dfaa6336b84fd96b134d3f4ae16.png",
+        "bytes": 3488626,
+        "sha256": "4fb2fda66ea3964eaca622566998eb945c218ee94476d07a8619b1df19caec90",
+        "size": [
+          2048,
+          1152
+        ]
+      }
+    ],
+    "notes": [
+      "Raw package not committed; no array-index-to-node-reference assumption. Image copies identified by visual content and hash."
+    ],
+    "drawing": {
+      "canvasWidth": 1280,
+      "canvasHeight": 720,
+      "referenceOpacity": 0.28,
+      "showReference": true,
+      "transparentBackground": false,
+      "layers": [
+        {
+          "name": "原图底图",
+          "visible": false,
+          "opacity": 1,
+          "blendMode": "normal"
+        },
+        {
+          "name": "局部重绘遮罩",
+          "visible": true,
+          "opacity": 0.62,
+          "blendMode": "normal"
+        },
+        {
+          "name": "图层 3",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "multiply"
+        },
+        {
+          "name": "图层 4",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "normal"
+        },
+        {
+          "name": "图层 5",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "normal"
+        }
+      ]
+    },
+    "image_copy_mapping": {
+      "drawing": "02cff2cbdae4469eb37016de0e5bd04a.png"
+    }
+  }
+]

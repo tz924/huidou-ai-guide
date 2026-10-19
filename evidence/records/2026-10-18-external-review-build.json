@@ -1,0 +1,159 @@
+{
+  "tool": "External FFmpeg 8.1.2; not a Huidou timeline export",
+  "sources": [
+    {
+      "path": "evidence/media/镜头-01-task_1nDqCr1S1E0Frb5PR9XdVO99slOCrjeE.mp4",
+      "sha256": "716c920f591ad4b24e90dd8a0723258e37ef6bd6562f664bef254ce165949103"
+    },
+    {
+      "path": "evidence/media/镜头-02-task_UWmgXNnikYQGObUa0NFpn7YXNGfEwxkA.mp4",
+      "sha256": "fbabbbcbe01f2540709710a9ad645c0176ff5f7afa5e95a287e234d27512a93a"
+    },
+    {
+      "path": "evidence/media/镜头-03-task_c6DnbMohwT9tn8q5iaJezM6rbNwm8weo.mp4",
+      "sha256": "5a24c2b0c38ec1940d79980c5c4f4b02ddd31c85e0a2c838849a1ea1ff0bb189"
+    }
+  ],
+  "method": "Trim first 10 seconds of each distinct original shot, hard cuts, retain each original soundtrack, resample AAC to 48kHz; no extra music/test bass; re-encode at original 854x480.",
+  "subtitle_status": "Script placeholders covering shot boundaries only; speech semantics, voice identity, lip sync and exact spoken cue alignment not accepted.",
+  "filter_complex": "[0:v]trim=duration=10,setpts=PTS-STARTPTS,fps=30,setsar=1[v0];[0:a]atrim=duration=10,asetpts=PTS-STARTPTS,aresample=48000[a0];[1:v]trim=duration=10,setpts=PTS-STARTPTS,fps=30,setsar=1[v1];[1:a]atrim=duration=10,asetpts=PTS-STARTPTS,aresample=48000[a1];[2:v]trim=duration=10,setpts=PTS-STARTPTS,fps=30,setsar=1[v2];[2:a]atrim=duration=10,asetpts=PTS-STARTPTS,aresample=48000[a2];[v0][a0][v1][a1][v2][a2]concat=n=3:v=1:a=1[v][a]",
+  "output": "evidence/media/盐湖苏醒-三镜头外部串联-待验收.mp4",
+  "subtitle": "evidence/media/盐湖苏醒-剧本占位字幕-待听验.srt",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.64001f",
+        "width": 854,
+        "height": 480,
+        "coded_width": 854,
+        "coded_height": 480,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "427:240",
+        "pix_fmt": "yuv420p",
+        "level": 31,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 460800,
+        "duration": "30.000000",
+        "bit_rate": "1301493",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "900",
+        "extradata_size": 46,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc62.28.102 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1440000,
+        "duration": "30.000000",
+        "bit_rate": "160609",
+        "nb_frames": "1408",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "C:\\Users\\zhj93\\Documents\\GitHub\\huidou-ai-guide\\evidence\\media\\盐湖苏醒-三镜头外部串联-待验收.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "30.000000",
+      "size": "5517773",
+      "bit_rate": "1471406",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf62.12.102"
+      }
+    }
+  },
+  "full_decode": "ffmpeg -xerror passed"
+}

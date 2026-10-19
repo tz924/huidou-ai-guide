@@ -1,8 +1,28 @@
 [
   {
+    "path": "evidence/media/3D-当前视角-双人木箱接缝.jpg",
+    "bytes": 220559,
+    "sha256": "220aa11286b9e3b3999ac32a7042e78793135d96bf04f477d54c3d3de8a87f39"
+  },
+  {
     "path": "evidence/media/huidou-video-1792362430004.mp4",
     "bytes": 13201661,
     "sha256": "3d100515b0d7044996a05990cd828ead2cfc0c560046b1c94ddc2fcb2d20da7b"
+  },
+  {
+    "path": "evidence/media/参考音频-镜头02前10秒.wav",
+    "bytes": 480078,
+    "sha256": "e34b34613e382ccaec0d71c543bce6ee9076a51b3bab763f3e1521e347731bca"
+  },
+  {
+    "path": "evidence/media/参考驱动-Wan3经济版-4秒480p.mp4",
+    "bytes": 1925777,
+    "sha256": "866b65b3a4b173504a37932e199e6a375e4bc05ea1519ae8474b9d87c4a8c474"
+  },
+  {
+    "path": "evidence/media/参考驱动-逐秒抽帧.jpg",
+    "bytes": 66999,
+    "sha256": "47218966b7888a38757581f7bb69d3a3ad8b801b1e49695f74e9245274b45795"
   },
   {
     "path": "evidence/media/四格分镜-原图.png",
@@ -13,6 +33,11 @@
     "path": "evidence/media/四格分镜-局部粉云重绘.png",
     "bytes": 8579618,
     "sha256": "94ea686c45a7dae374177baceddda18f42def48de5d73d4b908b965554d0c401"
+  },
+  {
+    "path": "evidence/media/场景-Image2-无人盐湖.png",
+    "bytes": 3488626,
+    "sha256": "4fb2fda66ea3964eaca622566998eb945c218ee94476d07a8619b1df19caec90"
   },
   {
     "path": "evidence/media/场景-含人物-不合格无人空镜.png",
@@ -40,9 +65,74 @@
     "sha256": "cc388baecc1a5b8aca8282d92a919d635c96b7d179b6652d52624db726404480"
   },
   {
+    "path": "evidence/media/照相馆-切割-01.png",
+    "bytes": 548352,
+    "sha256": "8e0e86f6357eef9530a63317620cbb4c6e6abe7783069293b5d8ed404661d612"
+  },
+  {
+    "path": "evidence/media/照相馆-切割-02.png",
+    "bytes": 538929,
+    "sha256": "ce8c4c630bfeaa660ee178b882d1fa17867d057dbfc2202789e2735766a89efc"
+  },
+  {
+    "path": "evidence/media/照相馆-切割-03.png",
+    "bytes": 523469,
+    "sha256": "54baa77eda59fe51669971138b549d89d5ca8254792a1483048c191000621b0a"
+  },
+  {
+    "path": "evidence/media/照相馆-切割-04.png",
+    "bytes": 526203,
+    "sha256": "91c6b52e204be7e2979ca5e6d423d26d02ade84d1a34252924d9eee8d895babf"
+  },
+  {
+    "path": "evidence/media/照相馆-右转90度.png",
+    "bytes": 2935835,
+    "sha256": "54eefa3593c507086c97666c61e8b85787c4154a4130af13b08f7ea8712e0424"
+  },
+  {
+    "path": "evidence/media/照相馆-头部红框标注.png",
+    "bytes": 2929136,
+    "sha256": "41c38331dcbdbf4f8c1c9c5a8bd97b6b86dd36a5d8501e46ffbe12c277298c5b"
+  },
+  {
+    "path": "evidence/media/照相馆-方形裁剪水平翻转.png",
+    "bytes": 94591,
+    "sha256": "98c3f2a282cf5bea77f694116c5329ac207ab2d32cb02428a4943a50964ae8cc"
+  },
+  {
+    "path": "evidence/media/照相馆-都市光影-神祇西装.jpg",
+    "bytes": 445151,
+    "sha256": "f1ce389b7ded23da37d08f18eeb7732e08ad3ebc8bb2a4e9e357b0e97863c853"
+  },
+  {
     "path": "evidence/media/照相馆输入-镜头02第4秒.png",
     "bytes": 485327,
     "sha256": "084bbc46008563ddeb01c394b2b18462db39a7fd949dc447b39690e54b72c80d"
+  },
+  {
+    "path": "evidence/media/盐晶-手动抠图透明.png",
+    "bytes": 272497,
+    "sha256": "89ce3e06cd59af9f314320c3a76ddd7f2283db453c149ede7b5b8ff2e0fb4c84"
+  },
+  {
+    "path": "evidence/media/盐晶-消除复测.png",
+    "bytes": 5047364,
+    "sha256": "bd33ca618fd2f2351f4fe6cadf97e10882a8277c2cfe36230b9c7c2976f128b4"
+  },
+  {
+    "path": "evidence/media/盐湖苏醒-三镜头外部串联-待验收.mp4",
+    "bytes": 5517773,
+    "sha256": "6643f20d91bedbc8fa03c798d253a26767b3eb522de2a597f0b2bffefe2964dc"
+  },
+  {
+    "path": "evidence/media/盐湖苏醒-剧本占位字幕-待听验.srt",
+    "bytes": 280,
+    "sha256": "3633301becd32973e1e634a8877a303984b31e93c09dfabcc8c3dec0220a8f75"
+  },
+  {
+    "path": "evidence/media/绘梦-正片叠底粉线-参考不烘焙.png",
+    "bytes": 30254,
+    "sha256": "80cd6ccbc12a0cca589f486c12049ae9f0f55c98738b45725445429abc7f1cd3"
   },
   {
     "path": "evidence/media/镜头-01-task_1nDqCr1S1E0Frb5PR9XdVO99slOCrjeE.mp4",

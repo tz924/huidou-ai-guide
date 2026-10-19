@@ -5,7 +5,7 @@
 | AI | 入口 | 桌面操作条件 | 当前实测 |
 |---|---|---|---|
 | Codex | 根目录 AGENTS.md | 当前会话实际提供的 Windows computer-use 技能/工具 | 旧机与新机 Codex＋sky 已实测；新机完成建项目、原剧本拆解、MP4导入/启动播放及正式工程包同机重开 |
-| Claude Code / Claude | 根目录 CLAUDE.md 导入 AGENTS.md；其他 Claude 界面手动提供这些文件 | 当前 Claude 环境有可控制目标 Windows 桌面的工具，并获授权 | 文档入口已准备，实际执行未测 |
+| Claude Code / Claude | 根目录 CLAUDE.md 导入 AGENTS.md；其他 Claude 界面手动提供这些文件 | 当前 Claude 环境有可控制目标 Windows 桌面的工具，并获授权 | CLI 2.1.286已核对；desktop-commander MCP连接失败CONNECTION_CLOSED，实际桌面闭环未测 |
 | 其他 AI | 手动加载 AGENTS.md、STATUS、TODO 和本页 | 对应桌面控制工具；否则只能提供文字辅助 | 未测 |
 
 ## 统一操作接口（语义协议，不是可直接调用的 API）
@@ -31,3 +31,5 @@ CLAUDE.md 用 @AGENTS.md 导入共同规范。Claude Code 的文件/终端能力
 ## 配置入口依据
 
 根目录 AGENTS.md 的项目规范入口依据 [OpenAI 官方说明](https://learn.chatgpt.com/docs/agent-configuration/agents-md)；CLAUDE.md 与 @ 导入依据 [Claude 官方说明](https://code.claude.com/docs/en/memory)。2026-10-18 核对。此处仅说明文档加载方式，不保证任何客户端具有桌面控制能力。
+
+2026-10-18补测：Claude CLI存在不等于桌面工具可用。`claude mcp list`实际健康检查返回desktop-commander连接失败，未启动Claude代点；未修改配置或凭据。当前不能把文档导入、终端能力或其他工作App连接当成灰豆Windows控制已通过。见[补测记录](../evidence/records/2026-10-18-remaining-tools.md)。
