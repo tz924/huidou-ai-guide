@@ -1,0 +1,57 @@
+[
+  {
+    "path": "evidence/media/huidou-video-1792362430004.mp4",
+    "bytes": 13201661,
+    "sha256": "3d100515b0d7044996a05990cd828ead2cfc0c560046b1c94ddc2fcb2d20da7b"
+  },
+  {
+    "path": "evidence/media/四格分镜-原图.png",
+    "bytes": 6820998,
+    "sha256": "ed3405c248f055d417f1b68e2514d7852cf3e70cb7b719fd3b989330dba0bd6f"
+  },
+  {
+    "path": "evidence/media/四格分镜-局部粉云重绘.png",
+    "bytes": 8579618,
+    "sha256": "94ea686c45a7dae374177baceddda18f42def48de5d73d4b908b965554d0c401"
+  },
+  {
+    "path": "evidence/media/场景-含人物-不合格无人空镜.png",
+    "bytes": 7298418,
+    "sha256": "b3fa5f9ee1fb896bacca081f511dfbec1b4c56d1f553bb1707cb2a629bb4e9db"
+  },
+  {
+    "path": "evidence/media/漫剧202610181520-成片-20261018-153132.mp4",
+    "bytes": 1707361,
+    "sha256": "cf377454f64b85f60789587e3a8d6285c601453af56e7743970a359557157054"
+  },
+  {
+    "path": "evidence/media/漫剧202610181520-成片-20261018-153132.srt",
+    "bytes": 64,
+    "sha256": "69da2fb0cfc4b6c043380374dcba969d34a1956b7a932cdd95471e5ce3b72309"
+  },
+  {
+    "path": "evidence/media/漫剧202610181520-成片-20261018-162025.mp4",
+    "bytes": 3068064,
+    "sha256": "f6bf10dd09157e6940617c7cadc55a53a11c2267ceddf718838fc3d40c343b15"
+  },
+  {
+    "path": "evidence/media/漫剧202610181520-成片-20261018-162025.srt",
+    "bytes": 198,
+    "sha256": "cc388baecc1a5b8aca8282d92a919d635c96b7d179b6652d52624db726404480"
+  },
+  {
+    "path": "evidence/media/镜头-01-task_1nDqCr1S1E0Frb5PR9XdVO99slOCrjeE.mp4",
+    "bytes": 5259710,
+    "sha256": "716c920f591ad4b24e90dd8a0723258e37ef6bd6562f664bef254ce165949103"
+  },
+  {
+    "path": "evidence/media/镜头-02-task_UWmgXNnikYQGObUa0NFpn7YXNGfEwxkA.mp4",
+    "bytes": 5444924,
+    "sha256": "fbabbbcbe01f2540709710a9ad645c0176ff5f7afa5e95a287e234d27512a93a"
+  },
+  {
+    "path": "evidence/media/镜头-03-task_c6DnbMohwT9tn8q5iaJezM6rbNwm8weo.mp4",
+    "bytes": 5155524,
+    "sha256": "5a24c2b0c38ec1940d79980c5c4f4b02ddd31c85e0a2c838849a1ea1ff0bb189"
+  }
+]

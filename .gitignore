@@ -1,0 +1,9 @@
+config/machine.local.json
+*.local.json
+.env
+.env.*
+!.env.example
+work/
+__pycache__/
+Thumbs.db
+.DS_Store

@@ -1,0 +1,11 @@
+{
+  "machine_label": "填写当前电脑名称",
+  "os": "Windows",
+  "ai_client": "填写 Codex / Claude / 其他",
+  "desktop_tool": "填写实际可用工具；未配置则写 unavailable",
+  "huidou_version": "现场核对",
+  "download_dir": "填写灰豆设置显示的绝对下载路径",
+  "project_dir": "填写当前工程媒体目录；若未恢复旧工程请注明",
+  "evidence_dir_relative": "evidence/media",
+  "original_project_available": false
+}
