@@ -1,0 +1,113 @@
+{
+  "method": "ffprobe streams/format; ffmpeg -xerror full decode; volumedetect (no semantic listening)",
+  "clips": [
+    {
+      "path": "evidence/media/镜头-01-task_1nDqCr1S1E0Frb5PR9XdVO99slOCrjeE.mp4",
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 854,
+          "height": 480,
+          "r_frame_rate": "30/1",
+          "duration": "10.000000"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "44100",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "duration": "10.030998"
+        }
+      ],
+      "format": {
+        "duration": "10.030998",
+        "size": "5259710"
+      },
+      "sha256": "716c920f591ad4b24e90dd8a0723258e37ef6bd6562f664bef254ce165949103",
+      "decode_exit_code": 0,
+      "decode_error": "",
+      "audio_levels": [
+        "mean_volume: -21.7 dB",
+        "max_volume: -2.0 dB"
+      ]
+    },
+    {
+      "path": "evidence/media/镜头-02-task_UWmgXNnikYQGObUa0NFpn7YXNGfEwxkA.mp4",
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 854,
+          "height": 480,
+          "r_frame_rate": "30/1",
+          "duration": "10.000000"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "44100",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "duration": "10.030998"
+        }
+      ],
+      "format": {
+        "duration": "10.030998",
+        "size": "5444924"
+      },
+      "sha256": "fbabbbcbe01f2540709710a9ad645c0176ff5f7afa5e95a287e234d27512a93a",
+      "decode_exit_code": 0,
+      "decode_error": "",
+      "audio_levels": [
+        "mean_volume: -26.7 dB",
+        "max_volume: -4.1 dB"
+      ]
+    },
+    {
+      "path": "evidence/media/镜头-03-task_c6DnbMohwT9tn8q5iaJezM6rbNwm8weo.mp4",
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 854,
+          "height": 480,
+          "r_frame_rate": "30/1",
+          "duration": "10.000000"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "44100",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "duration": "10.030998"
+        }
+      ],
+      "format": {
+        "duration": "10.030998",
+        "size": "5155524"
+      },
+      "sha256": "5a24c2b0c38ec1940d79980c5c4f4b02ddd31c85e0a2c838849a1ea1ff0bb189",
+      "decode_exit_code": 0,
+      "decode_error": "",
+      "audio_levels": [
+        "mean_volume: -24.7 dB",
+        "max_volume: -2.1 dB"
+      ]
+    }
+  ]
+}

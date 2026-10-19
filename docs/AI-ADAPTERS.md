@@ -4,7 +4,7 @@
 
 | AI | 入口 | 桌面操作条件 | 当前实测 |
 |---|---|---|---|
-| Codex | 根目录 AGENTS.md | 当前会话实际提供的 Windows computer-use 技能/工具 | 旧机 Codex＋sky 已实测；新机未测 |
+| Codex | 根目录 AGENTS.md | 当前会话实际提供的 Windows computer-use 技能/工具 | 旧机与新机 Codex＋sky 已实测；新机完成建项目、原剧本拆解、MP4导入/启动播放及正式工程包同机重开 |
 | Claude Code / Claude | 根目录 CLAUDE.md 导入 AGENTS.md；其他 Claude 界面手动提供这些文件 | 当前 Claude 环境有可控制目标 Windows 桌面的工具，并获授权 | 文档入口已准备，实际执行未测 |
 | 其他 AI | 手动加载 AGENTS.md、STATUS、TODO 和本页 | 对应桌面控制工具；否则只能提供文字辅助 | 未测 |
 
@@ -21,6 +21,8 @@
 ## Codex 的历史实现
 
 旧机使用 computer-use 技能、node_repl 和 @oai/sky。工具持久变量及窗口编号属于旧会话，不在 Git 中迁移。新机必须重新初始化和发现窗口。没有同类工具的 Codex CLI 也不能因有 AGENTS.md 就直接控制 Windows。
+
+新机2026-10-18实测插件26.1013.40934：一次状态可能含13×13的TAURI边缘截图和1440×900主截图；按实际查看的截图选自己的screenshotId，不固定取第0张。本轮UIA点击存在偏移，主截图坐标动作有效。原生文件框偏好Windows反斜杠完整路径；跨进程鼠标检查拒绝时，重新激活并使用可见焦点的键盘操作。文件框关闭/工程导入后如持续旧截图或空树，重新get_window绑定已发现的窗口后再观察。详见[新机实测](../evidence/records/2026-10-18-new-machine-handoff.md)。
 
 ## Claude 的实现边界
 

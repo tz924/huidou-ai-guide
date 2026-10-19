@@ -40,6 +40,11 @@
     "sha256": "cc388baecc1a5b8aca8282d92a919d635c96b7d179b6652d52624db726404480"
   },
   {
+    "path": "evidence/media/照相馆输入-镜头02第4秒.png",
+    "bytes": 485327,
+    "sha256": "084bbc46008563ddeb01c394b2b18462db39a7fd949dc447b39690e54b72c80d"
+  },
+  {
     "path": "evidence/media/镜头-01-task_1nDqCr1S1E0Frb5PR9XdVO99slOCrjeE.mp4",
     "bytes": 5259710,
     "sha256": "716c920f591ad4b24e90dd8a0723258e37ef6bd6562f664bef254ce165949103"
@@ -53,5 +58,20 @@
     "path": "evidence/media/镜头-03-task_c6DnbMohwT9tn8q5iaJezM6rbNwm8weo.mp4",
     "bytes": 5155524,
     "sha256": "5a24c2b0c38ec1940d79980c5c4f4b02ddd31c85e0a2c838849a1ea1ff0bb189"
+  },
+  {
+    "path": "evidence/media/镜头01-抽帧联系表.jpg",
+    "bytes": 43291,
+    "sha256": "b22a1e95edcec7b8ef68618052622b9b7d4e68b352ef3b99357157db60633bd8"
+  },
+  {
+    "path": "evidence/media/镜头02-抽帧联系表.jpg",
+    "bytes": 65350,
+    "sha256": "fa848ef494f917a87e57792e18b019f17aa1dd4bc0f91c3bff6d0896b986a0c3"
+  },
+  {
+    "path": "evidence/media/镜头03-抽帧联系表.jpg",
+    "bytes": 42339,
+    "sha256": "b9abc403fd0197d6d9d83caba7d62977d4c8aebfab409b91412de7f6fffcee12"
   }
 ]

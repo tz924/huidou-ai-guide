@@ -1,0 +1,100 @@
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										12 对话框 AI 照相馆 Secondary Actions: Raise
+											13 标题
+												14 图形
+												15 标题 AI 照相馆 ID: photo-studio-title
+												16 文本 PHOTO STUDIO
+												17 按钮 我的作品
+													18 图形
+												19 按钮 关闭照相馆
+													20 图形
+											80 补充
+												81 文本 模板馆
+												82 导航
+													83 按钮 全部模板 21
+														84 图形
+													85 按钮 证件照 8
+														86 图形
+													87 按钮 职业形象 3
+														88 图形
+													89 按钮 人像写真 5
+														90 图形
+													91 按钮 商品摄影 3
+														92 图形
+													93 按钮 情侣婚纱 2
+														94 图形
+												95 导航
+													96 按钮 我的收藏
+														97 图形
+													98 按钮 最近使用
+														99 图形
+												100 图形
+												101 文本 好照片， 不必等一个特别的日子。
+												102 文本 HUIDOU STUDIO
+											103 文本 PHOTO STUDIO
+											104 标题 我的作品
+											105 文本 你的照片与制作记录，留在这里。
+											106 按钮 正在捕捉光影 都市光影 · 男士 10月18日 20:33
+												107 图形
+												108 标题 都市光影 · 男士
+								72 区域
+		73 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			74 菜单栏 系统 ID: MenuBar
+				79 菜单项 系统
+			76 按钮 最小化
+			77 按钮 最大化
+			78 按钮 关闭
+
+Document text: ```
+AI 照相馆
+PHOTO STUDIO
+￼
+我的作品
+￼
+模板馆
+￼
+全部模板
+21
+￼
+证件照
+8
+￼
+职业形象
+3
+￼
+人像写真
+5
+￼
+商品摄影
+3
+￼
+情侣婚纱
+2
+￼
+我的收藏
+￼
+最近使用
+￼
+好照片，
+不必等一个特别的日子。
+HUIDOU STUDIO
+PHOTO STUDIO
+我的作品
+你的照片与制作记录，留在这里。
+￼
+正在捕捉光影
+都市光影 · 男士
+10月18日 20:33
+```

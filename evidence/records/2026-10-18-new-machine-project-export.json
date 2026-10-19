@@ -1,0 +1,24 @@
+{
+  "method": "Read official UI-exported package without modification; original retained under ignored work directory",
+  "export_version": 1,
+  "project_name": "接手验证-盐湖三镜头-20261018",
+  "project_json_bytes": 67747,
+  "project_json_sha256": "bcdca79bbe3a6eae148d5f2367be75894906b259e2fd90488c304a0a6eaa6e65",
+  "node_count": 2,
+  "node_types": [
+    "scriptDirectorNode",
+    "uploadNode"
+  ],
+  "package_files": [
+    {
+      "path": "project.json",
+      "bytes": 67747
+    }
+  ],
+  "images_field_count": 0,
+  "missing_images": [],
+  "video_reference": "absolute path to this machine user media-cache; path omitted from tracked summary",
+  "video_file_bundled": false,
+  "same_machine_import_observation": "Two-node canvas reopened; project library still 2 entries; copy/overwrite/merge semantics unverified",
+  "cross_machine_media_verified": false
+}
