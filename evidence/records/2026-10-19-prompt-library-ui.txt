@@ -1,0 +1,1107 @@
+
+=== reopened total18; old template search absent ===
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										10645 组 ID: root
+											10646 按钮 返回 Description: 返回
+											10647 文本 灰豆AI光影引擎
+											10648 文本 36,393
+											10649 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											10650 按钮 AI 照相馆 Description: AI 照相馆
+												10651 图形
+											10652 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											10653 文本 v7.7.1
+											10654 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											10655 按钮 English Description: English
+											10656 按钮 浅色 Description: 浅色
+											10657 按钮 设置 Description: 设置
+											10658 按钮 最小化 Description: 最小化
+											10659 按钮 最大化 Description: 最大化
+											10660 按钮 关闭 Description: 关闭
+											10661 主要
+												10662 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												10663 应用程序
+													10664 组
+														10665 node
+															10666 组
+																10667 按钮 雪山誓约 Description: 雪山誓约
+																10668 图形 结果图
+																10669 组
+																10670 组
+																10671 组
+													10672 图形 Mini Map Description: Mini Map
+													10673 组 ID: react-flow__aria-live-1
+												10674 按钮 生成历史 Description: 生成历史
+													10675 组 共 1 条生成记录
+												10676 按钮 添加节点 Description: 添加节点
+												10677 切换按钮 选择节点 Description: 选择节点
+												10678 切换按钮 拖动画布 Description: 拖动画布
+												10679 按钮 100% Description: 恢复 100%
+												10680 滑块 (settable, float) 画布缩放 Value: 100
+												10681 按钮 适配视图 Description: 适配视图
+												10682 按钮 撤销 Description: 撤销
+												10683 按钮 (disabled) 重做 Description: 重做
+												10684 按钮 快捷键指南 Description: 快捷键指南
+												10685 按钮 素材库 Description: 素材库
+												10686 按钮 提示词库 Description: 提示词库
+										10689 组
+										10690 标题 提示词库
+										10691 按钮
+										10692 文本 常用提示词库
+										10693 文本 选择模板后会自动创建 AI 生图节点，并把提示词、画幅和清晰度填好。
+										10694 文本 18
+										10695 文本 内置模板
+										10696 文本 我的提示词会保存在本机，支持新增、编辑、删除；点“使用到 AI 生图”会自动创建生图节点。
+										10697 按钮 新增我的提示词
+										10698 按钮 全部 18
+										10699 按钮 人设 2
+										10700 按钮 场景 2
+										10701 按钮 电商 2
+										10702 按钮 口播 4
+										10703 按钮 分镜 3
+										10704 按钮 视频 3
+										10705 按钮 风格 2
+										10706 编辑 (settable, string) 搜索标题 / 标签 / 提示词 Description: 搜索标题 / 标签 / 提示词 Value: AI流程测试
+										10752 文本 没找到匹配的提示词
+										10753 文本 换个分类或搜索词试试。后续可以继续扩展成本地自定义收藏和云端共享库。
+										10754 按钮 关闭
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				10393 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+AI流程测试
+```
+=== new template fields before save ===
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										10645 组 ID: root
+											10646 按钮 返回 Description: 返回
+											10647 文本 灰豆AI光影引擎
+											10648 文本 36,393
+											10649 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											10650 按钮 AI 照相馆 Description: AI 照相馆
+												10651 图形
+											10652 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											10653 文本 v7.7.1
+											10654 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											10655 按钮 English Description: English
+											10656 按钮 浅色 Description: 浅色
+											10657 按钮 设置 Description: 设置
+											10658 按钮 最小化 Description: 最小化
+											10659 按钮 最大化 Description: 最大化
+											10660 按钮 关闭 Description: 关闭
+											10661 主要
+												10662 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												10663 应用程序
+													10664 组
+														10665 node
+															10666 组
+																10667 按钮 雪山誓约 Description: 雪山誓约
+																10668 图形 结果图
+																10669 组
+																10670 组
+																10671 组
+													10672 图形 Mini Map Description: Mini Map
+													10673 组 ID: react-flow__aria-live-1
+												10674 按钮 生成历史 Description: 生成历史
+													10675 组 共 1 条生成记录
+												10676 按钮 添加节点 Description: 添加节点
+												10677 切换按钮 选择节点 Description: 选择节点
+												10678 切换按钮 拖动画布 Description: 拖动画布
+												10679 按钮 100% Description: 恢复 100%
+												10680 滑块 (settable, float) 画布缩放 Value: 100
+												10681 按钮 适配视图 Description: 适配视图
+												10682 按钮 撤销 Description: 撤销
+												10683 按钮 (disabled) 重做 Description: 重做
+												10684 按钮 快捷键指南 Description: 快捷键指南
+												10685 按钮 素材库 Description: 素材库
+												10686 按钮 提示词库 Description: 提示词库
+										10689 组
+										10690 标题 提示词库
+										10691 按钮
+										10692 文本 常用提示词库
+										10693 文本 选择模板后会自动创建 AI 生图节点，并把提示词、画幅和清晰度填好。
+										10694 文本 18
+										10695 文本 内置模板
+										10696 文本 我的提示词会保存在本机，支持新增、编辑、删除；点“使用到 AI 生图”会自动创建生图节点。
+										10697 按钮 新增我的提示词
+										10698 按钮 全部 18
+										10699 按钮 人设 2
+										10700 按钮 场景 2
+										10701 按钮 电商 2
+										10702 按钮 口播 4
+										10703 按钮 分镜 3
+										10704 按钮 视频 3
+										10705 按钮 风格 2
+										10706 编辑 (settable, string) 搜索标题 / 标签 / 提示词 Description: 搜索标题 / 标签 / 提示词 Value: AI流程测试
+										10752 文本 没找到匹配的提示词
+										10753 文本 换个分类或搜索词试试。后续可以继续扩展成本地自定义收藏和云端共享库。
+										10754 按钮 关闭
+										10755 组
+										10756 标题 新增提示词
+										10757 按钮
+										10758 文本 把好用的提示词沉淀下来
+										10759 文本 这里保存的是本机提示词库。标题和正文必填，标签用逗号分隔，后续搜索和分类都会用到。
+										10760 文本 标题
+										10761 编辑 (settable, string) 标题 Description: 例如：真人短剧主角 Value: HD7426-创作中心无人空镜
+										10762 文本 简介/用途
+										10763 编辑 (settable, string) 简介/用途 Description: 例如：统一人物形象，适合连续出图
+										10764 文本 分类
+										10765 组合框 (settable, string) 分类 Value: 场景
+											10774 列表项目 (selectable) 人设
+											10775 列表项目 (selectable) 场景
+											10776 列表项目 (selectable) 电商
+											10777 列表项目 (selectable) 口播
+											10778 列表项目 (selectable) 分镜
+											10779 列表项目 (selectable) 视频
+											10780 列表项目 (selectable) 风格
+										10766 文本 画幅
+										10767 组合框 (settable, string) 画幅 Value: 16:9
+										10768 文本 标签
+										10769 编辑 (settable, string) 标签 Description: 人物，三视图，一致性
+										10770 文本 提示词正文
+										10771 编辑 (settable, string) 提示词正文 Description: 把完整提示词写在这里。建议包含主体、动作、镜头、光线、风格、限制项。 Value: 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+										10772 按钮 取消
+										10773 按钮 保存到我的提示词
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				10393 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+```
+=== saved 19, found HD7426 ===
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										10645 组 ID: root
+											10646 按钮 返回 Description: 返回
+											10647 文本 灰豆AI光影引擎
+											10648 文本 36,393
+											10649 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											10650 按钮 AI 照相馆 Description: AI 照相馆
+												10651 图形
+											10652 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											10653 文本 v7.7.1
+											10654 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											10655 按钮 English Description: English
+											10656 按钮 浅色 Description: 浅色
+											10657 按钮 设置 Description: 设置
+											10658 按钮 最小化 Description: 最小化
+											10659 按钮 最大化 Description: 最大化
+											10660 按钮 关闭 Description: 关闭
+											10661 主要
+												10662 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												10663 应用程序
+													10664 组
+														10665 node
+															10666 组
+																10667 按钮 雪山誓约 Description: 雪山誓约
+																10668 图形 结果图
+																10669 组
+																10670 组
+																10671 组
+													10672 图形 Mini Map Description: Mini Map
+													10673 组 ID: react-flow__aria-live-1
+												10674 按钮 生成历史 Description: 生成历史
+													10675 组 共 1 条生成记录
+												10676 按钮 添加节点 Description: 添加节点
+												10677 切换按钮 选择节点 Description: 选择节点
+												10678 切换按钮 拖动画布 Description: 拖动画布
+												10679 按钮 100% Description: 恢复 100%
+												10680 滑块 (settable, float) 画布缩放 Value: 100
+												10681 按钮 适配视图 Description: 适配视图
+												10682 按钮 撤销 Description: 撤销
+												10683 按钮 (disabled) 重做 Description: 重做
+												10684 按钮 快捷键指南 Description: 快捷键指南
+												10685 按钮 素材库 Description: 素材库
+												10686 按钮 提示词库 Description: 提示词库
+										10689 组
+										10690 标题 提示词库
+										10691 按钮
+										10692 文本 常用提示词库
+										10693 文本 选择模板后会自动创建 AI 生图节点，并把提示词、画幅和清晰度填好。
+										10694 文本 19
+										10695 文本 内置模板
+										10696 文本 我的提示词会保存在本机，支持新增、编辑、删除；点“使用到 AI 生图”会自动创建生图节点。
+										10697 按钮 新增我的提示词
+										10698 按钮 全部 19
+										10699 按钮 人设 2
+										10700 按钮 场景 3
+										10701 按钮 电商 2
+										10702 按钮 口播 4
+										10703 按钮 分镜 3
+										10704 按钮 视频 3
+										10705 按钮 风格 2
+										10706 编辑 (settable, string) 搜索标题 / 标签 / 提示词 Description: 搜索标题 / 标签 / 提示词 Value: HD7426
+										10781 文本 场景
+										10782 文本 16:9
+										10783 文本 我的
+										10784 文本 HD7426-创作中心无人空镜
+										10785 文本 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+										10786 按钮 使用到 AI 生图
+										10787 按钮 编辑提示词 Description: 编辑提示词
+										10788 按钮 复制提示词 Description: 复制提示词
+										10789 按钮 删除提示词 Description: 删除提示词
+										10754 按钮 关闭
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				10393 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+HD7426
+```
+=== new node before single generate; 0 refs / Image2 /16:9 /2K /x1 /36393 ===
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										10645 组 ID: root
+											10646 按钮 返回 Description: 返回
+											10647 文本 灰豆AI光影引擎
+											10648 文本 36,393
+											10649 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											10650 按钮 AI 照相馆 Description: AI 照相馆
+												10651 图形
+											10652 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											10653 文本 v7.7.1
+											10654 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											10655 按钮 English Description: English
+											10656 按钮 浅色 Description: 浅色
+											10657 按钮 设置 Description: 设置
+											10658 按钮 最小化 Description: 最小化
+											10659 按钮 最大化 Description: 最大化
+											10660 按钮 关闭 Description: 关闭
+											10661 主要
+												10662 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												10663 应用程序
+													10664 组
+														10665 node
+															10666 组
+																10667 按钮 雪山誓约 Description: 雪山誓约
+																10668 图形 结果图
+																10669 组
+																10670 组
+																10671 组
+														10790 node
+															10791 组
+																10792 按钮 HD7426-创作中心无人空镜 Description: HD7426-创作中心无人空镜
+																10793 按钮 参数 Description: 打开模型、画幅、清晰度、数量等生成参数
+																10794 按钮 折叠 Description: 折叠节点内容，保留简洁预览
+																10795 文本 创作工具
+																10796 按钮 模板与快捷词
+																10797 文本 输入 @ 可绑定参考素材
+																10798 文本 1. 描述画面
+																10799 文本 主体、动作、环境、光影、风格越明确，结果越稳定
+																10800 切换按钮 透明背景 Description: 生成透明底 PNG，适合 Logo、贴纸、电商素材和设计合成
+																10801 按钮 中译英 Description: 忠实翻译为英文，不扩写提示词
+																10802 按钮 3D摄影棚
+																10803 按钮 智能优化
+																10804 编辑 (settable, string) 例如：赛博朋克雨夜街头，年轻女主站在霓虹灯下，半身中景，湿润反光地面，电影感蓝紫光，细节清晰… Description: 例如：赛博朋克雨夜街头，年轻女主站在霓虹灯下，半身中景，湿润反光地面，电影感蓝紫光，细节清晰… Value: 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+																10805 文本 可输入 @ 插入参考图 / 素材库；空间不够时拖右下角放大
+																10806 按钮 灵感词库
+																10807 按钮 清空内容
+																10808 按钮 参考素材舱 角色 / 姿势 / 风格 / 场景 / 道具 0 展开 ›
+																10809 文本 3. 生成设置
+																10810 按钮 ⭐ ChatGPT Image 2 Description: 模型
+																10811 按钮 画幅 16:9 Description: 画幅
+																10812 按钮 清晰度 2K Description: 清晰度
+																10813 按钮 数量 ×1 Description: 数量
+																10814 按钮 高级设置 Description: 高级设置
+																10815 按钮 生成视频 Description: 用生成结果或参考图创建 AI 视频节点
+																10816 按钮 立即生成
+																10817 文本 ↘
+																10818 文本 拖右下角放大输入框
+																10819 按钮 关闭提示
+																10820 组
+																10821 组
+																10822 组
+													10672 图形 Mini Map Description: Mini Map
+													10673 组 ID: react-flow__aria-live-1
+												10674 按钮 生成历史 Description: 生成历史
+													10675 组 共 1 条生成记录
+												10676 按钮 添加节点 Description: 添加节点
+												10677 切换按钮 选择节点 Description: 选择节点
+												10678 切换按钮 拖动画布 Description: 拖动画布
+												10679 按钮 100% Description: 恢复 100%
+												10680 滑块 (settable, float) 画布缩放 Value: 100
+												10681 按钮 适配视图 Description: 适配视图
+												10682 按钮 撤销 Description: 撤销
+												10683 按钮 (disabled) 重做 Description: 重做
+												10684 按钮 快捷键指南 Description: 快捷键指南
+												10685 按钮 素材库 Description: 素材库
+												10686 按钮 提示词库 Description: 提示词库
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				10393 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+```
+=== collapsed note 44 chars ===
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										10645 组 ID: root
+											10646 按钮 返回 Description: 返回
+											10647 文本 灰豆AI光影引擎
+											10648 文本 36,393
+											10649 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											10650 按钮 AI 照相馆 Description: AI 照相馆
+												10651 图形
+											10652 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											10653 文本 v7.7.1
+											10654 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											10655 按钮 English Description: English
+											10656 按钮 浅色 Description: 浅色
+											10657 按钮 设置 Description: 设置
+											10658 按钮 最小化 Description: 最小化
+											10659 按钮 最大化 Description: 最大化
+											10660 按钮 关闭 Description: 关闭
+											10661 主要
+												10662 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												10663 应用程序
+													10664 组
+														10823 图形
+															10824 edge Edge from c10b325f-a81e-45c3-911f-e4af76205f7a to bfc209c1-ea3d-48d6-9d33-b47698900bc0
+														10665 node
+															10666 组
+																10667 按钮 雪山誓约 Description: 雪山誓约
+																10668 图形 结果图
+																10669 组
+																10670 组
+																10671 组
+														10790 node
+															10791 组
+																10792 按钮 HD7426-创作中心无人空镜 Description: HD7426-创作中心无人空镜
+																10793 按钮 参数 Description: 打开模型、画幅、清晰度、数量等生成参数
+																10794 按钮 展开 Description: 展开节点内容
+																10833 文本 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+																10834 编辑 (settable, string) 写备注：这个节点用途、镜头编号、待修改点... Description: 写备注：这个节点用途、镜头编号、待修改点... Value: HD7426 备注持久化测试。创作中心→手动存提示词库→实际生成；本备注不是模型提示词。
+																10835 文本 折叠备注只用于整理画布，不会发送给模型
+																10836 文本 44 字
+																10820 组
+																10821 组
+																10822 组
+														10825 node
+															10826 组
+																10827 按钮 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。 Description: 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+																10828 文本 视觉核心正在构筑
+																10829 组 能量蓄力中
+																10830 组
+																10831 组
+																10832 组
+													10672 图形 Mini Map Description: Mini Map
+													10673 组 ID: react-flow__aria-live-1
+												10674 按钮 生成历史 Description: 生成历史
+													10675 组 共 1 条生成记录
+												10676 按钮 添加节点 Description: 添加节点
+												10677 切换按钮 选择节点 Description: 选择节点
+												10678 切换按钮 拖动画布 Description: 拖动画布
+												10679 按钮 100% Description: 恢复 100%
+												10680 滑块 (settable, float) 画布缩放 Value: 100
+												10681 按钮 适配视图 Description: 适配视图
+												10682 按钮 撤销 Description: 撤销
+												10683 按钮 (disabled) 重做 Description: 重做
+												10684 按钮 快捷键指南 Description: 快捷键指南
+												10685 按钮 素材库 Description: 素材库
+												10686 按钮 提示词库 Description: 提示词库
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				10393 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+HD7426 备注持久化测试。创作中心→手动存提示词库→实际生成；本备注不是模型提示词。
+```
+=== expanded prompt unchanged ===
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										10645 组 ID: root
+											10646 按钮 返回 Description: 返回
+											10647 文本 灰豆AI光影引擎
+											10648 文本 36,393
+											10649 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											10650 按钮 AI 照相馆 Description: AI 照相馆
+												10651 图形
+											10652 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											10653 文本 v7.7.1
+											10654 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											10655 按钮 English Description: English
+											10656 按钮 浅色 Description: 浅色
+											10657 按钮 设置 Description: 设置
+											10658 按钮 最小化 Description: 最小化
+											10659 按钮 最大化 Description: 最大化
+											10660 按钮 关闭 Description: 关闭
+											10661 主要
+												10662 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												10663 应用程序
+													10664 组
+														10823 图形
+															10824 edge Edge from c10b325f-a81e-45c3-911f-e4af76205f7a to bfc209c1-ea3d-48d6-9d33-b47698900bc0
+														10665 node
+															10666 组
+																10667 按钮 雪山誓约 Description: 雪山誓约
+																10668 图形 结果图
+																10669 组
+																10670 组
+																10671 组
+														10790 node
+															10791 组
+																10792 按钮 HD7426-创作中心无人空镜 Description: HD7426-创作中心无人空镜
+																10793 按钮 参数 Description: 打开模型、画幅、清晰度、数量等生成参数
+																10794 按钮 折叠 Description: 折叠节点内容，保留简洁预览
+																10837 文本 创作工具
+																10838 按钮 模板与快捷词
+																10839 文本 输入 @ 可绑定参考素材
+																10840 文本 1. 描述画面
+																10841 文本 主体、动作、环境、光影、风格越明确，结果越稳定
+																10842 切换按钮 透明背景 Description: 生成透明底 PNG，适合 Logo、贴纸、电商素材和设计合成
+																10843 按钮 中译英 Description: 忠实翻译为英文，不扩写提示词
+																10844 按钮 3D摄影棚
+																10845 按钮 智能优化
+																10846 编辑 (settable, string) 例如：赛博朋克雨夜街头，年轻女主站在霓虹灯下，半身中景，湿润反光地面，电影感蓝紫光，细节清晰… Description: 例如：赛博朋克雨夜街头，年轻女主站在霓虹灯下，半身中景，湿润反光地面，电影感蓝紫光，细节清晰… Value: 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+																10847 文本 可输入 @ 插入参考图 / 素材库；空间不够时拖右下角放大
+																10848 按钮 灵感词库
+																10849 按钮 清空内容
+																10850 按钮 参考素材舱 角色 / 姿势 / 风格 / 场景 / 道具 0 展开 ›
+																10851 文本 3. 生成设置
+																10852 按钮 ⭐ ChatGPT Image 2 Description: 模型
+																10853 按钮 画幅 16:9 Description: 画幅
+																10854 按钮 清晰度 2K Description: 清晰度
+																10855 按钮 数量 ×1 Description: 数量
+																10856 按钮 高级设置 Description: 高级设置
+																10857 按钮 生成视频 Description: 用生成结果或参考图创建 AI 视频节点
+																10858 按钮 立即生成
+																10859 文本 ↘
+																10860 文本 拖右下角放大输入框
+																10861 按钮 关闭提示
+																10820 组
+																10821 组
+																10822 组
+														10825 node
+															10826 组
+																10827 按钮 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。 Description: 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+																10828 文本 视觉核心正在构筑
+																10829 组 能量蓄力中
+																10830 组
+																10831 组
+																10832 组
+													10672 图形 Mini Map Description: Mini Map
+													10673 组 ID: react-flow__aria-live-1
+												10674 按钮 生成历史 Description: 生成历史
+													10675 组 共 1 条生成记录
+												10676 按钮 添加节点 Description: 添加节点
+												10677 切换按钮 选择节点 Description: 选择节点
+												10678 切换按钮 拖动画布 Description: 拖动画布
+												10679 按钮 100% Description: 恢复 100%
+												10680 滑块 (settable, float) 画布缩放 Value: 100
+												10681 按钮 适配视图 Description: 适配视图
+												10682 按钮 撤销 Description: 撤销
+												10683 按钮 (disabled) 重做 Description: 重做
+												10684 按钮 快捷键指南 Description: 快捷键指南
+												10685 按钮 素材库 Description: 素材库
+												10686 按钮 提示词库 Description: 提示词库
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				10393 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+```
+=== copied prompt pasted into description for verification ===
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										10645 组 ID: root
+											10646 按钮 返回 Description: 返回
+											10647 文本 灰豆AI光影引擎
+											10648 文本 36,393
+											10649 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											10650 按钮 AI 照相馆 Description: AI 照相馆
+												10651 图形
+											10652 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											10653 文本 v7.7.1
+											10654 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											10655 按钮 English Description: English
+											10656 按钮 浅色 Description: 浅色
+											10657 按钮 设置 Description: 设置
+											10658 按钮 最小化 Description: 最小化
+											10659 按钮 最大化 Description: 最大化
+											10660 按钮 关闭 Description: 关闭
+											10661 主要
+												10662 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												10663 应用程序
+													10664 组
+														10823 图形
+															10824 edge Edge from c10b325f-a81e-45c3-911f-e4af76205f7a to bfc209c1-ea3d-48d6-9d33-b47698900bc0
+														10665 node
+															10666 组
+																10667 按钮 雪山誓约 Description: 雪山誓约
+																10668 图形 结果图
+																10669 组
+																10670 组
+																10671 组
+														10790 node
+															10791 组
+																10792 按钮 HD7426-创作中心无人空镜 Description: HD7426-创作中心无人空镜
+																10793 按钮 参数 Description: 打开模型、画幅、清晰度、数量等生成参数
+																10794 按钮 折叠 Description: 折叠节点内容，保留简洁预览
+																10837 文本 创作工具
+																10838 按钮 模板与快捷词
+																10839 文本 输入 @ 可绑定参考素材
+																10840 文本 1. 描述画面
+																10841 文本 主体、动作、环境、光影、风格越明确，结果越稳定
+																10842 切换按钮 透明背景 Description: 生成透明底 PNG，适合 Logo、贴纸、电商素材和设计合成
+																10843 按钮 中译英 Description: 忠实翻译为英文，不扩写提示词
+																10844 按钮 3D摄影棚
+																10845 按钮 智能优化
+																10846 编辑 (settable, string) 例如：赛博朋克雨夜街头，年轻女主站在霓虹灯下，半身中景，湿润反光地面，电影感蓝紫光，细节清晰… Description: 例如：赛博朋克雨夜街头，年轻女主站在霓虹灯下，半身中景，湿润反光地面，电影感蓝紫光，细节清晰… Value: 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+																10847 文本 可输入 @ 插入参考图 / 素材库；空间不够时拖右下角放大
+																10848 按钮 灵感词库
+																10849 按钮 清空内容
+																10850 按钮 参考素材舱 角色 / 姿势 / 风格 / 场景 / 道具 0 展开 ›
+																10851 文本 3. 生成设置
+																10852 按钮 ⭐ ChatGPT Image 2 Description: 模型
+																10853 按钮 画幅 16:9 Description: 画幅
+																10854 按钮 清晰度 2K Description: 清晰度
+																10855 按钮 数量 ×1 Description: 数量
+																10856 按钮 高级设置 Description: 高级设置
+																10857 按钮 生成视频 Description: 用生成结果或参考图创建 AI 视频节点
+																10858 按钮 立即生成
+																10859 文本 ↘
+																10860 文本 拖右下角放大输入框
+																10861 按钮 关闭提示
+																10820 组
+																10821 组
+																10822 组
+														10825 node
+															10826 组
+																10827 按钮 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。 Description: 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+																10828 文本 视觉核心正在构筑
+																10829 组 能量蓄力中
+																10830 组
+																10831 组
+																10832 组
+													10672 图形 Mini Map Description: Mini Map
+													10673 组 ID: react-flow__aria-live-1
+												10674 按钮 生成历史 Description: 生成历史
+													10675 组 共 1 条生成记录
+												10676 按钮 添加节点 Description: 添加节点
+												10677 切换按钮 选择节点 Description: 选择节点
+												10678 切换按钮 拖动画布 Description: 拖动画布
+												10679 按钮 100% Description: 恢复 100%
+												10680 滑块 (settable, float) 画布缩放 Value: 100
+												10681 按钮 适配视图 Description: 适配视图
+												10682 按钮 撤销 Description: 撤销
+												10683 按钮 (disabled) 重做 Description: 重做
+												10684 按钮 快捷键指南 Description: 快捷键指南
+												10685 按钮 素材库 Description: 素材库
+												10686 按钮 提示词库 Description: 提示词库
+										10862 组
+										10863 标题 提示词库
+										10864 按钮
+										10865 文本 常用提示词库
+										10866 文本 选择模板后会自动创建 AI 生图节点，并把提示词、画幅和清晰度填好。
+										10867 文本 19
+										10868 文本 内置模板
+										10869 文本 我的提示词会保存在本机，支持新增、编辑、删除；点“使用到 AI 生图”会自动创建生图节点。
+										10870 按钮 新增我的提示词
+										10871 按钮 全部 19
+										10872 按钮 人设 2
+										10873 按钮 场景 3
+										10874 按钮 电商 2
+										10875 按钮 口播 4
+										10876 按钮 分镜 3
+										10877 按钮 视频 3
+										10878 按钮 风格 2
+										10879 编辑 (settable, string) 搜索标题 / 标签 / 提示词 Description: 搜索标题 / 标签 / 提示词 Value: HD7426
+										10880 文本 场景
+										10881 文本 16:9
+										10882 文本 我的
+										10883 文本 HD7426-创作中心无人空镜
+										10884 文本 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+										10885 按钮 使用到 AI 生图
+										10886 按钮 编辑提示词 Description: 编辑提示词
+										10887 按钮 复制提示词 Description: 复制提示词
+										10888 按钮 删除提示词 Description: 删除提示词
+										10889 按钮 关闭
+										10890 组
+										10891 标题 编辑提示词
+										10892 按钮
+										10893 文本 把好用的提示词沉淀下来
+										10894 文本 这里保存的是本机提示词库。标题和正文必填，标签用逗号分隔，后续搜索和分类都会用到。
+										10895 文本 标题
+										10896 编辑 (settable, string) 标题 Description: 例如：真人短剧主角 Value: HD7426-创作中心无人空镜
+										10897 文本 简介/用途
+										10898 编辑 (settable, string) 简介/用途 Description: 例如：统一人物形象，适合连续出图 Value: 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+										10899 文本 分类
+										10900 组合框 (settable, string) 分类 Value: 场景
+										10901 文本 画幅
+										10902 组合框 (settable, string) 画幅 Value: 16:9
+										10903 文本 标签
+										10904 编辑 (settable, string) 标签 Description: 人物，三视图，一致性
+										10905 文本 提示词正文
+										10906 编辑 (settable, string) 提示词正文 Description: 把完整提示词写在这里。建议包含主体、动作、镜头、光线、风格、限制项。 Value: 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+										10907 按钮 取消
+										10908 按钮 保存到我的提示词
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				10393 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+```
+=== edit saved; copy paste exact; total remains19 ===
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										10645 组 ID: root
+											10646 按钮 返回 Description: 返回
+											10647 文本 灰豆AI光影引擎
+											10648 文本 36,393
+											10649 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											10650 按钮 AI 照相馆 Description: AI 照相馆
+												10651 图形
+											10652 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											10653 文本 v7.7.1
+											10654 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											10655 按钮 English Description: English
+											10656 按钮 浅色 Description: 浅色
+											10657 按钮 设置 Description: 设置
+											10658 按钮 最小化 Description: 最小化
+											10659 按钮 最大化 Description: 最大化
+											10660 按钮 关闭 Description: 关闭
+											10661 主要
+												10662 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												10663 应用程序
+													10664 组
+														10823 图形
+															10824 edge Edge from c10b325f-a81e-45c3-911f-e4af76205f7a to bfc209c1-ea3d-48d6-9d33-b47698900bc0
+														10665 node
+															10666 组
+																10667 按钮 雪山誓约 Description: 雪山誓约
+																10668 图形 结果图
+																10669 组
+																10670 组
+																10671 组
+														10790 node
+															10791 组
+																10792 按钮 HD7426-创作中心无人空镜 Description: HD7426-创作中心无人空镜
+																10793 按钮 参数 Description: 打开模型、画幅、清晰度、数量等生成参数
+																10794 按钮 折叠 Description: 折叠节点内容，保留简洁预览
+																10837 文本 创作工具
+																10838 按钮 模板与快捷词
+																10839 文本 输入 @ 可绑定参考素材
+																10840 文本 1. 描述画面
+																10841 文本 主体、动作、环境、光影、风格越明确，结果越稳定
+																10842 切换按钮 透明背景 Description: 生成透明底 PNG，适合 Logo、贴纸、电商素材和设计合成
+																10843 按钮 中译英 Description: 忠实翻译为英文，不扩写提示词
+																10844 按钮 3D摄影棚
+																10845 按钮 智能优化
+																10846 编辑 (settable, string) 例如：赛博朋克雨夜街头，年轻女主站在霓虹灯下，半身中景，湿润反光地面，电影感蓝紫光，细节清晰… Description: 例如：赛博朋克雨夜街头，年轻女主站在霓虹灯下，半身中景，湿润反光地面，电影感蓝紫光，细节清晰… Value: 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+																10847 文本 可输入 @ 插入参考图 / 素材库；空间不够时拖右下角放大
+																10848 按钮 灵感词库
+																10849 按钮 清空内容
+																10850 按钮 参考素材舱 角色 / 姿势 / 风格 / 场景 / 道具 0 展开 ›
+																10851 文本 3. 生成设置
+																10852 按钮 ⭐ ChatGPT Image 2 Description: 模型
+																10853 按钮 画幅 16:9 Description: 画幅
+																10854 按钮 清晰度 2K Description: 清晰度
+																10855 按钮 数量 ×1 Description: 数量
+																10856 按钮 高级设置 Description: 高级设置
+																10857 按钮 生成视频 Description: 用生成结果或参考图创建 AI 视频节点
+																10858 按钮 立即生成
+																10859 文本 ↘
+																10860 文本 拖右下角放大输入框
+																10861 按钮 关闭提示
+																10820 组
+																10821 组
+																10822 组
+														10825 node
+															10826 组
+																10827 按钮 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。 Description: 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+																10828 文本 视觉核心正在构筑
+																10829 组 能量蓄力中
+																10830 组
+																10831 组
+																10832 组
+													10672 图形 Mini Map Description: Mini Map
+													10673 组 ID: react-flow__aria-live-1
+												10674 按钮 生成历史 Description: 生成历史
+													10675 组 共 1 条生成记录
+												10676 按钮 添加节点 Description: 添加节点
+												10677 切换按钮 选择节点 Description: 选择节点
+												10678 切换按钮 拖动画布 Description: 拖动画布
+												10679 按钮 100% Description: 恢复 100%
+												10680 滑块 (settable, float) 画布缩放 Value: 100
+												10681 按钮 适配视图 Description: 适配视图
+												10682 按钮 撤销 Description: 撤销
+												10683 按钮 (disabled) 重做 Description: 重做
+												10684 按钮 快捷键指南 Description: 快捷键指南
+												10685 按钮 素材库 Description: 素材库
+												10686 按钮 提示词库 Description: 提示词库
+										10862 组
+										10863 标题 提示词库
+										10864 按钮
+										10865 文本 常用提示词库
+										10866 文本 选择模板后会自动创建 AI 生图节点，并把提示词、画幅和清晰度填好。
+										10867 文本 19
+										10868 文本 内置模板
+										10869 文本 我的提示词会保存在本机，支持新增、编辑、删除；点“使用到 AI 生图”会自动创建生图节点。
+										10870 按钮 新增我的提示词
+										10871 按钮 全部 19
+										10872 按钮 人设 2
+										10873 按钮 场景 3
+										10874 按钮 电商 2
+										10875 按钮 口播 4
+										10876 按钮 分镜 3
+										10877 按钮 视频 3
+										10878 按钮 风格 2
+										10879 编辑 (settable, string) 搜索标题 / 标签 / 提示词 Description: 搜索标题 / 标签 / 提示词 Value: HD7426
+										10880 文本 场景
+										10881 文本 16:9
+										10882 文本 我的
+										10883 文本 HD7426-创作中心无人空镜
+										10909 文本 HD7426编辑验证：创作中心返回文本，手动保存后复用。
+										10884 文本 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+										10885 按钮 使用到 AI 生图
+										10886 按钮 编辑提示词 Description: 编辑提示词
+										10887 按钮 复制提示词 Description: 复制提示词
+										10888 按钮 删除提示词 Description: 删除提示词
+										10889 按钮 关闭
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				10393 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+HD7426
+```
+=== switching to old six-node project: new HD7426 template and edit persist globally (total19); earlier AI流程测试 absent ===
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										10645 组 ID: root
+											10984 按钮 返回 Description: 返回
+											10647 文本 灰豆AI光影引擎
+											10648 文本 36,377
+											10649 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											10985 按钮 AI 照相馆 Description: AI 照相馆
+												10986 图形
+											10652 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											10653 文本 v7.7.1
+											10654 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											10655 按钮 English Description: English
+											10656 按钮 浅色 Description: 浅色
+											10657 按钮 设置 Description: 设置
+											10658 按钮 最小化 Description: 最小化
+											10659 按钮 最大化 Description: 最大化
+											10660 按钮 关闭 Description: 关闭
+											10661 主要
+												10987 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												10988 应用程序
+													10989 组
+														10990 图形
+															10991 edge Edge from 6aa749e1-47c4-4856-9a66-10a193cbfff4 to 7cdad541-fe67-4fd4-9fe8-b0871f913afd
+														10992 图形
+															10993 edge Edge from 6aa749e1-47c4-4856-9a66-10a193cbfff4 to 0ef293b1-cac4-4afb-9024-33e4668dd433
+														10994 图形
+															10995 edge Edge from 6aa749e1-47c4-4856-9a66-10a193cbfff4 to a739d4d6-9fbf-44e4-ae77-2413e3609f87
+														10996 图形
+															10997 edge Edge from 6aa749e1-47c4-4856-9a66-10a193cbfff4 to 9ce6c8c9-e3ef-461f-a17a-75506a7a067d
+														10998 node
+															10999 组
+																11000 按钮 都市光影 · 男士 Description: 都市光影 · 男士
+																11001 图形 结果图
+																11002 组
+																11003 组
+																11004 组
+														11005 node
+															11006 组
+																11007 按钮 向右旋转 90° Description: 向右旋转 90°
+																11008 图形 结果图
+																11009 组
+																11010 组
+																11011 组
+														11012 node
+															11013 组
+																11014 按钮 裁剪结果 Description: 裁剪结果
+																11015 图形 结果图
+																11016 组
+																11017 组
+																11018 组
+														11019 node
+															11020 组
+																11021 按钮 切割结果 Description: 切割结果
+																11022 图形 Frame 1
+																11023 文本 01
+																11024 按钮 单独编辑此格 Description: 单独编辑此格
+																11025 按钮 从输入图片替换 Description: 从输入图片替换
+																11093 编辑 (settable, string) 填写分镜描述… Description: 填写分镜描述…
+																11026 图形 Frame 2
+																11027 文本 02
+																11028 按钮 单独编辑此格 Description: 单独编辑此格
+																11029 按钮 从输入图片替换 Description: 从输入图片替换
+																11094 编辑 (settable, string) 填写分镜描述… Description: 填写分镜描述…
+																11030 图形 Frame 3
+																11031 文本 03
+																11032 按钮 单独编辑此格 Description: 单独编辑此格
+																11033 按钮 从输入图片替换 Description: 从输入图片替换
+																11095 编辑 (settable, string) 填写分镜描述… Description: 填写分镜描述…
+																11034 图形 Frame 4
+																11035 文本 04
+																11036 按钮 单独编辑此格 Description: 单独编辑此格
+																11037 按钮 从输入图片替换 Description: 从输入图片替换
+																11096 编辑 (settable, string) 填写分镜描述… Description: 填写分镜描述…
+																11038 按钮 导出设置
+																11039 文本 2
+																11040 文本 ×
+																11041 文本 2
+																11042 文本 ·
+																11043 文本 4
+																11044 文本 格
+																11045 按钮 打包下载 Description: 打包下载
+																11046 按钮 合并分镜 Description: 合并分镜
+																11047 组
+																11048 组
+																11049 组
+														11050 node
+															11051 组
+																11052 按钮 标注结果 Description: 标注结果
+																11053 图形 结果图
+																11054 组
+																11055 组
+																11056 组
+														11057 node
+															11058 组
+																11059 按钮 都市光影 · 男士 Description: 都市光影 · 男士
+																11060 图形 结果图
+																11061 组
+																11062 组
+																11063 组
+														11064 按钮 AI 修图
+															11065 图形
+														11066 按钮 重命名
+															11067 图形
+														11068 按钮 复制图片
+														11069 按钮 下载
+														11070 按钮 素材库
+															11071 图形
+															11072 组
+														11073 按钮 删除
+														11074 按钮 更多
+															11075 图形
+														11076 按钮 连接 · 4
+													11077 图形 Mini Map Description: Mini Map
+													11078 组 ID: react-flow__aria-live-1
+												11079 按钮 生成历史 Description: 生成历史
+													11080 组 共 5 条生成记录
+												11081 按钮 添加节点 Description: 添加节点
+												11082 切换按钮 选择节点 Description: 选择节点
+												11083 切换按钮 拖动画布 Description: 拖动画布
+												11084 按钮 145% Description: 恢复 100%
+												11085 滑块 (settable, float) 画布缩放 Value: 145
+												11086 按钮 适配视图 Description: 适配视图
+												11087 按钮 撤销 Description: 撤销
+												11088 按钮 (disabled) 重做 Description: 重做
+												11089 按钮 快捷键指南 Description: 快捷键指南
+												11090 按钮 素材库 Description: 素材库
+												11091 按钮 提示词库 Description: 提示词库
+										11100 组
+										11101 标题 提示词库
+										11102 按钮
+										11103 文本 常用提示词库
+										11104 文本 选择模板后会自动创建 AI 生图节点，并把提示词、画幅和清晰度填好。
+										11105 文本 19
+										11106 文本 内置模板
+										11107 文本 我的提示词会保存在本机，支持新增、编辑、删除；点“使用到 AI 生图”会自动创建生图节点。
+										11108 按钮 新增我的提示词
+										11109 按钮 全部 19
+										11110 按钮 人设 2
+										11111 按钮 场景 3
+										11112 按钮 电商 2
+										11113 按钮 口播 4
+										11114 按钮 分镜 3
+										11115 按钮 视频 3
+										11116 按钮 风格 2
+										11117 编辑 (settable, string) 搜索标题 / 标签 / 提示词 Description: 搜索标题 / 标签 / 提示词
+										11118 文本 场景
+										11119 文本 16:9
+										11120 文本 我的
+										11121 文本 HD7426-创作中心无人空镜
+										11122 文本 HD7426编辑验证：创作中心返回文本，手动保存后复用。
+										11123 文本 清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。
+										11124 按钮 使用到 AI 生图
+										11125 按钮 编辑提示词 Description: 编辑提示词
+										11126 按钮 复制提示词 Description: 复制提示词
+										11127 按钮 删除提示词 Description: 删除提示词
+										11128 文本 人设
+										11129 文本 16:9
+										11130 文本 人设三视图
+										11131 文本 角色设定、短剧人物、统一形象
+										11132 文本 角色设定三视图。请生成同一个角色的正面、侧面、背面三视图，角色外貌、发型、服装、道具和色彩完全一致。画面为干净设定稿排版，白色或浅灰背景，细节清晰，比例准确，适合后续分镜和视频保持角色一致。不要添加乱码文字，不要改变角色身份。
+										11133 文本 角色
+										11134 文本 三视图
+										11135 文本 一致性
+										11136 按钮 使用到 AI 生图
+										11137 按钮 复制提示词 Description: 复制提示词
+										11138 文本 人设
+										11139 文本 9:16
+										11140 文本 真人短剧主角
+										11141 文本 适合网剧、漫剧、真人风人物
+										11142 文本 真人短剧主角定妆照。年轻主角面对镜头，五官清晰，气质有辨识度，服装符合现代短剧角色设定，电影级布光，皮肤真实自然，背景简洁但有故事氛围。半身构图，眼神有情绪，适合做角色固定形象参考。不要过度磨皮，不要网红脸，不要添加文字。
+										11143 文本 真人
+										11144 文本 短剧
+										11145 文本 主角
+										11146 按钮 使用到 AI 生图
+										11147 按钮 复制提示词 Description: 复制提示词
+										11148 文本 场景
+										11149 文本 16:9
+										11150 文本 电影感街景
+										11151 文本 夜景、雨夜、都市短剧氛围
+										11152 文本 电影感都市街景。雨后夜晚的城市街道，霓虹灯和路灯反射在湿润地面上，远处有车灯和轻微雾气，画面有纵深和故事感。镜头为中远景，构图稳定，色彩高级，适合作为短剧或漫剧场景背景。不要出现乱码文字和多余招牌特写。
+										11153 文本 场景
+										11154 文本 16:9
+										11155 文本 高级室内场景
+										11156 文本 客厅、办公室、直播间背景
+										11157 文本 高级室内场景。现代轻奢客厅/办公室，空间干净，层次丰富，柔和自然光从侧面进入，家具材质真实，背景适合人物口播、产品展示或剧情对话。画面构图留出人物站位区域，细节高级但不杂乱，不要添加文字。
+										11158 文本 电商
+										11159 文本 1:1
+										11160 文本 电商高级主图
+										11161 文本 商品主图、海报、种草封面
+										11162 文本 电商商品高级主图。请严格保留参考商品的外形、结构、材质、品牌位置和颜色比例，把商品放入高级商业摄影场景中。画面干净，主体居中，光影真实，边缘清晰，质感高级，适合淘宝、抖音、小红书主图。不要改变商品主体，不要添加多余文字。
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				10393 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+```

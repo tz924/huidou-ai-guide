@@ -1,0 +1,91 @@
+{
+  "source": "evidence/media/分镜六格-请求3行2列却返回2行3列.png",
+  "output": "evidence/media/修图-圈选涂抹-关闭选区限制.png",
+  "bytes": 2357832,
+  "sha256": "910c2c015e1d8a48e48ce78500511d77f6f561a6f8de9e4ea567445a8802d100",
+  "source_sha256": "c1b83fcd4f0117314ef369f26b586dd33e84ce426204d64fe184fce60085bbab",
+  "size": [
+    1403,
+    1121
+  ],
+  "changed_pixels": 1231287,
+  "changed_bbox_xyxy_exclusive": [
+    0,
+    0,
+    1205,
+    1121
+  ],
+  "regions": [
+    {
+      "row": 1,
+      "col": 1,
+      "changed_pixels": 237521
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "changed_pixels": 238242
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "changed_pixels": 138422
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "changed_pixels": 244911
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "changed_pixels": 234295
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "changed_pixels": 137896
+    }
+  ],
+  "parameters": {
+    "ellipse_ui_bbox": [
+      103,
+      290,
+      327,
+      548
+    ],
+    "brush_ui_segment": [
+      448,
+      360,
+      611,
+      486
+    ],
+    "eraser_ui_segment": [
+      527,
+      380,
+      527,
+      449
+    ],
+    "image_ui_origin": [
+      44,
+      208
+    ],
+    "image_display_width": 989,
+    "mask_only": false,
+    "model": "ChatGPT Image 2",
+    "quality": "2K",
+    "balance_before": 36409,
+    "balance_after": 36393,
+    "submissions": 1
+  },
+  "observed": "Full PNG visually inspected: first cube is blue, other five stay red and hands remain. Other areas are not pixel-identical. Saved independent canvas node (button 已保存) and downloaded PNG; mask-only was disabled.",
+  "rgb_changed_pixels": 1231287,
+  "rgb_changed_bbox_xyxy_exclusive": [
+    0,
+    0,
+    1205,
+    1121
+  ],
+  "alpha_changed_pixels": 0,
+  "alpha_changed_bbox_xyxy_exclusive": null
+}

@@ -1,0 +1,145 @@
+{
+  "method": "Pillow RGB pixel comparison; official Huidou export package, never app database",
+  "files": [
+    {
+      "path": "evidence/media/VR360-十二宫格参考.jpg",
+      "bytes": 246275,
+      "sha256": "283bddf64cf12033532b232a19ad026871e13c43790e4e61d6cf4d03ffe29c8f",
+      "size": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "evidence/media/VR360-左转后垂直翻转.png",
+      "bytes": 1803083,
+      "sha256": "0adcbc5919ee635a8e92ec3deb88bdb9f9a138d6b69ba7d9a99571dffe41566f",
+      "size": [
+        1724,
+        2760
+      ]
+    },
+    {
+      "path": "evidence/media/VR360-当前视角-FOV104.jpg",
+      "bytes": 378396,
+      "sha256": "41783083cc51a0aff516fa71b1b606638cd9872b0d14461571bc47d00f8a2f1e",
+      "size": [
+        2760,
+        1724
+      ]
+    },
+    {
+      "path": "evidence/media/VR360-经纬校准输入-程序生成.png",
+      "bytes": 188746,
+      "sha256": "7356c6c1ca69d0b2606a30ff99cbd0cca82e224e3fc89e1dc581dff25c9cbf6f",
+      "size": [
+        2048,
+        1024
+      ]
+    },
+    {
+      "path": "evidence/media/VR360-视角左转90度.png",
+      "bytes": 1806335,
+      "sha256": "ed571efc7b41bc3bcbff29222cd7ec192b27e2f097fdf90cad9ef40afbc6d4c3",
+      "size": [
+        1724,
+        2760
+      ]
+    }
+  ],
+  "vertical_flip_pixel_exact": true,
+  "left_rotation_vs_downloaded_jpeg": {
+    "mean_absolute_channel_error": [
+      0.028782701166817984,
+      0.020712280170819462,
+      0.03984036114193483
+    ],
+    "extrema": [
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    "note": "JPEG decode in browser and Pillow may differ slightly; full-size orientation also inspected"
+  },
+  "project_export": {
+    "path": "work/7977/子流程全量补测-20261018_1792388044470.huidou-project",
+    "json_sha256": "847c7d4fe56934b17bbeaf65af06e8029b88290a75c77391c299f80030539a84",
+    "node_count": 6,
+    "nodes": [
+      {
+        "type": "vr360Node",
+        "displayName": "VR360 全景",
+        "vr_background_is_null": true
+      },
+      {
+        "type": "uploadNode",
+        "displayName": "VR360-12宫格参考"
+      },
+      {
+        "type": "uploadNode",
+        "displayName": "VR视角-104度-重命名验证"
+      },
+      {
+        "type": "uploadNode",
+        "displayName": "image.png"
+      },
+      {
+        "type": "uploadNode",
+        "displayName": "image.png"
+      },
+      {
+        "type": "exportImageNode",
+        "displayName": "向左旋转 90°"
+      }
+    ],
+    "image_files": [
+      {
+        "path": "work/7977/子流程全量补测-20261018_1792388044470.huidou-project/images/0c934b0b35244f88a84d6af41c335eb6.png",
+        "bytes": 1369852,
+        "sha256": "acafbd2a643d8e39cbb90fad92d6d7282e6b0b69d5347ef60a5d3a76f33a7c22",
+        "size": [
+          2760,
+          1724
+        ]
+      },
+      {
+        "path": "work/7977/子流程全量补测-20261018_1792388044470.huidou-project/images/19876dfce581bf5e4550147551fbd708.png",
+        "bytes": 1806335,
+        "sha256": "ed571efc7b41bc3bcbff29222cd7ec192b27e2f097fdf90cad9ef40afbc6d4c3",
+        "size": [
+          1724,
+          2760
+        ]
+      },
+      {
+        "path": "work/7977/子流程全量补测-20261018_1792388044470.huidou-project/images/d677b5c2bb171ebe0f6358e7ef860670.png",
+        "bytes": 160108,
+        "sha256": "23edf958f8eb04438fd6f68d8a9d8d0fdd65396a17837a9ffcaa62fef662b04c",
+        "size": [
+          320,
+          512
+        ]
+      },
+      {
+        "path": "work/7977/子流程全量补测-20261018_1792388044470.huidou-project/images/dc3fbb96af4754d634913ff60aef9b1e.png",
+        "bytes": 157246,
+        "sha256": "54b4b65f7fd45e4390d45a0d27b2928a892d5e44d2dfa3946f21345801d99393",
+        "size": [
+          512,
+          320
+        ]
+      }
+    ],
+    "missingImages": [],
+    "note": "Raw package remains ignored; no array-index reference mapping assumed."
+  }
+}

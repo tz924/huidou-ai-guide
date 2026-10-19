@@ -1,0 +1,123 @@
+{
+  "request": {
+    "rows": 3,
+    "cols": 2,
+    "ratio_mode": "single-cell 1:1, whole 2:3",
+    "model": "ChatGPT Image 2",
+    "quality": "2K",
+    "aspect": "auto",
+    "reference": 1,
+    "filled_cells": 3,
+    "blank_cells": 3,
+    "submissions": 1,
+    "balance_before": 36417,
+    "balance_after": 36409
+  },
+  "actual": {
+    "rows": 2,
+    "cols": 3,
+    "image_size": [
+      1403,
+      1121
+    ],
+    "sha256": "c1b83fcd4f0117314ef369f26b586dd33e84ce426204d64fe184fce60085bbab",
+    "bytes": 2039750,
+    "observed": "Six red cubes, hands in cells 4 and 6. No visible text. Wrong grid orientation; blank inference adds human hands.",
+    "metadata": {
+      "StoryboardCopilotMetadata": "{\"gridRows\":3,\"gridCols\":2,\"frameNotes\":[\"正面中景，纯白背景，同一个红色木制立方体完整居中，无人无字。\",\"同一个红色木块，镜头从右侧45度看，完整全景，纯白背景，无人无字。\",\"俯视同一个红色木块，保留木纹和形状，纯白背景，无人无字。\",\"\",\"\",\"\"]}"
+    },
+    "notes": "PNG StoryboardCopilotMetadata retains requested gridRows3/gridCols2 even though pixels are 2x3. frameNotes first cell has no @ tag. Inferred cells add hands; do not assume blank cells inherit no-people wording."
+  },
+  "cut": {
+    "rows": 2,
+    "cols": 3,
+    "gap_percent": 0.5,
+    "files": [
+      {
+        "path": "evidence/media/分镜六格-独立格-01.png",
+        "download_name": "Codex测试_01_正面中景，纯白背景，同一个红色木制立方体完整居中，无人无字。.png",
+        "size": [
+          465,
+          558
+        ],
+        "bytes": 277034,
+        "sha256": "36f16514ad5c13954851747c3fad3ae9a709fc185e62123c24d3baba6c6dca4c",
+        "metadata": {}
+      },
+      {
+        "path": "evidence/media/分镜六格-独立格-02.png",
+        "download_name": "Codex测试_02_同一个红色木块，镜头从右侧45度看，完整全景，纯白背景，无人无字。.png",
+        "size": [
+          461,
+          558
+        ],
+        "bytes": 285937,
+        "sha256": "ce766174e88589e80391243a171f8533b55fcdc7649b05fe2b3d1cce7654f290",
+        "metadata": {}
+      },
+      {
+        "path": "evidence/media/分镜六格-独立格-03.png",
+        "download_name": "Codex测试_03_俯视同一个红色木块，保留木纹和形状，纯白背景，无人无字。.png",
+        "size": [
+          465,
+          558
+        ],
+        "bytes": 291083,
+        "sha256": "a1d153c7a312af17fef85168db3982c4d815c796459f248489a4e00919f4f242",
+        "metadata": {}
+      },
+      {
+        "path": "evidence/media/分镜六格-独立格-04.png",
+        "download_name": "Codex测试_04.png",
+        "size": [
+          465,
+          557
+        ],
+        "bytes": 338804,
+        "sha256": "36b2af78094840da8dc2b0801837b2f21dd03c2c68a73312d6fadf6a539de244",
+        "metadata": {}
+      },
+      {
+        "path": "evidence/media/分镜六格-独立格-05.png",
+        "download_name": "Codex测试_05.png",
+        "size": [
+          461,
+          557
+        ],
+        "bytes": 269208,
+        "sha256": "bf0e70837f1b83e54df0264775e678c8c02a4312fb625366ab0244a9f48bcef9",
+        "metadata": {}
+      },
+      {
+        "path": "evidence/media/分镜六格-独立格-06.png",
+        "download_name": "Codex测试_06.png",
+        "size": [
+          465,
+          557
+        ],
+        "bytes": 303120,
+        "sha256": "2227a66e03640e881f183ba6bfdf7d610fcf4bb8f2320924b3badabbad97d8ec",
+        "metadata": {}
+      }
+    ]
+  },
+  "merge": {
+    "path": "evidence/media/分镜六格-合并序号描述.png",
+    "size": [
+      1411,
+      1124
+    ],
+    "bytes": 1967800,
+    "sha256": "54d37c4833865c832da01c81fa0c6237f165339b24bb08b5d03d94ead5685d81",
+    "settings": {
+      "numbers": true,
+      "descriptions": true,
+      "prefix": "S",
+      "fill": "cover",
+      "description": "overlay",
+      "gap": 8,
+      "font_percent": 4
+    },
+    "observed": "S1-S6 labels and first three descriptions are visible; long descriptions are truncated with ellipsis; blank notes remain empty; @ reference tags absent."
+  }
+}

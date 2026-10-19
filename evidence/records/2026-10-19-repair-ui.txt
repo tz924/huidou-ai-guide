@@ -1,0 +1,270 @@
+
+ELLIPSE selection from diagonal drag visible
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										9310 组
+										9328 对话框 AI 修图 Secondary Actions: Raise
+											9329 标题
+												9330 标题 AI 修图
+												9331 文本 圈出位置，说出修改要求；原图始终保留
+												9332 按钮 关闭
+											9333 切换按钮 圈选
+											9334 切换按钮 框选
+											9335 切换按钮 涂抹
+											9336 切换按钮 擦除选区
+											9337 按钮 撤销
+											9338 按钮 (disabled) 重做
+											9339 按钮 清空选区
+											9340 文本 笔刷
+											9341 滑块 (settable, float) 笔刷 Value: 40
+											9342 文本 缩放
+											9343 滑块 (settable, float) 缩放 100% Value: 100
+											9344 文本 100
+											9345 文本 %
+											9366 图形 编辑图片
+											9367 切换按钮 原图
+											9346 补充
+												9347 标题 修改图片
+												9348 切换按钮 局部重绘
+												9349 切换按钮 智能消除
+												9350 切换按钮 手动抠图
+												9351 文本 圈出要修改的内容，系统会提取干净局部图放大编辑，不会把圈线发送给模型。改字时请圈全目标文字，并写明替换内容。
+												9352 文本 修改要求
+												9353 编辑 (settable, string) 修改要求 Description: 例如：将选中的衣服换成黑色，保持人物姿势不变
+												9354 文本 生成模型
+												9355 文本 ChatGPT Image 2
+												9356 文本 清晰度
+												9357 组合框 (settable, string) 清晰度 Value: 2K
+												9358 组 默认只贴回选区内的修改；关闭后贴回包含周边背景的局部区域。请检查文字、对齐和接缝，AI 改字仍可能不准确。 Description: 默认只贴回选区内的修改；关闭后贴回包含周边背景的局部区域。请检查文字、对齐和接缝，AI 改字仍可能不准确。
+													9359 复选框 (settable, string) 仅保留选区内修改
+													9360 文本 仅保留选区内修改
+												9361 按钮 开始重绘
+												9362 文本 重绘会调用图片模型并可能消耗积分；保存和下载不再次生成。
+											9363 页脚
+												9364 按钮 (disabled) 保存到画布
+												9365 按钮 下载 PNG
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				8041 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+```
+BRUSH AND ERASER GAP visible, original remains intact
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										9310 组
+										9328 对话框 AI 修图 Secondary Actions: Raise
+											9329 标题
+												9330 标题 AI 修图
+												9331 文本 圈出位置，说出修改要求；原图始终保留
+												9332 按钮 关闭
+											9333 切换按钮 圈选
+											9334 切换按钮 框选
+											9335 切换按钮 涂抹
+											9336 切换按钮 擦除选区
+											9337 按钮 撤销
+											9338 按钮 (disabled) 重做
+											9339 按钮 清空选区
+											9340 文本 笔刷
+											9341 滑块 (settable, float) 笔刷 Value: 40
+											9342 文本 缩放
+											9343 滑块 (settable, float) 缩放 100% Value: 100
+											9344 文本 100
+											9345 文本 %
+											9366 图形 编辑图片
+											9367 切换按钮 原图
+											9346 补充
+												9347 标题 修改图片
+												9348 切换按钮 局部重绘
+												9349 切换按钮 智能消除
+												9350 切换按钮 手动抠图
+												9351 文本 圈出要修改的内容，系统会提取干净局部图放大编辑，不会把圈线发送给模型。改字时请圈全目标文字，并写明替换内容。
+												9352 文本 修改要求
+												9353 编辑 (settable, string) 修改要求 Description: 例如：将选中的衣服换成黑色，保持人物姿势不变
+												9354 文本 生成模型
+												9355 文本 ChatGPT Image 2
+												9356 文本 清晰度
+												9357 组合框 (settable, string) 清晰度 Value: 2K
+												9358 组 默认只贴回选区内的修改；关闭后贴回包含周边背景的局部区域。请检查文字、对齐和接缝，AI 改字仍可能不准确。 Description: 默认只贴回选区内的修改；关闭后贴回包含周边背景的局部区域。请检查文字、对齐和接缝，AI 改字仍可能不准确。
+													9359 复选框 (settable, string) 仅保留选区内修改
+													9360 文本 仅保留选区内修改
+												9361 按钮 开始重绘
+												9362 文本 重绘会调用图片模型并可能消耗积分；保存和下载不再次生成。
+											9363 页脚
+												9364 按钮 (disabled) 保存到画布
+												9365 按钮 下载 PNG
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				8041 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+```
+SUBMIT ONCE: Image2 2K, ellipse+brush-gap mask, restrict-to-mask OFF, balance36409
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										9310 组
+										9328 对话框 AI 修图 Secondary Actions: Raise
+											9329 标题
+												9330 标题 AI 修图
+												9331 文本 圈出位置，说出修改要求；原图始终保留
+												9332 按钮 关闭
+											9333 切换按钮 圈选
+											9334 切换按钮 框选
+											9335 切换按钮 涂抹
+											9336 切换按钮 擦除选区
+											9337 按钮 撤销
+											9338 按钮 (disabled) 重做
+											9339 按钮 清空选区
+											9340 文本 笔刷
+											9341 滑块 (settable, float) 笔刷 Value: 40
+											9342 文本 缩放
+											9343 滑块 (settable, float) 缩放 100% Value: 100
+											9344 文本 100
+											9345 文本 %
+											9366 图形 编辑图片
+											9367 切换按钮 原图
+											9346 补充
+												9347 标题 修改图片
+												9348 切换按钮 局部重绘
+												9349 切换按钮 智能消除
+												9350 切换按钮 手动抠图
+												9351 文本 圈出要修改的内容，系统会提取干净局部图放大编辑，不会把圈线发送给模型。改字时请圈全目标文字，并写明替换内容。
+												9352 文本 修改要求
+												9353 编辑 (settable, string) 修改要求 Description: 例如：将选中的衣服换成黑色，保持人物姿势不变 Value: 仅把左上第一格的红色木块改成蓝色木块，保持立方体形状、大小、位置和木纹。其余五格、手、分隔线和白色背景保持不变。不要新增物体、人物或文字。
+												9354 文本 生成模型
+												9355 文本 ChatGPT Image 2
+												9356 文本 清晰度
+												9357 组合框 (settable, string) 清晰度 Value: 2K
+												9358 组 默认只贴回选区内的修改；关闭后贴回包含周边背景的局部区域。请检查文字、对齐和接缝，AI 改字仍可能不准确。 Description: 默认只贴回选区内的修改；关闭后贴回包含周边背景的局部区域。请检查文字、对齐和接缝，AI 改字仍可能不准确。
+													9359 复选框 (settable, string) 仅保留选区内修改
+													9360 文本 仅保留选区内修改
+												9361 按钮 开始重绘
+												9362 文本 重绘会调用图片模型并可能消耗积分；保存和下载不再次生成。
+											9363 页脚
+												9364 按钮 (disabled) 保存到画布
+												9365 按钮 下载 PNG
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				8041 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+仅把左上第一格的红色木块改成蓝色木块，保持立方体形状、大小、位置和木纹。其余五格、手、分隔线和白色背景保持不变。不要新增物体、人物或文字。
+```
+RETURNED version1; blue first cube; balance36393 (delta16)
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										9310 组
+										9328 对话框 AI 修图 Secondary Actions: Raise
+											9329 标题
+												9330 标题 AI 修图
+												9331 文本 圈出位置，说出修改要求；原图始终保留
+												9332 按钮 关闭
+											9333 切换按钮 圈选
+											9334 切换按钮 框选
+											9335 切换按钮 涂抹
+											9336 切换按钮 擦除选区
+											9337 按钮 (disabled) 撤销
+											9338 按钮 (disabled) 重做
+											9339 按钮 清空选区
+											9340 文本 笔刷
+											9341 滑块 (settable, float) 笔刷 Value: 40
+											9342 文本 缩放
+											9343 滑块 (settable, float) 缩放 100% Value: 100
+											9344 文本 100
+											9345 文本 %
+											9366 图形 编辑图片
+											9367 切换按钮 原图
+											9370 切换按钮 版本 1
+											9346 补充
+												9347 标题 修改图片
+												9348 切换按钮 局部重绘
+												9349 切换按钮 智能消除
+												9350 切换按钮 手动抠图
+												9351 文本 圈出要修改的内容，系统会提取干净局部图放大编辑，不会把圈线发送给模型。改字时请圈全目标文字，并写明替换内容。
+												9352 文本 修改要求
+												9353 编辑 (settable, string) 修改要求 Description: 例如：将选中的衣服换成黑色，保持人物姿势不变 Value: 仅把左上第一格的红色木块改成蓝色木块，保持立方体形状、大小、位置和木纹。其余五格、手、分隔线和白色背景保持不变。不要新增物体、人物或文字。
+												9354 文本 生成模型
+												9355 文本 ChatGPT Image 2
+												9356 文本 清晰度
+												9357 组合框 (settable, string) 清晰度 Value: 2K
+												9358 组 默认只贴回选区内的修改；关闭后贴回包含周边背景的局部区域。请检查文字、对齐和接缝，AI 改字仍可能不准确。 Description: 默认只贴回选区内的修改；关闭后贴回包含周边背景的局部区域。请检查文字、对齐和接缝，AI 改字仍可能不准确。
+													9359 复选框 (settable, string) 仅保留选区内修改
+													9360 文本 仅保留选区内修改
+												9371 按钮 查看原图
+												9372 文本 可直接在当前版本上圈选并继续修改。切换版本会清空选区，原图与历史版本始终保留。查看原图仅用于对比，请返回结果后编辑。
+												9361 按钮 开始重绘
+												9362 文本 重绘会调用图片模型并可能消耗积分；保存和下载不再次生成。
+											9363 页脚
+												9368 状态
+													9369 文本 结果已准备好，请检查后保存
+												9364 按钮 保存到画布
+												9365 按钮 下载 PNG
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				8041 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+仅把左上第一格的红色木块改成蓝色木块，保持立方体形状、大小、位置和木纹。其余五格、手、分隔线和白色背景保持不变。不要新增物体、人物或文字。
+```

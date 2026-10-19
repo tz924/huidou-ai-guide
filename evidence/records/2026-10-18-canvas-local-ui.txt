@@ -1,0 +1,380 @@
+--- shortcut guide ---
+4123 标题 快捷键指南
+										4124 文本 灰豆无限画布常用操作一览
+										4125 按钮
+										4126 标题 节点编辑
+										4127 文本 撤销
+										4128 文本 Ctrl/Cmd
+										4129 文本 +
+										4130 文本 Z
+										4131 文本 重做
+										4132 文本 Ctrl/Cmd
+										4133 文本 +
+										4134 文本 Y / Shift+Z
+										4135 文本 复制节点
+										4136 文本 Ctrl/Cmd
+										4137 文本 +
+										4138 文本 C
+										4139 文本 粘贴节点
+										4140 文本 Ctrl/Cmd
+										4141 文本 +
+										4142 文本 V
+										4143 文本 编组选中节点
+										4144 文本 Ctrl/Cmd
+										4145 文本 +
+										4146 文本 G
+										4147 文本 拖拽复制节点
+										4148 文本 Alt
+										4149 文本 +
+										4150 文本 拖拽
+										4151 文本 删除选中节点
+										4152 文本 Delete / Backspace
+										4153 标题 智能连接
+										4154 文本 按位置自动连线
+										4155 文本 L
+										4156 文本 反向自动连线
+										4157 文本 Shift
+										4158 文本 +
+										4159 文本 L
+										4160 文本 素材直连最近 AI 生图
+										4161 文本 I
+										4162 文本 素材直连最近 AI 视频
+										4163 文本 V
+										4164 文本 粘贴截图为节点
+										4165 文本 Ctrl/Cmd
+										4166 文本 +
+										4167 文本 V
+										4168 文本 打开添加节点菜单
+										4169 文本 鼠标右键
+										4170 标题 画布导航
+										4171 文本 框选多个节点
+										4172 文本 左键拖动空白
+										4173 文本 右键平移画布
+										4174 文本 右键拖动
+										4175 文本 中键平移画布
+										4176 文本 中键拖动
+										4177 文本 缩放画布
+										4178 文本 鼠标滚轮
+										4179 标题 专业工作台
+										4180 文本 绘画：画笔
+										4181 文本 B
+										4182 文本 绘画：橡皮
+										4183 文本 E
+										4184 文本 绘画：拖动画布
+										4185 文本 H / Space
+										4186 文本 绘画：取色
+										4187 文本 Alt
+										4188 文本 绘画：调整笔刷
+										4189 文本 [
+										4190 文本 /
+										4191 文本 ]
+										4192 文本 绘画：绘制直线
+										4193 文本 Shift
+										4194 文本 3D：移动模式
+										4195 文本 W
+										4196 文本 3D：旋转模式
+										4197 文本 E
+										4198 文本 画布快捷键仅在未编辑文字时生效；绘画与 3D 快捷键只在对应工作台打开时生效。
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				3583 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+```
+
+--- note Ctrl+C/V clone 10 to 11 nodes ---
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										276 组 ID: root
+											1191 按钮 返回 Description: 返回
+											278 文本 灰豆AI光影引擎
+											279 文本 36,683
+											280 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											1192 按钮 AI 照相馆 Description: AI 照相馆
+												1193 图形
+											283 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											284 文本 v7.7.1
+											285 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											286 按钮 English Description: English
+											287 按钮 浅色 Description: 浅色
+											288 按钮 设置 Description: 设置
+											289 按钮 最小化 Description: 最小化
+											290 按钮 最大化 Description: 最大化
+											291 按钮 关闭 Description: 关闭
+											292 主要
+												1194 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												1195 应用程序
+													1196 组
+														1197 图形
+															1198 edge Edge from 3d10ee49-bfc8-4f35-af6d-2450fd7e10b5 to 545b862c-939f-4d87-b7ed-ae288516f8f8
+														1292 图形
+															1293 edge Edge from 545b862c-939f-4d87-b7ed-ae288516f8f8 to efa04d64-f170-4bc2-b94d-3f5bbe3091b0
+														1389 图形
+															1390 edge Edge from efa04d64-f170-4bc2-b94d-3f5bbe3091b0 to 232d814c-f7fc-4d84-905d-0d134aee41a2
+														1199 node
+															1200 组
+															1201 组
+															1202 文本 VR360 全景场景
+															1203 文本 等待全景图
+															1204 文本 拖入或上传一张全景图
+															1205 文本 支持上传文件 / 粘贴直链 / 从上游节点输入
+															1206 按钮 (disabled) 360° 预览
+															1207 按钮 (disabled) 导出
+															1208 文本 选择全景图
+															1209 编辑 (settable, string) 粘贴图片直链（回车加载） Description: 粘贴图片直链（回车加载）
+															1210 按钮 使用
+														1211 node
+															1212 组
+																1213 图形
+																1214 按钮 VR360-12宫格参考 Description: VR360-12宫格参考
+																1215 图形 已上传素材
+																1216 组
+																1217 组
+														1218 node
+															1219 组
+																1220 图形
+																1221 按钮 VR视角-104度-重命名验证 Description: VR视角-104度-重命名验证
+																1222 图形 已上传素材
+																1223 组
+																1224 组
+														1225 node
+															1226 组
+																1227 图形
+																1228 按钮 image.png Description: image.png
+																1229 图形 已上传素材
+																1230 组
+																1231 组
+														1232 node
+															1233 组
+																1234 图形
+																1235 按钮 image.png Description: image.png
+																1236 图形 已上传素材
+																1237 组
+																1238 组
+														1239 node
+															1240 组
+																1241 按钮 向左旋转 90° Description: 向左旋转 90°
+																1242 图形 结果图
+																1243 组
+																1244 组
+																1245 组
+														1294 node
+															1295 组
+																1296 按钮 垂直翻转 Description: 垂直翻转
+																1297 图形 结果图
+																1298 组
+																1299 组
+																1300 组
+														1428 node
+															1429 组
+															1430 组
+															1431 图形 AI 剧本导演台
+															1432 按钮 第 1 集 Description: 修改集数
+															1433 按钮 进入 AI 剧本导演台 →
+																1434 图形
+															1435 组
+														1391 node
+															1392 组
+																1393 按钮 标注结果 Description: 标注结果
+																1394 图形 结果图
+																1395 组
+																1396 组
+																1397 组
+														4218 node
+															4219 组
+																4220 图形
+																4221 按钮 文本注释 Description: 文本注释
+																4222 组
+																4223 组
+																4224 组
+																4225 标题 HD-7426
+																4226 文本 画布复制与编组小样
+														4209 node
+															4210 组
+																4211 图形
+																4212 按钮 文本注释 Description: 文本注释
+																4213 组
+																4214 组
+																4215 组
+																4217 编辑 (settable, string) 输入 Markdown 文本，取消选中后会渲染预览 Description: 输入 Markdown 文本，取消选中后会渲染预览 Value: # HD-7426 画布复制与编组小样
+														4227 按钮 删除
+													1259 图形 Mini Map Description: Mini Map
+													1260 组 ID: react-flow__aria-live-1
+												1261 按钮 生成历史 Description: 生成历史
+													1262 组 共 3 条生成记录
+												1263 按钮 添加节点 Description: 添加节点
+												1264 切换按钮 选择节点 Description: 选择节点
+												1265 切换按钮 拖动画布 Description: 拖动画布
+												1266 按钮 101% Description: 恢复 100%
+												1267 滑块 (settable, float) 画布缩放 Value: 101
+												1268 按钮 适配视图 Description: 适配视图
+												1269 按钮 撤销 Description: 撤销
+												1270 按钮 (disabled) 重做 Description: 重做
+												1271 按钮 快捷键指南 Description: 快捷键指南
+												1272 按钮 素材库 Description: 素材库
+												1273 按钮 提示词库 Description: 提示词库
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				3583 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+# HD-7426
+画布复制与编组小样
+```
+
+
+## Independent canvas notes, clone and shortcut limitations
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										276 组 ID: root
+											4982 按钮 返回 Description: 返回
+											278 文本 灰豆AI光影引擎
+											279 文本 36,579
+											280 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											4983 按钮 AI 照相馆 Description: AI 照相馆
+												4984 图形
+											283 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											284 文本 v7.7.1
+											285 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											286 按钮 English Description: English
+											287 按钮 浅色 Description: 浅色
+											288 按钮 设置 Description: 设置
+											289 按钮 最小化 Description: 最小化
+											290 按钮 最大化 Description: 最大化
+											291 按钮 关闭 Description: 关闭
+											292 主要
+												4985 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												4986 应用程序
+													4987 组
+														5036 node
+															5037 组
+																5038 图形
+																5039 按钮 文本注释 Description: 文本注释
+																5040 组
+																5041 组
+																5042 组
+																5050 标题 HD-7426
+																5051 文本 独立编组测试
+														5026 node
+															5027 组
+																5028 图形
+																5029 按钮 文本注释 Description: 文本注释
+																5030 组
+																5031 组
+																5032 组
+																5057 标题 HD-7426
+																5058 文本 独立编组测试
+														5059 组
+													4988 图形 Mini Map Description: Mini Map
+													4989 组 ID: react-flow__aria-live-1
+												5060 文本 按 L 自动连线需要先选中至少两个可连接节点。
+												4990 按钮 生成历史 Description: 生成历史
+													4991 组 共 0 条生成记录
+												4992 按钮 添加节点 Description: 添加节点
+												4993 切换按钮 选择节点 Description: 选择节点
+												4994 切换按钮 拖动画布 Description: 拖动画布
+												4995 按钮 100% Description: 恢复 100%
+												4996 滑块 (settable, float) 画布缩放 Value: 100
+												4997 按钮 适配视图 Description: 适配视图
+												4998 按钮 撤销 Description: 撤销
+												4999 按钮 (disabled) 重做 Description: 重做
+												5000 按钮 快捷键指南 Description: 快捷键指南
+												5001 按钮 素材库 Description: 素材库
+												5002 按钮 提示词库 Description: 提示词库
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				5056 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+灰豆AI光影引擎
+36,579
+新手手册
+￼
+AI 照相馆
+￼
+B站 / 抖音搜索：特效小哥灰豆
+v7.7.1
+打开下载图片文件夹（查看已保存图片）
+￼
+￼
+￼
+￼
+￼
+￼
+AI创作中心
+看图 · 读文档 · 写剧本 · 做创意
+￼
+￼
+￼
+文本注释
+￼
+￼
+￼
+￼
+￼
+HD-7426
+独立编组测试
+￼
+文本注释
+￼
+￼
+￼
+￼
+￼
+HD-7426
+独立编组测试
+￼
+￼
+￼
+￼
+按 L 自动连线需要先选中至少两个可连接节点。
+历史
+0
+添加节点
+￼
+￼
+100%
+画布缩放
+￼
+￼
+￼
+快捷键指南
+素材库
+提示词库
+```

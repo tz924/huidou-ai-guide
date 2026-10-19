@@ -1,0 +1,204 @@
+{
+  "package": "Official GUI export, 2026-10-18 23:52 local",
+  "project_name": "子流程全量补测-20261018",
+  "exported_at": 1792392735238,
+  "json_bytes": 1168949,
+  "json_sha256": "73660bba91a5a438d710eaa8ee53e7d5b9d2685f57a3e5d48f1081e818ba4216",
+  "node_count": 11,
+  "node_types": [
+    "vr360Node",
+    "uploadNode",
+    "uploadNode",
+    "uploadNode",
+    "uploadNode",
+    "exportImageNode",
+    "exportImageNode",
+    "exportImageNode",
+    "textAnnotationNode",
+    "textAnnotationNode",
+    "scriptDirectorNode"
+  ],
+  "missingImages": [],
+  "top_level_files": [
+    "images",
+    "project.json"
+  ],
+  "images": [
+    {
+      "filename": "0c8ead5c6935735d4c083d3b03e8dd49.png",
+      "size": [
+        1724,
+        2760
+      ],
+      "bytes": 1803083,
+      "sha256": "0adcbc5919ee635a8e92ec3deb88bdb9f9a138d6b69ba7d9a99571dffe41566f"
+    },
+    {
+      "filename": "0c934b0b35244f88a84d6af41c335eb6.png",
+      "size": [
+        2760,
+        1724
+      ],
+      "bytes": 1369852,
+      "sha256": "acafbd2a643d8e39cbb90fad92d6d7282e6b0b69d5347ef60a5d3a76f33a7c22"
+    },
+    {
+      "filename": "19876dfce581bf5e4550147551fbd708.png",
+      "size": [
+        1724,
+        2760
+      ],
+      "bytes": 1806335,
+      "sha256": "ed571efc7b41bc3bcbff29222cd7ec192b27e2f097fdf90cad9ef40afbc6d4c3"
+    },
+    {
+      "filename": "7d6f56f9bc455b2258e142bbe5d7678d.png",
+      "size": [
+        320,
+        512
+      ],
+      "bytes": 168573,
+      "sha256": "e90a610c0c46c50c7ce110eecbd299d70213ed2478b92b379ec5fbc3eefb5993"
+    },
+    {
+      "filename": "8d187466c7f00a3202062b6300505ca2.png",
+      "size": [
+        1724,
+        2760
+      ],
+      "bytes": 1862843,
+      "sha256": "1c5b084e48a6ee802f0db0f3ccab2eedebcaac475a9149536dea7ba74c50c417"
+    },
+    {
+      "filename": "c001844066e942fd329de6bc497230cf.png",
+      "size": [
+        320,
+        512
+      ],
+      "bytes": 159937,
+      "sha256": "ad6b64c2ea1c2854911bfcac59b9bfc677af235a7af8bf78620dd091d9e54c27"
+    },
+    {
+      "filename": "d677b5c2bb171ebe0f6358e7ef860670.png",
+      "size": [
+        320,
+        512
+      ],
+      "bytes": 160108,
+      "sha256": "23edf958f8eb04438fd6f68d8a9d8d0fdd65396a17837a9ffcaa62fef662b04c"
+    },
+    {
+      "filename": "dc3fbb96af4754d634913ff60aef9b1e.png",
+      "size": [
+        512,
+        320
+      ],
+      "bytes": 157246,
+      "sha256": "54b4b65f7fd45e4390d45a0d27b2928a892d5e44d2dfa3946f21345801d99393"
+    }
+  ],
+  "image_defaults": {
+    "aspectRatio": "16:9",
+    "modelId": "newapi/gpt-image-2",
+    "size": "2K"
+  },
+  "video_defaults": {
+    "aspectRatio": "16:9",
+    "audioMode": "guide",
+    "concurrency": 5,
+    "count": 1,
+    "durationMode": "shot",
+    "modelId": "wan3.0-video",
+    "overrideDuration": 15,
+    "resolution": "480p"
+  },
+  "timeline": {
+    "autoSnap": true,
+    "bgmVolume": 0.2,
+    "outputResolution": "720p",
+    "subtitlesEnabled": true,
+    "transition": "fade"
+  },
+  "references": [
+    {
+      "field": "/bible/characters/0/referenceImageUrl",
+      "reference": "__img_ref__:11"
+    },
+    {
+      "field": "/bible/scenes/0/referenceImageUrl",
+      "reference": "__img_ref__:12"
+    },
+    {
+      "field": "/bible/scenes/0/referenceReview/imageUrl",
+      "reference": "__img_ref__:12"
+    },
+    {
+      "field": "/shots/0/visualDraft/imageUrl",
+      "reference": "__img_ref__:13"
+    },
+    {
+      "field": "/shots/2/videoReferenceBindings/0/imageUrl",
+      "reference": "__img_ref__:12"
+    },
+    {
+      "field": "/shots/2/videoReferenceBindings/1/imageUrl",
+      "reference": "__img_ref__:10"
+    },
+    {
+      "field": "/shots/2/videoReferenceBindings/2/imageUrl",
+      "reference": "__img_ref__:11"
+    },
+    {
+      "field": "/styleReferenceImageUrl",
+      "reference": "__img_ref__:10"
+    }
+  ],
+  "shots": [
+    {
+      "id": "shot-mveuexro-8atr91",
+      "index": 1,
+      "title": "镜头1·苏醒抬头",
+      "durationSec": 4,
+      "imagePrompt": "写实电影感短剧画面，16:9画幅。破晓时分的极浅盐湖浅水铺展至天际，水面如镜，倒映冷青色天光与稀疏云层，盐晶在浅水边缘结出白色纹路。画面中央为盐湖守护神，成年男性，白色长毛覆盖头颈与肩臂，巨大盘羊角在冷青天光下泛出骨质光泽，身穿古老粗织布衣，布衣下摆浸在水里，膝下水面没过脚踝，倒影完整。固定中景，平视机位，画面先静止一瞬，他缓慢抬起头，目光望向远方湖面，眼睫上的盐霜簌簌落下。冷青晨光，自然克制，真实皮肤与毛发质感，电影级光影，无其他人物、无水鸟，无字幕无水印。",
+      "videoPrompt": "破晓的极浅盐湖浅水铺展至天际，水面如镜，倒映冷青天光与稀疏云层，盐晶在浅水边缘结出白色纹路。盐湖守护神立于浅水中央，膝下水面没过脚踝，倒影完整；白色长毛被晨风轻微拂动，巨大盘羊角在冷青天光下泛出骨质光泽，古老布衣下摆浸在水里。固定中景，画面先静止一瞬，他缓慢抬起头，目光望向远方湖面，眼睫上的盐霜簌簌落下。\n盐湖守护神：我醒了。",
+      "dialogue": "盐湖守护神：我醒了。",
+      "shotSize": "中景",
+      "camera": "固定机位，平视",
+      "movement": "固定机位，无移动。",
+      "visualDraft": {
+        "imageUrl": "__img_ref__:13",
+        "signature": "fqpjta"
+      }
+    },
+    {
+      "id": "shot-mveuexro-pp0pci",
+      "index": 2,
+      "title": "镜头2·平静呼吸",
+      "durationSec": 4,
+      "imagePrompt": "写实电影感短剧画面，16:9画幅。破晓时分的极浅盐湖浅水作为背景，冷青色天光从侧后方落下。固定近景，盐湖守护神胸口以上入画，成年男性，白色长毛纹理与古老粗织布衣纤维清晰可见，巨大盘羊角占画面上缘，冷青光线勾勒角与肩的轮廓。他轻微呼吸一次，胸前有极细微起伏，白毛随之轻轻晃动，眼神平静，视线不动。冷青晨光，真实毛发与布料质感，电影级光影，画面克制自然，结尾缓慢淡出至黑，无字幕、无水印、无其他人物。",
+      "videoPrompt": "破晓时分的极浅盐湖浅水作背景，冷青天光从侧后方落下。固定近景，盐湖守护神胸口以上入画，巨大盘羊角占画面上缘，白色长毛纹理与古老粗织布衣纤维清晰可见；冷青光线勾出角与肩的轮廓。他轻微呼吸一次，胸前有极细微起伏，白毛随之轻轻晃动，眼神平静，视线不动。画面结尾停在近景，冷青光线不变，缓慢淡出至黑。\n盐湖守护神：湖面很安静。",
+      "dialogue": "盐湖守护神：湖面很安静。",
+      "shotSize": "近景",
+      "camera": "固定机位，胸口以上近景",
+      "movement": "固定机位，无移动。",
+      "visualDraft": null
+    },
+    {
+      "id": "shot-92789aa9-11f3-49c1-a488-2bae4b52bc30",
+      "index": 3,
+      "title": "",
+      "durationSec": 4,
+      "imagePrompt": "",
+      "videoPrompt": "@图3 清晨无人盐湖浅水，固定远景。盐湖守护神背对镜头站定不动，白色长毛、巨大盘羊角与古老布衣保持一致。远山和天空倒影，微弱晨风与小涟漪。不新增其他角色、文字、水印；没有对白。",
+      "dialogue": "",
+      "shotSize": "远景",
+      "camera": "",
+      "movement": "固定机位，无移动。",
+      "visualDraft": null
+    }
+  ],
+  "notes": [
+    "Eight packaged PNGs visually inspected: all VR-derived, no director role/scene/keyframe. Image reference numbers are not array indexes. Raw package stays local and ignored.",
+    "No audio/video files bundled in this package; independent downloaded evidence retained."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "purpose": "VR360 current-view/FOV/12-grid export calibration",
+  "source": "Procedural Pillow test chart, not a Huidou or other AI image output",
+  "width": 2048,
+  "height": 1024,
+  "projection": "2:1 longitude/latitude equirectangular calibration",
+  "longitude_markers_deg": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "latitude_markers_deg": [
+    -60,
+    -30,
+    0,
+    30,
+    60
+  ],
+  "seam_first_last_column_identical": true,
+  "path": "evidence/media/VR360-经纬校准输入-程序生成.png",
+  "bytes": 188746,
+  "sha256": "7356c6c1ca69d0b2606a30ff99cbd0cca82e224e3fc89e1dc581dff25c9cbf6f"
+}

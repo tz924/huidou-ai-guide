@@ -1,0 +1,18 @@
+{
+  "path": "evidence/media/透明背景提示-Image2-红木方块.png",
+  "size": [
+    1672,
+    941
+  ],
+  "mode": "RGBA",
+  "bytes": 675990,
+  "sha256": "782c3a2e07c661cdb5b307ef2f6fcc68b2c2533b24a77bf8c006383fd4179818",
+  "alpha_minmax": [
+    0,
+    255
+  ],
+  "transparent_pixels": 1211211,
+  "opaque_pixels": 348,
+  "partial_pixels": 361793,
+  "requested": "Image2,16:9,2K,x1; transparent background via prompt"
+}

@@ -5,9 +5,94 @@
     "sha256": "220aa11286b9e3b3999ac32a7042e78793135d96bf04f477d54c3d3de8a87f39"
   },
   {
+    "path": "evidence/media/3D接AI生图-Image2-2K.png",
+    "bytes": 3103605,
+    "sha256": "e24fe06dec88b6c439f918cceb31ac54043b60d94a094617216f06de884064bf"
+  },
+  {
+    "path": "evidence/media/3D接AI视频-Wan经济4秒480p.mp4",
+    "bytes": 2321004,
+    "sha256": "8088d316a552e0cdda387f5b25c481b96c9245a39742ed1f0e3d9040f72a5e50"
+  },
+  {
     "path": "evidence/media/huidou-video-1792362430004.mp4",
     "bytes": 13201661,
     "sha256": "3d100515b0d7044996a05990cd828ead2cfc0c560046b1c94ddc2fcb2d20da7b"
+  },
+  {
+    "path": "evidence/media/VR360-十二宫格参考.jpg",
+    "bytes": 246275,
+    "sha256": "283bddf64cf12033532b232a19ad026871e13c43790e4e61d6cf4d03ffe29c8f"
+  },
+  {
+    "path": "evidence/media/VR360-圆形箭头文字标注.png",
+    "bytes": 1862843,
+    "sha256": "1c5b084e48a6ee802f0db0f3ccab2eedebcaac475a9149536dea7ba74c50c417"
+  },
+  {
+    "path": "evidence/media/VR360-左转后垂直翻转.png",
+    "bytes": 1803083,
+    "sha256": "0adcbc5919ee635a8e92ec3deb88bdb9f9a138d6b69ba7d9a99571dffe41566f"
+  },
+  {
+    "path": "evidence/media/VR360-当前视角-FOV104.jpg",
+    "bytes": 378396,
+    "sha256": "41783083cc51a0aff516fa71b1b606638cd9872b0d14461571bc47d00f8a2f1e"
+  },
+  {
+    "path": "evidence/media/VR360-经纬校准输入-程序生成.png",
+    "bytes": 188746,
+    "sha256": "7356c6c1ca69d0b2606a30ff99cbd0cca82e224e3fc89e1dc581dff25c9cbf6f"
+  },
+  {
+    "path": "evidence/media/VR360-视角左转90度.png",
+    "bytes": 1806335,
+    "sha256": "ed571efc7b41bc3bcbff29222cd7ec192b27e2f097fdf90cad9ef40afbc6d4c3"
+  },
+  {
+    "path": "evidence/media/修图-圈选涂抹-关闭选区限制.png",
+    "bytes": 2357832,
+    "sha256": "910c2c015e1d8a48e48ce78500511d77f6f561a6f8de9e4ea567445a8802d100"
+  },
+  {
+    "path": "evidence/media/分镜六格-合并序号描述.png",
+    "bytes": 1967800,
+    "sha256": "54d37c4833865c832da01c81fa0c6237f165339b24bb08b5d03d94ead5685d81"
+  },
+  {
+    "path": "evidence/media/分镜六格-独立格-01.png",
+    "bytes": 277034,
+    "sha256": "36f16514ad5c13954851747c3fad3ae9a709fc185e62123c24d3baba6c6dca4c"
+  },
+  {
+    "path": "evidence/media/分镜六格-独立格-02.png",
+    "bytes": 285937,
+    "sha256": "ce766174e88589e80391243a171f8533b55fcdc7649b05fe2b3d1cce7654f290"
+  },
+  {
+    "path": "evidence/media/分镜六格-独立格-03.png",
+    "bytes": 291083,
+    "sha256": "a1d153c7a312af17fef85168db3982c4d815c796459f248489a4e00919f4f242"
+  },
+  {
+    "path": "evidence/media/分镜六格-独立格-04.png",
+    "bytes": 338804,
+    "sha256": "36b2af78094840da8dc2b0801837b2f21dd03c2c68a73312d6fadf6a539de244"
+  },
+  {
+    "path": "evidence/media/分镜六格-独立格-05.png",
+    "bytes": 269208,
+    "sha256": "bf0e70837f1b83e54df0264775e678c8c02a4312fb625366ab0244a9f48bcef9"
+  },
+  {
+    "path": "evidence/media/分镜六格-独立格-06.png",
+    "bytes": 303120,
+    "sha256": "2227a66e03640e881f183ba6bfdf7d610fcf4bb8f2320924b3badabbad97d8ec"
+  },
+  {
+    "path": "evidence/media/分镜六格-请求3行2列却返回2行3列.png",
+    "bytes": 2039750,
+    "sha256": "c1b83fcd4f0117314ef369f26b586dd33e84ce426204d64fe184fce60085bbab"
   },
   {
     "path": "evidence/media/参考音频-镜头02前10秒.wav",
@@ -45,6 +130,41 @@
     "sha256": "b3fa5f9ee1fb896bacca081f511dfbec1b4c56d1f553bb1707cb2a629bb4e9db"
   },
   {
+    "path": "evidence/media/导演子流程-场景-360模板-Image2.png",
+    "bytes": 5413808,
+    "sha256": "1999d7f80c28731eb78467f2dd19d621bcd45f101923b004ea3fbbb09d2705f5"
+  },
+  {
+    "path": "evidence/media/导演子流程-角色-Image2-2K.png",
+    "bytes": 5139991,
+    "sha256": "f2dcd014e3170b765584ff556d8e3501100f01cb95c05d78e4871a49262180c5"
+  },
+  {
+    "path": "evidence/media/导演子流程-镜头01-Wan-4秒480p.mp4",
+    "bytes": 523782,
+    "sha256": "2992433f5456951292c9f04b3a28fb51abc58d6a91468c93c1d3d15ae9520eb4"
+  },
+  {
+    "path": "evidence/media/导演子流程-镜头02-H3-4秒768p.mp4",
+    "bytes": 1023758,
+    "sha256": "9828d97b45642a955335ed0a69ae9b53b4f8035dbd79bf7fa866c9614c490de0"
+  },
+  {
+    "path": "evidence/media/导演子流程-镜头03-Wan-4秒480p.mp4",
+    "bytes": 2175952,
+    "sha256": "5974d93dd0e05673e2a1d6163c0a1214ef64abcd7ac5af7b0496826f05a45446"
+  },
+  {
+    "path": "evidence/media/彩铅快捷-红块源却返回服装女子.png",
+    "bytes": 2048768,
+    "sha256": "de2f72a4f39c4834aca45c985984e70314fc5f5e6a773758823326852a5940fb"
+  },
+  {
+    "path": "evidence/media/提示词库-创作中心无人空镜-Image2.png",
+    "bytes": 4126562,
+    "sha256": "32e0763deacf81c77cf651e36ddfa8bb5556be56e5ff54d73a7fbf351a5a4d0a"
+  },
+  {
     "path": "evidence/media/漫剧202610181520-成片-20261018-153132.mp4",
     "bytes": 1707361,
     "sha256": "cf377454f64b85f60789587e3a8d6285c601453af56e7743970a359557157054"
@@ -63,6 +183,26 @@
     "path": "evidence/media/漫剧202610181520-成片-20261018-162025.srt",
     "bytes": 198,
     "sha256": "cc388baecc1a5b8aca8282d92a919d635c96b7d179b6652d52624db726404480"
+  },
+  {
+    "path": "evidence/media/漫剧202610182240-成片-20261018-234740.mp4",
+    "bytes": 1994667,
+    "sha256": "28ff9cd2f320ed3ea618d6dec6be9ea257341367716fb7e63f0ebe0caf644694"
+  },
+  {
+    "path": "evidence/media/漫剧202610182240-成片-20261018-234740.srt",
+    "bytes": 134,
+    "sha256": "279b89001d04b02066e665eb331ee807288d5cb6f52b90cfc85ac954df7da7b5"
+  },
+  {
+    "path": "evidence/media/漫剧202610182240-成片-20261018-234908.mp4",
+    "bytes": 1966026,
+    "sha256": "37d409ca5ab8ada7a5b5cb91398494deef3935ae1225250ddf54e6b38ab1d4cc"
+  },
+  {
+    "path": "evidence/media/漫剧202610182240-成片-20261018-234908.srt",
+    "bytes": 134,
+    "sha256": "279b89001d04b02066e665eb331ee807288d5cb6f52b90cfc85ac954df7da7b5"
   },
   {
     "path": "evidence/media/照相馆-切割-01.png",
@@ -105,6 +245,11 @@
     "sha256": "f1ce389b7ded23da37d08f18eeb7732e08ad3ebc8bb2a4e9e357b0e97863c853"
   },
   {
+    "path": "evidence/media/照相馆-雪山誓约-女子与山羊双输入.jpg",
+    "bytes": 613790,
+    "sha256": "15788cf0a57ca03bcddf25b443dcc69940f788ca35082a3c8e20a7530bc8ca2e"
+  },
+  {
     "path": "evidence/media/照相馆输入-镜头02第4秒.png",
     "bytes": 485327,
     "sha256": "084bbc46008563ddeb01c394b2b18462db39a7fd949dc447b39690e54b72c80d"
@@ -130,9 +275,59 @@
     "sha256": "3633301becd32973e1e634a8877a303984b31e93c09dfabcc8c3dec0220a8f75"
   },
   {
+    "path": "evidence/media/盐湖苏醒-自动转写字幕-待人工校对.srt",
+    "bytes": 207,
+    "sha256": "ad8112489d9c3ca6e47a1f36c212cd1d99bbeaf2ee7f0e3f780efb686dd37b75"
+  },
+  {
     "path": "evidence/media/绘梦-正片叠底粉线-参考不烘焙.png",
     "bytes": 30254,
     "sha256": "80cd6ccbc12a0cca589f486c12049ae9f0f55c98738b45725445429abc7f1cd3"
+  },
+  {
+    "path": "evidence/media/绘梦补测-Image2清除笔迹.png",
+    "bytes": 1681591,
+    "sha256": "68ca51b28e4f02d621b2cc93c006bda94cca8254dcb34ece6da267c72e51510c"
+  },
+  {
+    "path": "evidence/media/绘梦补测-叠加后橡皮缺口.png",
+    "bytes": 453995,
+    "sha256": "998b053da24a0ed8a3c211250021ec948ad4b117412d00f5d3300ba1b9a76af6"
+  },
+  {
+    "path": "evidence/media/绘梦补测-图层3叠加.png",
+    "bytes": 454228,
+    "sha256": "e6fb4970f8fc862a73c1f90f9ce07e83f7c4af2154382027068acdf27160d9a2"
+  },
+  {
+    "path": "evidence/media/绘梦补测-图层3正常.png",
+    "bytes": 454992,
+    "sha256": "725c3af42a02e984a818bffec4c2dd8ed29c3c18435efb7d6d086707b51ce954"
+  },
+  {
+    "path": "evidence/media/绘梦补测-图层3滤色.png",
+    "bytes": 456200,
+    "sha256": "f5546aae1b9d909758b3090fb0c476278253703fe13a4933a75890a64afa89e7"
+  },
+  {
+    "path": "evidence/media/绘梦补测-接AI完整参考.png",
+    "bytes": 467848,
+    "sha256": "7b6868425cc029c0ad491b8f959372fe4753bf432d53bc4c6d04027bbe0feedc"
+  },
+  {
+    "path": "evidence/media/绘梦补测-遮罩正常.png",
+    "bytes": 456602,
+    "sha256": "b21a947c4f7d08e2466cc3f4e13bd9b530ed04d113a338a8486aa6981b4f25fa"
+  },
+  {
+    "path": "evidence/media/绘梦补测-遮罩正片叠底.png",
+    "bytes": 454417,
+    "sha256": "c5e5a54b976c8b6940b7d4552bfaf436e30807e6c46a8f3461885d34aad41577"
+  },
+  {
+    "path": "evidence/media/透明背景提示-Image2-红木方块.png",
+    "bytes": 675990,
+    "sha256": "782c3a2e07c661cdb5b307ef2f6fcc68b2c2533b24a77bf8c006383fd4179818"
   },
   {
     "path": "evidence/media/镜头-01-task_1nDqCr1S1E0Frb5PR9XdVO99slOCrjeE.mp4",

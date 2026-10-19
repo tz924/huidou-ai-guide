@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-19",
+  "timezone": "America/Los_Angeles",
+  "model": "ChatGPT Image 2",
+  "quality": "2K",
+  "aspect": "21:9",
+  "submissions": 1,
+  "balance_before": 36425,
+  "balance_after": 36417,
+  "source_paths": [
+    "evidence/media/彩铅快捷-红块源却返回服装女子.png",
+    "evidence/media/导演子流程-角色-Image2-2K.png"
+  ],
+  "output": {
+    "path": "evidence/media/照相馆-雪山誓约-女子与山羊双输入.jpg",
+    "bytes": 613790,
+    "sha256": "15788cf0a57ca03bcddf25b443dcc69940f788ca35082a3c8e20a7530bc8ca2e",
+    "size": [
+      1916,
+      821
+    ],
+    "mode": "RGB"
+  },
+  "supplement": "仅有两位主体：图1右侧的AI女子作为新娘，图2山羊拟人角色作为新郎，保留山羊角、羊脸和白毛，不能变成人类男性。图1的三件空服装不要带入结果。不要其他人、文字或水印。",
+  "visual_review": "Full file inspected: one bride and one goat-faced groom with white hair and horns; snow mountains, suit and wedding dress, no spare hoodie views or visible text. Identity details beyond these visible traits not independently quantified.",
+  "canvas": "Clicked 加入画布 once; one image node 雪山誓约 visible."
+}

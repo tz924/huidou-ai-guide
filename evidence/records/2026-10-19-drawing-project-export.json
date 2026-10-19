@@ -1,0 +1,128 @@
+{
+  "exported_at": 1792394947354,
+  "node_count": 18,
+  "node_types": [
+    "textAnnotationNode",
+    "textAnnotationNode",
+    "imageNode",
+    "uploadNode",
+    "exportImageNode",
+    "exportImageNode",
+    "videoGenNode",
+    "uploadNode",
+    "uploadNode",
+    "uploadNode",
+    "uploadNode",
+    "uploadNode",
+    "uploadNode",
+    "uploadNode",
+    "imageNode",
+    "exportImageNode",
+    "drawingNode",
+    "drawingNode"
+  ],
+  "missingImages": [],
+  "packaged_png_count": 12,
+  "image_outputs": [
+    {
+      "type": "imageNode",
+      "displayName": "AI 图片",
+      "model": "newapi/gpt-image-2",
+      "prompt": "画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。\n\n单个蓝色陶瓷杯，居中完整展示，干净白底，没有人物、文字或水印。\n【机位】front view, bird's-eye view, wide shot, 85mm lens（正面，鸟瞰/俯拍，远景/全景；方位0°，俯仰60°；人像中长焦，背景轻微压缩） @图1 ",
+      "aspectRatio": "1:1"
+    },
+    {
+      "type": "exportImageNode",
+      "displayName": "将原图转换为细腻写实的彩铅插画风格，仅改变画面材质与绘画表现，不改变人物和服装设计。右侧保留一张清晰的正面人物半身像；左侧三视图仅展示服装，去除人物头部与身体外观，只保留完整服装的正面、侧面和背面结构。保持右侧人物原有脸型、五官比例、眼型、鼻型、嘴型、发型、发色和面部朝向一致，不美化或重新设计五官。使用清晰可见的彩铅笔触、纸张纹理、铅笔排线和自然色彩层次，同时保持原始构图和服装细节。",
+      "aspectRatio": "1672:941"
+    },
+    {
+      "type": "exportImageNode",
+      "displayName": "画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。",
+      "aspectRatio": "1672:941"
+    },
+    {
+      "type": "videoGenNode",
+      "displayName": "彩铅参考图 · 生视频",
+      "prompt": "以已连接的参考图作为对应人物的身份与外观依据。仅去除彩铅绘画质感并恢复自然真实的真人摄影质感，保持各人物脸型、五官形状与比例、发型发色、服装及身份特征与各自参考图一致。不美化、不重塑五官，不混合或交换不同人物特征。在此基础上执行以下动作：",
+      "aspectRatio": "16:9",
+      "resolution": "720p"
+    },
+    {
+      "type": "imageNode",
+      "displayName": "AI 图片",
+      "model": "newapi/gpt-image-2",
+      "prompt": "以@图1为唯一参考。保留同一个红色木制立方体的形状、红色木纹、三分之四视角和居中位置。仅清除所有粉红色横线与笔迹，改为纯白色背景。不要新增人物、其他道具、文字或水印。",
+      "aspectRatio": "1:1"
+    },
+    {
+      "type": "exportImageNode",
+      "displayName": "以图1为唯一参考。保留同一个红色木制立方体的形状、红色木纹、三分之四视角和居中位置。仅清除所有粉红色横线与笔迹，改为纯白色背景。不要新增人物、其他道具、文字或水印。",
+      "aspectRatio": "16:9"
+    }
+  ],
+  "drawing_state": [
+    {
+      "canvasWidth": 1280,
+      "canvasHeight": 720,
+      "transparentBackground": true,
+      "referenceOpacity": 0.28,
+      "showReference": false,
+      "symmetryMode": "none",
+      "perspectiveGuide": {
+        "enabled": false,
+        "horizonY": 0.5,
+        "vanishingX": 0.5,
+        "vanishingY": 0.5
+      },
+      "workflowMode": "faceVideoPrep",
+      "layers": [
+        {
+          "blendMode": "normal",
+          "opacity": 1,
+          "visible": true,
+          "has_unbundled_local_path": true
+        },
+        {
+          "blendMode": "multiply",
+          "opacity": 0.62,
+          "visible": false,
+          "has_unbundled_local_path": true
+        },
+        {
+          "blendMode": "overlay",
+          "opacity": 1,
+          "visible": true,
+          "has_unbundled_local_path": true
+        }
+      ]
+    },
+    {
+      "canvasWidth": 2560,
+      "canvasHeight": 1440,
+      "transparentBackground": false,
+      "referenceOpacity": 0.4,
+      "showReference": true,
+      "symmetryMode": "none",
+      "perspectiveGuide": {
+        "enabled": false,
+        "horizonY": 0.5,
+        "vanishingX": 0.5,
+        "vanishingY": 0.5
+      },
+      "workflowMode": "standard",
+      "layers": [
+        {
+          "blendMode": "normal",
+          "opacity": 1,
+          "visible": true,
+          "has_unbundled_local_path": false
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Composite images are packaged; drawing base/reference/layer image fields remain local paths, not __img_ref__ references. No cross-machine editability claim.",
+    "Pencil shortcut prompt explicitly requests garment three views plus woman head despite cube input; quality failure retained."
+  ]
+}

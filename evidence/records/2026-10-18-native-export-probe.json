@@ -1,0 +1,406 @@
+{
+  "origin": "Huidou native step5 export, not external assembly",
+  "settings": "720P, original sound 100%, no background music; hard cut then fade",
+  "files": [
+    {
+      "path": "evidence/media/漫剧202610182240-成片-20261018-234740.mp4",
+      "sha256": "28ff9cd2f320ed3ea618d6dec6be9ea257341367716fb7e63f0ebe0caf644694",
+      "bytes": 1994667,
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "mime_codec_string": "avc1.64001f",
+            "width": 1280,
+            "height": 720,
+            "coded_width": 1280,
+            "coded_height": 720,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 31,
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "30/1",
+            "avg_frame_rate": "1909760/63853",
+            "time_base": "1/15360",
+            "start_pts": 328,
+            "start_time": "0.021354",
+            "duration_ts": 191559,
+            "duration": "12.471289",
+            "bit_rate": "1144951",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "373",
+            "extradata_size": 45,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler",
+              "encoder": "Lavc63.7.100 libx264"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "mime_codec_string": "mp4a.40.2",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 0,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 599135,
+            "duration": "12.481979",
+            "bit_rate": "124851",
+            "nb_frames": "585",
+            "extradata_size": 5,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\zhj93\\Documents\\GitHub\\huidou-ai-guide\\evidence\\media\\漫剧202610182240-成片-20261018-234740.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "12.492643",
+          "size": "1994667",
+          "bit_rate": "1277338",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Lavf63.5.101"
+          }
+        }
+      },
+      "full_decode_exit": 0,
+      "full_decode_stderr": "",
+      "subtitle": "1\n00:00:00,000 --> 00:00:04,040\n盐湖守护神：我醒了。\n\n2\n00:00:04,040 --> 00:00:08,600\n盐湖守护神：湖面很安静。\n\n",
+      "frame_rgb_means": [
+        {
+          "seconds": 0.25,
+          "mean": [
+            109.256474609375,
+            134.67508572048612,
+            155.68240885416665
+          ]
+        },
+        {
+          "seconds": 3.6,
+          "mean": [
+            103.71563151041667,
+            128.21309461805555,
+            151.67582682291666
+          ]
+        },
+        {
+          "seconds": 3.95,
+          "mean": [
+            103.6871310763889,
+            128.13243055555554,
+            151.68736002604166
+          ]
+        },
+        {
+          "seconds": 4.2,
+          "mean": [
+            99.593779296875,
+            110.59871310763889,
+            112.6324782986111
+          ]
+        },
+        {
+          "seconds": 4.55,
+          "mean": [
+            100.955439453125,
+            111.84800455729167,
+            114.00097005208333
+          ]
+        },
+        {
+          "seconds": 8.4,
+          "mean": [
+            0.39386827256944446,
+            0.29014973958333334,
+            0.4254926215277778
+          ]
+        },
+        {
+          "seconds": 9.0,
+          "mean": [
+            114.60247287326389,
+            131.87593098958334,
+            145.2674273003472
+          ]
+        }
+      ]
+    },
+    {
+      "path": "evidence/media/漫剧202610182240-成片-20261018-234908.mp4",
+      "sha256": "37d409ca5ab8ada7a5b5cb91398494deef3935ae1225250ddf54e6b38ab1d4cc",
+      "bytes": 1966026,
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "mime_codec_string": "avc1.64001f",
+            "width": 1280,
+            "height": 720,
+            "coded_width": 1280,
+            "coded_height": 720,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 31,
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "30/1",
+            "avg_frame_rate": "1909760/63853",
+            "time_base": "1/15360",
+            "start_pts": 328,
+            "start_time": "0.021354",
+            "duration_ts": 191559,
+            "duration": "12.471289",
+            "bit_rate": "1125534",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "373",
+            "extradata_size": 45,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler",
+              "encoder": "Lavc63.7.100 libx264"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "mime_codec_string": "mp4a.40.2",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 0,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 599135,
+            "duration": "12.481979",
+            "bit_rate": "125877",
+            "nb_frames": "585",
+            "extradata_size": 5,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\zhj93\\Documents\\GitHub\\huidou-ai-guide\\evidence\\media\\漫剧202610182240-成片-20261018-234908.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "12.492643",
+          "size": "1966026",
+          "bit_rate": "1258997",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Lavf63.5.101"
+          }
+        }
+      },
+      "full_decode_exit": 0,
+      "full_decode_stderr": "",
+      "subtitle": "1\n00:00:00,000 --> 00:00:04,040\n盐湖守护神：我醒了。\n\n2\n00:00:04,040 --> 00:00:08,600\n盐湖守护神：湖面很安静。\n\n",
+      "frame_rgb_means": [
+        {
+          "seconds": 0.25,
+          "mean": [
+            69.65638237847222,
+            85.32015082465277,
+            98.87495985243055
+          ]
+        },
+        {
+          "seconds": 3.6,
+          "mean": [
+            103.7348459201389,
+            128.2043674045139,
+            151.72943467881944
+          ]
+        },
+        {
+          "seconds": 3.95,
+          "mean": [
+            37.832157118055555,
+            46.70097873263889,
+            55.218165147569444
+          ]
+        },
+        {
+          "seconds": 4.2,
+          "mean": [
+            72.84162651909722,
+            80.35008246527778,
+            82.3090625
+          ]
+        },
+        {
+          "seconds": 4.55,
+          "mean": [
+            100.9296701388889,
+            111.76125325520833,
+            113.91835828993055
+          ]
+        },
+        {
+          "seconds": 8.4,
+          "mean": [
+            0.10887478298611111,
+            0.08282769097222223,
+            0.10765190972222222
+          ]
+        },
+        {
+          "seconds": 9.0,
+          "mean": [
+            114.65477105034722,
+            131.83193901909723,
+            145.30172743055556
+          ]
+        }
+      ]
+    }
+  ]
+}

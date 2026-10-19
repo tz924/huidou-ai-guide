@@ -74,6 +74,330 @@
       }
     },
     {
+      "path": "evidence/media/VR360-十二宫格参考.jpg",
+      "bytes": 246275,
+      "sha256": "283bddf64cf12033532b232a19ad026871e13c43790e4e61d6cf4d03ffe29c8f",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "mjpeg",
+            "codec_long_name": "Motion JPEG",
+            "profile": "Baseline",
+            "codec_type": "video",
+            "codec_tag_string": "[0][0][0][0]",
+            "codec_tag": "0x0000",
+            "width": 1280,
+            "height": 720,
+            "coded_width": 1280,
+            "coded_height": 720,
+            "has_b_frames": 0,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "16:9",
+            "pix_fmt": "yuvj420p",
+            "level": -99,
+            "color_range": "pc",
+            "color_space": "bt470bg",
+            "chroma_location": "center",
+            "r_frame_rate": "25/1",
+            "avg_frame_rate": "25/1",
+            "time_base": "1/25",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 1,
+            "duration": "0.040000",
+            "bits_per_raw_sample": "8",
+            "disposition": {
+              "default": 0,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\zhj93\\Documents\\GitHub\\huidou-ai-guide\\evidence\\media\\VR360-十二宫格参考.jpg",
+          "nb_streams": 1,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "image2",
+          "format_long_name": "image2 sequence",
+          "start_time": "0.000000",
+          "duration": "0.040000",
+          "size": "246275",
+          "bit_rate": "49255000",
+          "probe_score": 50
+        }
+      }
+    },
+    {
+      "path": "evidence/media/VR360-左转后垂直翻转.png",
+      "bytes": 1803083,
+      "sha256": "0adcbc5919ee635a8e92ec3deb88bdb9f9a138d6b69ba7d9a99571dffe41566f",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "png",
+            "codec_long_name": "PNG (Portable Network Graphics) image",
+            "codec_type": "video",
+            "codec_tag_string": "[0][0][0][0]",
+            "codec_tag": "0x0000",
+            "width": 1724,
+            "height": 2760,
+            "coded_width": 1724,
+            "coded_height": 2760,
+            "has_b_frames": 0,
+            "pix_fmt": "rgba",
+            "level": -99,
+            "color_range": "pc",
+            "color_space": "gbr",
+            "r_frame_rate": "25/1",
+            "avg_frame_rate": "25/1",
+            "time_base": "1/25",
+            "disposition": {
+              "default": 0,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\zhj93\\Documents\\GitHub\\huidou-ai-guide\\evidence\\media\\VR360-左转后垂直翻转.png",
+          "nb_streams": 1,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "png_pipe",
+          "format_long_name": "piped png sequence",
+          "size": "1803083",
+          "probe_score": 99
+        }
+      }
+    },
+    {
+      "path": "evidence/media/VR360-当前视角-FOV104.jpg",
+      "bytes": 378396,
+      "sha256": "41783083cc51a0aff516fa71b1b606638cd9872b0d14461571bc47d00f8a2f1e",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "mjpeg",
+            "codec_long_name": "Motion JPEG",
+            "profile": "Baseline",
+            "codec_type": "video",
+            "codec_tag_string": "[0][0][0][0]",
+            "codec_tag": "0x0000",
+            "width": 2760,
+            "height": 1724,
+            "coded_width": 2760,
+            "coded_height": 1724,
+            "has_b_frames": 0,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "690:431",
+            "pix_fmt": "yuvj420p",
+            "level": -99,
+            "color_range": "pc",
+            "color_space": "bt470bg",
+            "chroma_location": "center",
+            "r_frame_rate": "25/1",
+            "avg_frame_rate": "25/1",
+            "time_base": "1/25",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 1,
+            "duration": "0.040000",
+            "bits_per_raw_sample": "8",
+            "disposition": {
+              "default": 0,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\zhj93\\Documents\\GitHub\\huidou-ai-guide\\evidence\\media\\VR360-当前视角-FOV104.jpg",
+          "nb_streams": 1,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "image2",
+          "format_long_name": "image2 sequence",
+          "start_time": "0.000000",
+          "duration": "0.040000",
+          "size": "378396",
+          "bit_rate": "75679200",
+          "probe_score": 50
+        }
+      }
+    },
+    {
+      "path": "evidence/media/VR360-经纬校准输入-程序生成.png",
+      "bytes": 188746,
+      "sha256": "7356c6c1ca69d0b2606a30ff99cbd0cca82e224e3fc89e1dc581dff25c9cbf6f",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "png",
+            "codec_long_name": "PNG (Portable Network Graphics) image",
+            "codec_type": "video",
+            "codec_tag_string": "[0][0][0][0]",
+            "codec_tag": "0x0000",
+            "width": 2048,
+            "height": 1024,
+            "coded_width": 2048,
+            "coded_height": 1024,
+            "has_b_frames": 0,
+            "pix_fmt": "rgb24",
+            "level": -99,
+            "color_range": "pc",
+            "color_space": "gbr",
+            "r_frame_rate": "25/1",
+            "avg_frame_rate": "25/1",
+            "time_base": "1/25",
+            "disposition": {
+              "default": 0,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\zhj93\\Documents\\GitHub\\huidou-ai-guide\\evidence\\media\\VR360-经纬校准输入-程序生成.png",
+          "nb_streams": 1,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "png_pipe",
+          "format_long_name": "piped png sequence",
+          "size": "188746",
+          "probe_score": 99
+        }
+      }
+    },
+    {
+      "path": "evidence/media/VR360-视角左转90度.png",
+      "bytes": 1806335,
+      "sha256": "ed571efc7b41bc3bcbff29222cd7ec192b27e2f097fdf90cad9ef40afbc6d4c3",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "png",
+            "codec_long_name": "PNG (Portable Network Graphics) image",
+            "codec_type": "video",
+            "codec_tag_string": "[0][0][0][0]",
+            "codec_tag": "0x0000",
+            "width": 1724,
+            "height": 2760,
+            "coded_width": 1724,
+            "coded_height": 2760,
+            "has_b_frames": 0,
+            "pix_fmt": "rgba",
+            "level": -99,
+            "color_range": "pc",
+            "color_space": "gbr",
+            "r_frame_rate": "25/1",
+            "avg_frame_rate": "25/1",
+            "time_base": "1/25",
+            "disposition": {
+              "default": 0,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            }
+          }
+        ],
+        "format": {
+          "filename": "C:\\Users\\zhj93\\Documents\\GitHub\\huidou-ai-guide\\evidence\\media\\VR360-视角左转90度.png",
+          "nb_streams": 1,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "png_pipe",
+          "format_long_name": "piped png sequence",
+          "size": "1806335",
+          "probe_score": 99
+        }
+      }
+    },
+    {
       "path": "evidence/media/参考音频-镜头02前10秒.wav",
       "bytes": 480078,
       "sha256": "e34b34613e382ccaec0d71c543bce6ee9076a51b3bab763f3e1521e347731bca",
@@ -1165,6 +1489,12 @@
       "path": "evidence/media/盐湖苏醒-剧本占位字幕-待听验.srt",
       "bytes": 280,
       "sha256": "3633301becd32973e1e634a8877a303984b31e93c09dfabcc8c3dec0220a8f75",
+      "probe": null
+    },
+    {
+      "path": "evidence/media/盐湖苏醒-自动转写字幕-待人工校对.srt",
+      "bytes": 207,
+      "sha256": "ad8112489d9c3ca6e47a1f36c212cd1d99bbeaf2ee7f0e3f780efb686dd37b75",
       "probe": null
     },
     {

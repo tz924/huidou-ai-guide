@@ -1,0 +1,1250 @@
+
+PHOTO FAVORITES
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										7325 对话框 AI 照相馆 Secondary Actions: Raise
+											7326 标题
+												7327 图形
+												7328 标题 AI 照相馆 ID: photo-studio-title
+												7329 文本 PHOTO STUDIO
+												7330 按钮 我的作品
+													7331 图形
+												7332 按钮 关闭照相馆
+													7333 图形
+											7334 补充
+												7335 文本 模板馆
+												7336 导航
+													7337 按钮 全部模板 21
+														7338 图形
+													7339 按钮 证件照 8
+														7340 图形
+													7341 按钮 职业形象 3
+														7342 图形
+													7343 按钮 人像写真 5
+														7344 图形
+													7345 按钮 商品摄影 3
+														7346 图形
+													7347 按钮 情侣婚纱 2
+														7348 图形
+												7349 导航
+													7350 按钮 我的收藏
+														7351 图形
+													7352 按钮 最近使用
+														7353 图形
+												7354 图形
+												7355 文本 好照片， 不必等一个特别的日子。
+												7356 文本 HUIDOU STUDIO
+											7362 文本 为日常，也为重要时刻
+											7363 标题 我的收藏1 个模板
+											7364 图形
+											7365 编辑 (settable, string) 寻找一种风格… Description: 寻找一种风格…
+											7388 文章
+												7389 按钮 使用这个模板 · 质感静物
+													7390 图形 质感静物
+													7391 图形
+												7392 文本 商品摄影
+												7393 切换按钮 取消收藏
+													7394 图形
+												7395 按钮 质感静物 细节，自有吸引力
+													7396 标题 质感静物
+												7397 按钮 设置模板封面 · 质感静物 Description: 设置模板封面
+													7398 图形
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				6321 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+寻找一种风格…
+```
+PHOTO RECENT
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										7325 对话框 AI 照相馆 Secondary Actions: Raise
+											7326 标题
+												7327 图形
+												7328 标题 AI 照相馆 ID: photo-studio-title
+												7329 文本 PHOTO STUDIO
+												7330 按钮 我的作品
+													7331 图形
+												7332 按钮 关闭照相馆
+													7333 图形
+											7334 补充
+												7335 文本 模板馆
+												7336 导航
+													7337 按钮 全部模板 21
+														7338 图形
+													7339 按钮 证件照 8
+														7340 图形
+													7341 按钮 职业形象 3
+														7342 图形
+													7343 按钮 人像写真 5
+														7344 图形
+													7345 按钮 商品摄影 3
+														7346 图形
+													7347 按钮 情侣婚纱 2
+														7348 图形
+												7349 导航
+													7350 按钮 我的收藏
+														7351 图形
+													7352 按钮 最近使用
+														7353 图形
+												7354 图形
+												7355 文本 好照片， 不必等一个特别的日子。
+												7356 文本 HUIDOU STUDIO
+											7362 文本 为日常，也为重要时刻
+											7363 标题 最近使用1 个模板
+											7364 图形
+											7365 编辑 (settable, string) 寻找一种风格… Description: 寻找一种风格…
+											7597 文章
+												7598 按钮 使用这个模板 · 都市光影 · 男士
+													7599 图形 都市光影 · 男士
+													7600 图形
+												7601 文本 人像写真
+												7602 切换按钮 收藏模板
+													7603 图形
+												7604 按钮 都市光影 · 男士 简约黑衣，自有气场
+													7605 标题 都市光影 · 男士
+												7606 按钮 设置模板封面 · 都市光影 · 男士 Description: 设置模板封面
+													7607 图形
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				6321 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+寻找一种风格…
+```
+PHOTO PRODUCT DEFAULTS
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										7325 对话框 AI 照相馆 Secondary Actions: Raise
+											7326 标题
+												7327 图形
+												7328 标题 AI 照相馆 ID: photo-studio-title
+												7329 文本 PHOTO STUDIO
+												7330 按钮 我的作品
+													7331 图形
+												7332 按钮 关闭照相馆
+													7333 图形
+											7641 按钮 返回模板馆
+												7642 图形
+											7643 文本 风格预览
+											7644 图形 纯白主场
+											7645 文本 风格预览
+											7646 补充
+												7647 文本 商品摄影
+												7648 文本 AI 摄影
+												7649 标题 纯白主场
+												7650 文本 纯白背景、完整构图与柔和落地阴影，制作清晰的商品展示图。
+												7651 文本 01
+												7652 标题 从你的照片开始
+												7653 按钮 上传照片
+													7654 图形
+												7655 文本 建议上传完整、清晰的产品图，避免遮挡包装和标识。
+												7656 文本 02
+												7657 标题 为你调整
+												7658 组 画面比例
+													7659 文本 画面比例
+													7660 切换按钮 1:1
+													7661 切换按钮 16:9
+													7662 切换按钮 9:16
+													7663 切换按钮 4:3
+													7664 切换按钮 3:4
+													7665 切换按钮 3:2
+													7666 切换按钮 2:3
+													7667 切换按钮 5:4
+													7668 切换按钮 4:5
+													7669 切换按钮 21:9
+												7670 文本 补充要求
+												7671 文本 0
+												7672 文本 /500
+												7673 编辑 (settable, string) 补充要求 0/500 Description: 例如：背景偏暖，留出右侧空间…
+												7674 详细信息
+													7675 开合三角标记 更多设置 +
+														7676 图形
+														7677 文本 更多设置
+														7678 文本 +
+												7679 文本 生成后请对照原图，检查包装文字、标识和产品细节。
+												7680 按钮 (disabled) 开始拍摄
+													7681 图形
+													7682 图形
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				6321 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+```
+PHOTO COUPLE TWO SLOTS
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										7325 对话框 AI 照相馆 Secondary Actions: Raise
+											7326 标题
+												7327 图形
+												7328 标题 AI 照相馆 ID: photo-studio-title
+												7329 文本 PHOTO STUDIO
+												7330 按钮 我的作品
+													7331 图形
+												7332 按钮 关闭照相馆
+													7333 图形
+											7765 按钮 返回模板馆
+												7766 图形
+											7767 文本 风格预览
+											7768 图形 雪山誓约
+											7769 文本 风格预览
+											7770 补充
+												7771 文本 情侣婚纱
+												7772 文本 AI 摄影
+												7773 标题 雪山誓约
+												7774 文本 雪山、晨光与青绿草甸，打造电影感双人全身婚纱照，默认 4K。
+												7775 文本 01
+												7776 标题 上传新娘照片（参考图 1）
+												7777 按钮 上传照片
+													7778 图形
+												7779 文本 建议使用清晰、无遮挡的单人照片，正面或微侧面都可以。
+												7780 文本 手机自拍一张，上传即可开始制作
+												7781 文本 02
+												7782 标题 上传新郎照片（参考图 2）
+												7783 按钮 上传新郎照片（参考图 2）
+													7784 图形
+												7785 文本 建议使用清晰、无遮挡的单人照片，正面或微侧面都可以。
+												7786 文本 手机自拍一张，上传即可开始制作
+												7787 文本 分别上传两人的清晰照片。婚纱默认 4K；打印尺寸请以实际输出像素为准。
+												7788 文本 模板提示词（已自动填入，可修改）
+												7789 编辑 (settable, string) 模板提示词（已自动填入，可修改） Value: Character reference: Bride's facial features, temperament and hairstyle reference Image 1; Groom's facial features, temperament and body shape reference Image 2. Preserve both uploaded identities separately; do not swap or blend faces. Hyper-realistic cinematic wedding photography, 8K, shot on Fujifilm GFX100S, Classic Chrome film simulation, fisheye/ultra-wide lens (14mm equivalent), aperture f/4, shutter 1/800s, ISO 100, white balance 5200K, exposure -0.3EV, full body, movie poster composition, widescreen. A happy sweet couple standing on a vast open green meadow, dotted with tiny wildflowers and glistening dewdrops, morning mist in the air. Majestic sacred snow mountains in the background, peaks glittering cold silver, clear ridge textures, thin mist wrapping the mountainside, golden light beams piercing through clouds. Groom wears Italian luxury custom double-breasted peaked lapel suit, dark grey velvet and high-quality wool blend, fine texture, silk pocket square, exquisite black bow tie, metal cufflinks slightly shining, non-business style, tall and upright. Bride wears heavy-craft luxurious trailing wedding gown, hem spread on grass, intricate lace embroidery like vines, hand-sewn pearls and crystals sparkling, layers of sheer tulle like clouds, delicate diamond crown, long sheer veil flowing in the wind with fine lace edges. They stand side by side, looking at the camera, with extremely happy, joyful and natural smiles, eyes bright with light. Groom gently holds bride's waist, bride leans slightly on his shoulder, intimate and elegant. Sunlight piercing clouds creates soft golden rim light, outlining their silhouettes and hair, hair tips glowing warmly. Gentle wind blows the bride's veil and gown, grass swaying, dewdrops shimmering. Subjects crisp and sharp, realistic skin texture, delicate pores and lip lines, background snow mountains softly blurred, beautiful depth of field. Atmosphere full, extreme details, soft skin tones, romantic. Cinematic color grading, Fujifilm Classic Chrome colors, low saturation high contrast, teal green meadow and warm gold sunlight，全身照，不是半身。Both people fully visible from head to toe, with space around their heads, feet and the complete gown train. No text or watermark.
+												7790 文本 03
+												7791 标题 为你调整
+												7792 组 画面比例
+													7793 文本 画面比例
+													7794 切换按钮 1:1
+													7795 切换按钮 16:9
+													7796 切换按钮 9:16
+													7797 切换按钮 4:3
+													7798 切换按钮 3:4
+													7799 切换按钮 3:2
+													7800 切换按钮 2:3
+													7801 切换按钮 5:4
+													7802 切换按钮 4:5
+													7803 切换按钮 21:9
+												7804 文本 补充要求
+												7805 文本 0
+												7806 文本 /500
+												7807 编辑 (settable, string) 补充要求 0/500 Description: 例如：保留眼镜，服装简洁一些…
+												7808 详细信息
+													7809 开合三角标记 更多设置 +
+														7810 图形
+														7811 文本 更多设置
+														7812 文本 +
+												7813 按钮 (disabled) 开始拍摄
+													7814 图形
+													7815 图形
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				6321 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+```
+PHOTO COUPLE SUBMIT PARAMETERS
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										7325 对话框 AI 照相馆 Secondary Actions: Raise
+											7326 标题
+												7327 图形
+												7328 标题 AI 照相馆 ID: photo-studio-title
+												7329 文本 PHOTO STUDIO
+												7330 按钮 我的作品
+													7331 图形
+												7332 按钮 关闭照相馆
+													7333 图形
+											7765 按钮 返回模板馆
+												7766 图形
+											7767 文本 风格预览
+											7768 图形 雪山誓约
+											7769 文本 风格预览
+											7770 补充
+												7771 文本 情侣婚纱
+												7772 文本 AI 摄影
+												7773 标题 雪山誓约
+												7774 文本 雪山、晨光与青绿草甸，打造电影感双人全身婚纱照，默认 4K。
+												7775 文本 01
+												7776 标题 上传新娘照片（参考图 1）
+												7777 按钮 更换照片
+													7927 图形 参考照片
+													7928 图形
+												7929 按钮 移除照片
+													7930 图形
+												7779 文本 建议使用清晰、无遮挡的单人照片，正面或微侧面都可以。
+												7780 文本 手机自拍一张，上传即可开始制作
+												7781 文本 02
+												7782 标题 上传新郎照片（参考图 2）
+												7783 按钮 上传新郎照片（参考图 2）
+													8042 图形 上传新郎照片（参考图 2）
+													8043 图形
+												8044 按钮 移除照片
+													8045 图形
+												7785 文本 建议使用清晰、无遮挡的单人照片，正面或微侧面都可以。
+												7786 文本 手机自拍一张，上传即可开始制作
+												7787 文本 分别上传两人的清晰照片。婚纱默认 4K；打印尺寸请以实际输出像素为准。
+												7788 文本 模板提示词（已自动填入，可修改）
+												7789 编辑 (settable, string) 模板提示词（已自动填入，可修改） Value: Character reference: Bride's facial features, temperament and hairstyle reference Image 1; Groom's facial features, temperament and body shape reference Image 2. Preserve both uploaded identities separately; do not swap or blend faces. Hyper-realistic cinematic wedding photography, 8K, shot on Fujifilm GFX100S, Classic Chrome film simulation, fisheye/ultra-wide lens (14mm equivalent), aperture f/4, shutter 1/800s, ISO 100, white balance 5200K, exposure -0.3EV, full body, movie poster composition, widescreen. A happy sweet couple standing on a vast open green meadow, dotted with tiny wildflowers and glistening dewdrops, morning mist in the air. Majestic sacred snow mountains in the background, peaks glittering cold silver, clear ridge textures, thin mist wrapping the mountainside, golden light beams piercing through clouds. Groom wears Italian luxury custom double-breasted peaked lapel suit, dark grey velvet and high-quality wool blend, fine texture, silk pocket square, exquisite black bow tie, metal cufflinks slightly shining, non-business style, tall and upright. Bride wears heavy-craft luxurious trailing wedding gown, hem spread on grass, intricate lace embroidery like vines, hand-sewn pearls and crystals sparkling, layers of sheer tulle like clouds, delicate diamond crown, long sheer veil flowing in the wind with fine lace edges. They stand side by side, looking at the camera, with extremely happy, joyful and natural smiles, eyes bright with light. Groom gently holds bride's waist, bride leans slightly on his shoulder, intimate and elegant. Sunlight piercing clouds creates soft golden rim light, outlining their silhouettes and hair, hair tips glowing warmly. Gentle wind blows the bride's veil and gown, grass swaying, dewdrops shimmering. Subjects crisp and sharp, realistic skin texture, delicate pores and lip lines, background snow mountains softly blurred, beautiful depth of field. Atmosphere full, extreme details, soft skin tones, romantic. Cinematic color grading, Fujifilm Classic Chrome colors, low saturation high contrast, teal green meadow and warm gold sunlight，全身照，不是半身。Both people fully visible from head to toe, with space around their heads, feet and the complete gown train. No text or watermark.
+												7790 文本 03
+												7791 标题 为你调整
+												7792 组 画面比例
+													7793 文本 画面比例
+													7794 切换按钮 1:1
+													7795 切换按钮 16:9
+													7796 切换按钮 9:16
+													7797 切换按钮 4:3
+													7798 切换按钮 3:4
+													7799 切换按钮 3:2
+													7800 切换按钮 2:3
+													7801 切换按钮 5:4
+													7802 切换按钮 4:5
+													7803 切换按钮 21:9
+												7804 文本 补充要求
+												7805 文本 82
+												7806 文本 /500
+												7807 编辑 (settable, string) 补充要求 82/500 Description: 例如：保留眼镜，服装简洁一些… Value: 仅有两位主体：图1右侧的AI女子作为新娘，图2山羊拟人角色作为新郎，保留山羊角、羊脸和白毛，不能变成人类男性。图1的三件空服装不要带入结果。不要其他人、文字或水印。
+												7808 详细信息
+													7809 开合三角标记 更多设置 −
+														7810 图形
+														7811 文本 更多设置
+														8051 文本 −
+													8047 文本 生成模型
+													8048 按钮 ChatGPT Image 2
+													8049 文本 清晰度
+													8050 按钮 2K
+												7813 按钮 开始拍摄
+													7814 图形
+													7815 图形
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				8041 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+仅有两位主体：图1右侧的AI女子作为新娘，图2山羊拟人角色作为新郎，保留山羊角、羊脸和白毛，不能变成人类男性。图1的三件空服装不要带入结果。不要其他人、文字或水印。
+```
+GENERAL SETTINGS ACTUAL DOWNLOADS
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										8376 对话框 设置 Secondary Actions: Raise
+											8377 标题
+												8378 图形
+												8379 标题 设置 ID: preferences-title
+												8380 按钮 关闭
+													8381 图形
+											8382 补充
+												8383 导航 设置
+													8384 按钮 账号与豆
+														8385 图形
+													8386 按钮 通用设置
+														8387 图形
+													8388 按钮 使用日志
+														8389 图形
+													8390 按钮 帮助与教程
+														8391 图形
+													8392 按钮 关于软件
+														8393 图形
+												8394 图形
+												8395 文本 让工具，更合你的习惯。
+												8396 文本 v
+												8397 文本 7.7.1
+											8398 主要
+												8399 标题 通用设置
+												8400 文本 选好保存位置，其他交给创作。
+												8401 状态
+													8402 文本 修改后自动保存
+												8403 图形
+												8404 标题 默认保存位置
+												8405 文本 下载图片、视频和分镜时，优先使用此文件夹。项目仍由软件自动保存。
+												8406 文本 C:\Users\zhj93\Downloads
+												8407 按钮 更换位置
+												8408 按钮 打开文件夹
+												8409 按钮 取消默认位置
+												8410 详细信息
+													8411 开合三角标记 高级选项 外观与分镜偏好，默认设置即可开始创作。
+														8412 图形
+														8413 文本 高级选项
+														8414 文本 外观与分镜偏好，默认设置即可开始创作。
+														8415 图形
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				8041 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+设置
+￼
+￼
+账号与豆
+￼
+通用设置
+￼
+使用日志
+￼
+帮助与教程
+￼
+关于软件
+￼
+让工具，更合你的习惯。
+v7.7.1
+通用设置
+选好保存位置，其他交给创作。
+修改后自动保存
+￼
+默认保存位置
+下载图片、视频和分镜时，优先使用此文件夹。项目仍由软件自动保存。
+C:\Users\zhj93\Downloads
+更换位置
+打开文件夹
+取消默认位置
+￼
+高级选项
+外观与分镜偏好，默认设置即可开始创作。
+￼
+```
+STORYBOARD PREFERENCES BEFORE
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										8376 对话框 设置 Secondary Actions: Raise
+											8377 标题
+												8378 图形
+												8379 标题 设置 ID: preferences-title
+												8380 按钮 关闭
+													8381 图形
+											8382 补充
+												8383 导航 设置
+													8384 按钮 账号与豆
+														8385 图形
+													8386 按钮 通用设置
+														8387 图形
+													8388 按钮 使用日志
+														8389 图形
+													8390 按钮 帮助与教程
+														8391 图形
+													8392 按钮 关于软件
+														8393 图形
+												8394 图形
+												8395 文本 让工具，更合你的习惯。
+												8396 文本 v
+												8397 文本 7.7.1
+											8398 主要
+												8399 标题 通用设置
+												8400 文本 选好保存位置，其他交给创作。
+												8401 状态
+													8402 文本 修改后自动保存
+												8403 图形
+												8404 标题 默认保存位置
+												8405 文本 下载图片、视频和分镜时，优先使用此文件夹。项目仍由软件自动保存。
+												8406 文本 C:\Users\zhj93\Downloads
+												8407 按钮 更换位置
+												8408 按钮 打开文件夹
+												8409 按钮 取消默认位置
+												8410 详细信息
+													8411 开合三角标记 高级选项 外观与分镜偏好，默认设置即可开始创作。
+														8412 图形
+														8413 文本 高级选项
+														8414 文本 外观与分镜偏好，默认设置即可开始创作。
+														8415 图形
+													8416 标题 界面与画布
+													8417 标题 界面圆角
+													8418 组合框 (settable, string) 界面圆角 Value: 默认
+													8419 标题 界面色调
+													8420 组合框 (settable, string) 界面色调 Value: 中性
+													8421 标题 主题强调色
+													8422 文本 用于画布等工作区域的重点提示。
+													8423 颜色选择器 (settable, string) 主题强调色 Value: 23% red 50% green 96% blue
+													8424 按钮 恢复默认
+													8425 标题 画布连线
+													8426 组合框 (settable, string) 画布连线 Value: 曲线
+													8427 标题 分镜与创作
+													8428 标题 上传节点自动使用文件名作为标题 ID: :rt:
+													8429 文本 启用后，新上传图片会默认使用文件名作为节点标题（仍可双击手动重命名）。
+													8430 切换 (settable, string) 上传节点自动使用文件名作为标题
+													8431 标题 分镜图风格与参考图保持一致 ID: :ru:
+													8432 文本 启用后，分镜生成提示词会追加“图片风格与参考图保持一致”。
+													8433 切换 (settable, string) 分镜图风格与参考图保持一致
+													8434 标题 分镜图禁止生成描述文本 ID: :rv:
+													8435 文本 启用后，分镜生成提示词会追加“禁止添加描述文本”。
+													8436 切换 (settable, string) 分镜图禁止生成描述文本
+													8437 标题 空分镜自动推测 ID: :r10:
+													8438 文本 启用后，分镜生成时如果某个格子没有填写内容，会自动追加“依据之前的内容进行推测”。
+													8439 切换 (settable, string) 空分镜自动推测
+													8440 标题 复制/保存文本时忽略 @ 标签 ID: :r11:
+													8441 文本 启用后，复制文本和写入图片分镜元数据时会忽略类似“@图1”的标签；发送生成请求时仅移除“@”并保留“图1”。
+													8442 切换 (settable, string) 复制/保存文本时忽略 @ 标签
+													8443 标题 启用分镜网格预览快捷键 ID: :r12:
+													8444 文本 启用后，在分镜生成节点按住 Ctrl + Alt + Shift 点击“生成”会直接输出网格预览图，不发送 AI 请求。
+													8445 切换 (settable, string) 启用分镜网格预览快捷键
+													8446 标题 显示分镜比例高级控制 ID: :r13:
+													8447 文本 启用后显示单格/整体比例信息和“整体比/单格比”切换；关闭时默认按单格比逻辑运行。
+													8448 切换 (settable, string) 显示分镜比例高级控制
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				8041 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+设置
+￼
+￼
+账号与豆
+￼
+通用设置
+￼
+使用日志
+￼
+帮助与教程
+￼
+关于软件
+￼
+让工具，更合你的习惯。
+v7.7.1
+通用设置
+选好保存位置，其他交给创作。
+修改后自动保存
+￼
+默认保存位置
+下载图片、视频和分镜时，优先使用此文件夹。项目仍由软件自动保存。
+C:\Users\zhj93\Downloads
+更换位置
+打开文件夹
+取消默认位置
+￼
+高级选项
+外观与分镜偏好，默认设置即可开始创作。
+￼
+界面与画布
+界面圆角
+界面圆角
+界面色调
+界面色调
+主题强调色
+用于画布等工作区域的重点提示。
+主题强调色
+恢复默认
+画布连线
+画布连线
+分镜与创作
+上传节点自动使用文件名作为标题
+启用后，新上传图片会默认使用文件名作为节点标题（仍可双击手动重命名）。
+￼
+分镜图风格与参考图保持一致
+启用后，分镜生成提示词会追加“图片风格与参考图保持一致”。
+￼
+分镜图禁止生成描述文本
+启用后，分镜生成提示词会追加“禁止添加描述文本”。
+￼
+空分镜自动推测
+启用后，分镜生成时如果某个格子没有填写内容，会自动追加“依据之前的内容进行推测”。
+￼
+复制/保存文本时忽略 @ 标签
+启用后，复制文本和写入图片分镜元数据时会忽略类似“@图1”的标签；发送生成请求时仅移除“@”并保留“图1”。
+￼
+启用分镜网格预览快捷键
+启用后，在分镜生成节点按住 Ctrl + Alt + Shift 点击“生成”会直接输出网格预览图，不发送 AI 请求。
+￼
+显示分镜比例高级控制
+启用后显示单格/整体比例信息和“整体比/单格比”切换；关闭时默认按单格比逻辑运行。
+￼
+```
+PREFERENCES ORIGINAL: filename/style/no-text/infer/ignore-tags ON; preview-shortcut/advanced-ratio OFF
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										8376 对话框 设置 Secondary Actions: Raise
+											8377 标题
+												8378 图形
+												8379 标题 设置 ID: preferences-title
+												8380 按钮 关闭
+													8381 图形
+											8382 补充
+												8383 导航 设置
+													8384 按钮 账号与豆
+														8385 图形
+													8386 按钮 通用设置
+														8387 图形
+													8388 按钮 使用日志
+														8389 图形
+													8390 按钮 帮助与教程
+														8391 图形
+													8392 按钮 关于软件
+														8393 图形
+												8394 图形
+												8395 文本 让工具，更合你的习惯。
+												8396 文本 v
+												8397 文本 7.7.1
+											8398 主要
+												8399 标题 通用设置
+												8400 文本 选好保存位置，其他交给创作。
+												8401 状态
+													8402 文本 修改后自动保存
+												8403 图形
+												8404 标题 默认保存位置
+												8405 文本 下载图片、视频和分镜时，优先使用此文件夹。项目仍由软件自动保存。
+												8406 文本 C:\Users\zhj93\Downloads
+												8407 按钮 更换位置
+												8408 按钮 打开文件夹
+												8409 按钮 取消默认位置
+												8410 详细信息
+													8411 开合三角标记 高级选项 外观与分镜偏好，默认设置即可开始创作。
+														8412 图形
+														8413 文本 高级选项
+														8414 文本 外观与分镜偏好，默认设置即可开始创作。
+														8415 图形
+													8416 标题 界面与画布
+													8417 标题 界面圆角
+													8418 组合框 (settable, string) 界面圆角 Value: 默认
+													8419 标题 界面色调
+													8420 组合框 (settable, string) 界面色调 Value: 中性
+													8421 标题 主题强调色
+													8422 文本 用于画布等工作区域的重点提示。
+													8423 颜色选择器 (settable, string) 主题强调色 Value: 23% red 50% green 96% blue
+													8424 按钮 恢复默认
+													8425 标题 画布连线
+													8426 组合框 (settable, string) 画布连线 Value: 曲线
+													8427 标题 分镜与创作
+													8428 标题 上传节点自动使用文件名作为标题 ID: :rt:
+													8429 文本 启用后，新上传图片会默认使用文件名作为节点标题（仍可双击手动重命名）。
+													8430 切换 (settable, string) 上传节点自动使用文件名作为标题
+													8431 标题 分镜图风格与参考图保持一致 ID: :ru:
+													8432 文本 启用后，分镜生成提示词会追加“图片风格与参考图保持一致”。
+													8433 切换 (settable, string) 分镜图风格与参考图保持一致
+													8434 标题 分镜图禁止生成描述文本 ID: :rv:
+													8435 文本 启用后，分镜生成提示词会追加“禁止添加描述文本”。
+													8436 切换 (settable, string) 分镜图禁止生成描述文本
+													8437 标题 空分镜自动推测 ID: :r10:
+													8438 文本 启用后，分镜生成时如果某个格子没有填写内容，会自动追加“依据之前的内容进行推测”。
+													8439 切换 (settable, string) 空分镜自动推测
+													8440 标题 复制/保存文本时忽略 @ 标签 ID: :r11:
+													8441 文本 启用后，复制文本和写入图片分镜元数据时会忽略类似“@图1”的标签；发送生成请求时仅移除“@”并保留“图1”。
+													8442 切换 (settable, string) 复制/保存文本时忽略 @ 标签
+													8443 标题 启用分镜网格预览快捷键 ID: :r12:
+													8444 文本 启用后，在分镜生成节点按住 Ctrl + Alt + Shift 点击“生成”会直接输出网格预览图，不发送 AI 请求。
+													8445 切换 (settable, string) 启用分镜网格预览快捷键
+													8446 标题 显示分镜比例高级控制 ID: :r13:
+													8447 文本 启用后显示单格/整体比例信息和“整体比/单格比”切换；关闭时默认按单格比逻辑运行。
+													8448 切换 (settable, string) 显示分镜比例高级控制
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				8041 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+设置
+￼
+￼
+账号与豆
+￼
+通用设置
+￼
+使用日志
+￼
+帮助与教程
+￼
+关于软件
+￼
+让工具，更合你的习惯。
+v7.7.1
+通用设置
+选好保存位置，其他交给创作。
+修改后自动保存
+￼
+默认保存位置
+下载图片、视频和分镜时，优先使用此文件夹。项目仍由软件自动保存。
+C:\Users\zhj93\Downloads
+更换位置
+打开文件夹
+取消默认位置
+￼
+高级选项
+外观与分镜偏好，默认设置即可开始创作。
+￼
+界面与画布
+界面圆角
+界面圆角
+界面色调
+界面色调
+主题强调色
+用于画布等工作区域的重点提示。
+主题强调色
+恢复默认
+画布连线
+画布连线
+分镜与创作
+上传节点自动使用文件名作为标题
+启用后，新上传图片会默认使用文件名作为节点标题（仍可双击手动重命名）。
+￼
+分镜图风格与参考图保持一致
+启用后，分镜生成提示词会追加“图片风格与参考图保持一致”。
+￼
+分镜图禁止生成描述文本
+启用后，分镜生成提示词会追加“禁止添加描述文本”。
+￼
+空分镜自动推测
+启用后，分镜生成时如果某个格子没有填写内容，会自动追加“依据之前的内容进行推测”。
+￼
+复制/保存文本时忽略 @ 标签
+启用后，复制文本和写入图片分镜元数据时会忽略类似“@图1”的标签；发送生成请求时仅移除“@”并保留“图1”。
+￼
+启用分镜网格预览快捷键
+启用后，在分镜生成节点按住 Ctrl + Alt + Shift 点击“生成”会直接输出网格预览图，不发送 AI 请求。
+￼
+显示分镜比例高级控制
+启用后显示单格/整体比例信息和“整体比/单格比”切换；关闭时默认按单格比逻辑运行。
+￼
+```
+ADVANCED RATIO RESTORED OFF; remaining switches unchanged
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										8938 对话框 设置 Secondary Actions: Raise
+											8939 标题
+												8940 图形
+												8941 标题 设置 ID: preferences-title
+												8942 按钮 关闭
+													8943 图形
+											8944 补充
+												8945 导航 设置
+													8946 按钮 账号与豆
+														8947 图形
+													8948 按钮 通用设置
+														8949 图形
+													8950 按钮 使用日志
+														8951 图形
+													8952 按钮 帮助与教程
+														8953 图形
+													8954 按钮 关于软件
+														8955 图形
+												8956 图形
+												8957 文本 让工具，更合你的习惯。
+												8958 文本 v
+												8959 文本 7.7.1
+											8960 主要
+												8961 标题 通用设置
+												8962 文本 选好保存位置，其他交给创作。
+												8963 状态
+													9011 图形
+													8964 文本 已保存
+												8965 图形
+												8966 标题 默认保存位置
+												8967 文本 下载图片、视频和分镜时，优先使用此文件夹。项目仍由软件自动保存。
+												8968 文本 C:\Users\zhj93\Downloads
+												8969 按钮 更换位置
+												8970 按钮 打开文件夹
+												8971 按钮 取消默认位置
+												8972 详细信息
+													8973 开合三角标记 高级选项 外观与分镜偏好，默认设置即可开始创作。
+														8974 图形
+														8975 文本 高级选项
+														8976 文本 外观与分镜偏好，默认设置即可开始创作。
+														8977 图形
+													8978 标题 界面与画布
+													8979 标题 界面圆角
+													8980 组合框 (settable, string) 界面圆角 Value: 默认
+													8981 标题 界面色调
+													8982 组合框 (settable, string) 界面色调 Value: 中性
+													8983 标题 主题强调色
+													8984 文本 用于画布等工作区域的重点提示。
+													8985 颜色选择器 (settable, string) 主题强调色 Value: 23% red 50% green 96% blue
+													8986 按钮 恢复默认
+													8987 标题 画布连线
+													8988 组合框 (settable, string) 画布连线 Value: 曲线
+													8989 标题 分镜与创作
+													8990 标题 上传节点自动使用文件名作为标题 ID: :r15:
+													8991 文本 启用后，新上传图片会默认使用文件名作为节点标题（仍可双击手动重命名）。
+													8992 切换 (settable, string) 上传节点自动使用文件名作为标题
+													8993 标题 分镜图风格与参考图保持一致 ID: :r16:
+													8994 文本 启用后，分镜生成提示词会追加“图片风格与参考图保持一致”。
+													8995 切换 (settable, string) 分镜图风格与参考图保持一致
+													8996 标题 分镜图禁止生成描述文本 ID: :r17:
+													8997 文本 启用后，分镜生成提示词会追加“禁止添加描述文本”。
+													8998 切换 (settable, string) 分镜图禁止生成描述文本
+													8999 标题 空分镜自动推测 ID: :r18:
+													9000 文本 启用后，分镜生成时如果某个格子没有填写内容，会自动追加“依据之前的内容进行推测”。
+													9001 切换 (settable, string) 空分镜自动推测
+													9002 标题 复制/保存文本时忽略 @ 标签 ID: :r19:
+													9003 文本 启用后，复制文本和写入图片分镜元数据时会忽略类似“@图1”的标签；发送生成请求时仅移除“@”并保留“图1”。
+													9004 切换 (settable, string) 复制/保存文本时忽略 @ 标签
+													9005 标题 启用分镜网格预览快捷键 ID: :r1a:
+													9006 文本 启用后，在分镜生成节点按住 Ctrl + Alt + Shift 点击“生成”会直接输出网格预览图，不发送 AI 请求。
+													9007 切换 (settable, string) 启用分镜网格预览快捷键
+													9008 标题 显示分镜比例高级控制 ID: :r1b:
+													9009 文本 启用后显示单格/整体比例信息和“整体比/单格比”切换；关闭时默认按单格比逻辑运行。
+													9010 切换 (settable, string) 显示分镜比例高级控制
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				8041 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+设置
+￼
+￼
+账号与豆
+￼
+通用设置
+￼
+使用日志
+￼
+帮助与教程
+￼
+关于软件
+￼
+让工具，更合你的习惯。
+v7.7.1
+通用设置
+选好保存位置，其他交给创作。
+￼
+已保存
+￼
+默认保存位置
+下载图片、视频和分镜时，优先使用此文件夹。项目仍由软件自动保存。
+C:\Users\zhj93\Downloads
+更换位置
+打开文件夹
+取消默认位置
+￼
+高级选项
+外观与分镜偏好，默认设置即可开始创作。
+￼
+界面与画布
+界面圆角
+界面圆角
+界面色调
+界面色调
+主题强调色
+用于画布等工作区域的重点提示。
+主题强调色
+恢复默认
+画布连线
+画布连线
+分镜与创作
+上传节点自动使用文件名作为标题
+启用后，新上传图片会默认使用文件名作为节点标题（仍可双击手动重命名）。
+￼
+分镜图风格与参考图保持一致
+启用后，分镜生成提示词会追加“图片风格与参考图保持一致”。
+￼
+分镜图禁止生成描述文本
+启用后，分镜生成提示词会追加“禁止添加描述文本”。
+￼
+空分镜自动推测
+启用后，分镜生成时如果某个格子没有填写内容，会自动追加“依据之前的内容进行推测”。
+￼
+复制/保存文本时忽略 @ 标签
+启用后，复制文本和写入图片分镜元数据时会忽略类似“@图1”的标签；发送生成请求时仅移除“@”并保留“图1”。
+￼
+启用分镜网格预览快捷键
+启用后，在分镜生成节点按住 Ctrl + Alt + Shift 点击“生成”会直接输出网格预览图，不发送 AI 请求。
+￼
+显示分镜比例高级控制
+启用后显示单格/整体比例信息和“整体比/单格比”切换；关闭时默认按单格比逻辑运行。
+￼
+```
+=== couple returned ===
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										10462 对话框 AI 照相馆 Secondary Actions: Raise
+											10463 标题
+												10464 图形
+												10465 标题 AI 照相馆 ID: photo-studio-title
+												10466 文本 PHOTO STUDIO
+												10467 按钮 我的作品
+													10468 图形
+												10469 按钮 关闭照相馆
+													10470 图形
+											10471 按钮 返回模板馆
+												10472 图形
+											10473 文本 你的新照片
+											10474 图形 你的新照片
+											10475 文本 你的新照片
+											10476 切换按钮 查看原照
+												10477 图形
+												10478 文本 查看原照
+											10479 补充
+												10480 文本 情侣婚纱
+												10481 文本 AI 摄影
+												10482 标题 雪山誓约
+												10483 文本 雪山、晨光与青绿草甸，打造电影感双人全身婚纱照，默认 4K。
+												10484 文本 01
+												10485 标题 上传新娘照片（参考图 1）
+												10486 按钮 更换照片
+													10487 图形 参考照片
+													10488 图形
+												10489 按钮 移除照片
+													10490 图形
+												10491 文本 建议使用清晰、无遮挡的单人照片，正面或微侧面都可以。
+												10492 文本 手机自拍一张，上传即可开始制作
+												10493 文本 02
+												10494 标题 上传新郎照片（参考图 2）
+												10495 按钮 上传新郎照片（参考图 2）
+													10496 图形 上传新郎照片（参考图 2）
+													10497 图形
+												10498 按钮 移除照片
+													10499 图形
+												10500 文本 建议使用清晰、无遮挡的单人照片，正面或微侧面都可以。
+												10501 文本 手机自拍一张，上传即可开始制作
+												10502 文本 分别上传两人的清晰照片。婚纱默认 4K；打印尺寸请以实际输出像素为准。
+												10503 文本 模板提示词（已自动填入，可修改）
+												10504 编辑 (settable, string) 模板提示词（已自动填入，可修改） Value: Character reference: Bride's facial features, temperament and hairstyle reference Image 1; Groom's facial features, temperament and body shape reference Image 2. Preserve both uploaded identities separately; do not swap or blend faces. Hyper-realistic cinematic wedding photography, 8K, shot on Fujifilm GFX100S, Classic Chrome film simulation, fisheye/ultra-wide lens (14mm equivalent), aperture f/4, shutter 1/800s, ISO 100, white balance 5200K, exposure -0.3EV, full body, movie poster composition, widescreen. A happy sweet couple standing on a vast open green meadow, dotted with tiny wildflowers and glistening dewdrops, morning mist in the air. Majestic sacred snow mountains in the background, peaks glittering cold silver, clear ridge textures, thin mist wrapping the mountainside, golden light beams piercing through clouds. Groom wears Italian luxury custom double-breasted peaked lapel suit, dark grey velvet and high-quality wool blend, fine texture, silk pocket square, exquisite black bow tie, metal cufflinks slightly shining, non-business style, tall and upright. Bride wears heavy-craft luxurious trailing wedding gown, hem spread on grass, intricate lace embroidery like vines, hand-sewn pearls and crystals sparkling, layers of sheer tulle like clouds, delicate diamond crown, long sheer veil flowing in the wind with fine lace edges. They stand side by side, looking at the camera, with extremely happy, joyful and natural smiles, eyes bright with light. Groom gently holds bride's waist, bride leans slightly on his shoulder, intimate and elegant. Sunlight piercing clouds creates soft golden rim light, outlining their silhouettes and hair, hair tips glowing warmly. Gentle wind blows the bride's veil and gown, grass swaying, dewdrops shimmering. Subjects crisp and sharp, realistic skin texture, delicate pores and lip lines, background snow mountains softly blurred, beautiful depth of field. Atmosphere full, extreme details, soft skin tones, romantic. Cinematic color grading, Fujifilm Classic Chrome colors, low saturation high contrast, teal green meadow and warm gold sunlight，全身照，不是半身。Both people fully visible from head to toe, with space around their heads, feet and the complete gown train. No text or watermark.
+												10505 文本 03
+												10506 标题 为你调整
+												10507 组 画面比例
+													10508 文本 画面比例
+													10509 切换按钮 1:1
+													10510 切换按钮 16:9
+													10511 切换按钮 9:16
+													10512 切换按钮 4:3
+													10513 切换按钮 3:4
+													10514 切换按钮 3:2
+													10515 切换按钮 2:3
+													10516 切换按钮 5:4
+													10517 切换按钮 4:5
+													10518 切换按钮 21:9
+												10519 文本 补充要求
+												10520 文本 82
+												10521 文本 /500
+												10522 编辑 (settable, string) 补充要求 82/500 Description: 例如：保留眼镜，服装简洁一些… Value: 仅有两位主体：图1右侧的AI女子作为新娘，图2山羊拟人角色作为新郎，保留山羊角、羊脸和白毛，不能变成人类男性。图1的三件空服装不要带入结果。不要其他人、文字或水印。
+												10523 详细信息
+													10524 开合三角标记 更多设置 +
+														10525 图形
+														10526 文本 更多设置
+														10527 文本 +
+												10528 按钮 下载照片
+													10529 图形
+												10530 按钮 加入画布
+													10531 图形
+												10532 按钮 再拍一张
+													10533 图形
+													10534 图形
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				10393 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+AI 照相馆
+PHOTO STUDIO
+￼
+我的作品
+￼
+￼
+返回模板馆
+你的新照片
+￼
+你的新照片
+￼
+查看原照
+情侣婚纱
+AI 摄影
+雪山誓约
+雪山、晨光与青绿草甸，打造电影感双人全身婚纱照，默认 4K。
+01
+上传新娘照片（参考图 1）
+￼
+￼
+更换照片
+￼
+建议使用清晰、无遮挡的单人照片，正面或微侧面都可以。
+手机自拍一张，上传即可开始制作
+02
+上传新郎照片（参考图 2）
+￼
+￼
+更换照片
+￼
+建议使用清晰、无遮挡的单人照片，正面或微侧面都可以。
+手机自拍一张，上传即可开始制作
+分别上传两人的清晰照片。婚纱默认 4K；打印尺寸请以实际输出像素为准。
+模板提示词（已自动填入，可修改）
+Character reference: Bride's facial features, temperament and hairstyle reference Image 1; Groom's facial features, temperament and body shape reference Image 2. Preserve both uploaded identities separately; do not swap or blend faces.
+
+Hyper-realistic cinematic wedding photography, 8K, shot on Fujifilm GFX100S, Classic Chrome film simulation, fisheye/ultra-wide lens (14mm equivalent), aperture f/4, shutter 1/800s, ISO 100, white balance 5200K, exposure -0.3EV, full body, movie poster composition, widescreen.
+A happy sweet couple standing on a vast open green meadow, dotted with tiny wildflowers and glistening dewdrops, morning mist in the air. Majestic sacred snow mountains in the background, peaks glittering cold silver, clear ridge textures, thin mist wrapping the mountainside, golden light beams piercing through clouds.
+Groom wears Italian luxury custom double-breasted peaked lapel suit, dark grey velvet and high-quality wool blend, fine texture, silk pocket square, exquisite black bow tie, metal cufflinks slightly shining, non-business style, tall and upright. Bride wears heavy-craft luxurious trailing wedding gown, hem spread on grass, intricate lace embroidery like vines, hand-sewn pearls and crystals sparkling, layers of sheer tulle like clouds, delicate diamond crown, long sheer veil flowing in the wind with fine lace edges.
+They stand side by side, looking at the camera, with extremely happy, joyful and natural smiles, eyes bright with light. Groom gently holds bride's waist, bride leans slightly on his shoulder, intimate and elegant. Sunlight piercing clouds creates soft golden rim light, outlining their silhouettes and hair, hair tips glowing warmly. Gentle wind blows the bride's veil and gown, grass swaying, dewdrops shimmering.
+Subjects crisp and sharp, realistic skin texture, delicate pores and lip lines, background snow mountains softly blurred, beautiful depth of field. Atmosphere full, extreme details, soft skin tones, romantic. Cinematic color grading, Fujifilm Classic Chrome colors, low saturation high contrast, teal green meadow and warm gold sunlight，全身照，不是半身。Both people fully visible from head to toe, with space around their heads, feet and the complete gown train. No text or watermark.
+03
+为你调整
+画面比例
+1:1
+16:9
+9:16
+4:3
+3:4
+3:2
+2:3
+5:4
+4:5
+21:9
+补充要求
+82/500
+仅有两位主体：图1右侧的AI女子作为新娘，图2山羊拟人角色作为新郎，保留山羊角、羊脸和白毛，不能变成人类男性。图1的三件空服装不要带入结果。不要其他人、文字或水印。
+￼
+更多设置
++
+￼
+下载照片
+加入画布
+￼
+￼
+再拍一张
+￼
+```
+=== couple added to canvas ===
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										10645 组 ID: root
+											10646 按钮 返回 Description: 返回
+											10647 文本 灰豆AI光影引擎
+											10648 文本 36,393
+											10649 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											10650 按钮 AI 照相馆 Description: AI 照相馆
+												10651 图形
+											10652 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											10653 文本 v7.7.1
+											10654 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											10655 按钮 English Description: English
+											10656 按钮 浅色 Description: 浅色
+											10657 按钮 设置 Description: 设置
+											10658 按钮 最小化 Description: 最小化
+											10659 按钮 最大化 Description: 最大化
+											10660 按钮 关闭 Description: 关闭
+											10661 主要
+												10662 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												10663 应用程序
+													10664 组
+														10665 node
+															10666 组
+																10667 按钮 雪山誓约 Description: 雪山誓约
+																10668 图形 结果图
+																10669 组
+																10670 组
+																10671 组
+													10672 图形 Mini Map Description: Mini Map
+													10673 组 ID: react-flow__aria-live-1
+												10674 按钮 生成历史 Description: 生成历史
+													10675 组 共 1 条生成记录
+												10676 按钮 添加节点 Description: 添加节点
+												10677 切换按钮 选择节点 Description: 选择节点
+												10678 切换按钮 拖动画布 Description: 拖动画布
+												10679 按钮 100% Description: 恢复 100%
+												10680 滑块 (settable, float) 画布缩放 Value: 100
+												10681 按钮 适配视图 Description: 适配视图
+												10682 按钮 撤销 Description: 撤销
+												10683 按钮 (disabled) 重做 Description: 重做
+												10684 按钮 快捷键指南 Description: 快捷键指南
+												10685 按钮 素材库 Description: 素材库
+												10686 按钮 提示词库 Description: 提示词库
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				10393 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+灰豆AI光影引擎
+36,393
+新手手册
+￼
+AI 照相馆
+￼
+B站 / 抖音搜索：特效小哥灰豆
+v7.7.1
+打开下载图片文件夹（查看已保存图片）
+￼
+￼
+￼
+￼
+￼
+￼
+AI创作中心
+看图 · 读文档 · 写剧本 · 做创意
+￼
+￼
+雪山誓约
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+历史
+1
+添加节点
+￼
+￼
+100%
+画布缩放
+￼
+￼
+￼
+快捷键指南
+素材库
+提示词库
+```

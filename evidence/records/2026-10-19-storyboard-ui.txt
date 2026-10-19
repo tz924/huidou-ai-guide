@@ -1,0 +1,779 @@
+
+3x2 SINGLE-CELL MODE
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										8450 组 ID: root
+											8814 按钮 返回 Description: 返回
+											8452 文本 灰豆AI光影引擎
+											8453 文本 36,417
+											8454 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											8815 按钮 AI 照相馆 Description: AI 照相馆
+												8816 图形
+											8457 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											8458 文本 v7.7.1
+											8459 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											8460 按钮 English Description: English
+											8461 按钮 浅色 Description: 浅色
+											8462 按钮 设置 Description: 设置
+											8463 按钮 最小化 Description: 最小化
+											8464 按钮 最大化 Description: 最大化
+											8465 按钮 关闭 Description: 关闭
+											8466 主要
+												8817 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												8818 应用程序
+													8819 组
+														8913 图形
+															8914 edge Edge from b0c05dc5-5a3e-4506-a585-43704aa6d0f4 to 5304bf43-60a1-4be0-9b0e-8f50440be240
+														8915 node
+															8916 组
+																8917 图形
+																8918 按钮 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 Description: 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。
+																8919 图形 已上传素材
+																8920 组
+																8921 组
+														8858 node
+															8859 组
+																8860 按钮 分镜生成 Description: 分镜生成
+																8861 按钮 折叠 Description: 折叠
+																8862 文本 R
+																8863 按钮
+																8864 文本 3
+																8865 按钮
+																8866 文本 C
+																8867 按钮
+																8868 文本 2
+																8869 按钮
+																8870 文本 =
+																8871 文本 6
+																8872 文本 单格比例
+																8873 文本 :
+																8874 文本
+																8875 文本 1:1
+																8876 文本 |
+																8877 文本 整体比例
+																8878 文本 :
+																8879 文本
+																8880 文本 2:3
+																8881 按钮 整体比
+																8882 按钮 单格比
+																8883 文本 提示词小抄：
+																8884 文本 每格写“镜头(景别/角度)+人物动作+表情+环境/光影”；需要参考图/素材库就输入 @。
+																8896 编辑 (settable, string) 分镜 01 描述（输入 @ 选参考图/素材库） Description: 分镜 01 描述（输入 @ 选参考图/素材库） Value: @图1 正面中景，纯白背景，同一个红色木制立方体完整居中，无人无字。
+																8897 编辑 (settable, string) 分镜 02 描述（输入 @ 选参考图/素材库） Description: 分镜 02 描述（输入 @ 选参考图/素材库） Value: 同一个红色木块，镜头从右侧45度看，完整全景，纯白背景，无人无字。
+																8898 编辑 (settable, string) 分镜 03 描述（输入 @ 选参考图/素材库） Description: 分镜 03 描述（输入 @ 选参考图/素材库） Value: 俯视同一个红色木块，保留木纹和形状，纯白背景，无人无字。
+																8899 编辑 (settable, string) 分镜 04 描述（输入 @ 选参考图/素材库） Description: 分镜 04 描述（输入 @ 选参考图/素材库）
+																8924 编辑 (settable, string) 分镜 05 描述（输入 @ 选参考图/素材库） Description: 分镜 05 描述（输入 @ 选参考图/素材库）
+																8925 编辑 (settable, string) 分镜 06 描述（输入 @ 选参考图/素材库） Description: 分镜 06 描述（输入 @ 选参考图/素材库）
+																8889 按钮 ChatGPT Image 2
+																8890 按钮 自动 · 2K
+																8891 按钮
+																8892 文本 提示：每格输入 @ 可选「参考图/素材库」；先在节点工具条把图片加入素材库（模特/场景）
+																8893 组
+																8894 组
+																8895 组
+														8922 按钮 删除
+														8923 按钮 连接 · 1
+													8820 图形 Mini Map Description: Mini Map
+													8821 组 ID: react-flow__aria-live-1
+												8822 按钮 生成历史 Description: 生成历史
+													8823 组 共 0 条生成记录
+												8824 按钮 添加节点 Description: 添加节点
+												8825 切换按钮 选择节点 Description: 选择节点
+												8826 切换按钮 拖动画布 Description: 拖动画布
+												8827 按钮 118% Description: 恢复 100%
+												8828 滑块 (settable, float) 画布缩放 Value: 118
+												8829 按钮 适配视图 Description: 适配视图
+												8830 按钮 撤销 Description: 撤销
+												8831 按钮 (disabled) 重做 Description: 重做
+												8832 按钮 快捷键指南 Description: 快捷键指南
+												8833 按钮 素材库 Description: 素材库
+												8834 按钮 提示词库 Description: 提示词库
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				8041 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+```
+3x2 WHOLE MODE
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										8450 组 ID: root
+											8814 按钮 返回 Description: 返回
+											8452 文本 灰豆AI光影引擎
+											8453 文本 36,417
+											8454 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											8815 按钮 AI 照相馆 Description: AI 照相馆
+												8816 图形
+											8457 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											8458 文本 v7.7.1
+											8459 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											8460 按钮 English Description: English
+											8461 按钮 浅色 Description: 浅色
+											8462 按钮 设置 Description: 设置
+											8463 按钮 最小化 Description: 最小化
+											8464 按钮 最大化 Description: 最大化
+											8465 按钮 关闭 Description: 关闭
+											8466 主要
+												8817 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												8818 应用程序
+													8819 组
+														8913 图形
+															8914 edge Edge from b0c05dc5-5a3e-4506-a585-43704aa6d0f4 to 5304bf43-60a1-4be0-9b0e-8f50440be240
+														8915 node
+															8916 组
+																8917 图形
+																8918 按钮 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 Description: 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。
+																8919 图形 已上传素材
+																8920 组
+																8921 组
+														8858 node
+															8859 组
+																8860 按钮 分镜生成 Description: 分镜生成
+																8861 按钮 折叠 Description: 折叠
+																8862 文本 R
+																8863 按钮
+																8864 文本 3
+																8865 按钮
+																8866 文本 C
+																8867 按钮
+																8868 文本 2
+																8869 按钮
+																8870 文本 =
+																8871 文本 6
+																8872 文本 单格比例
+																8873 文本 :
+																8874 文本
+																8875 文本 3:2
+																8876 文本 |
+																8877 文本 整体比例
+																8878 文本 :
+																8879 文本
+																8880 文本 1:1
+																8881 按钮 整体比
+																8882 按钮 单格比
+																8883 文本 提示词小抄：
+																8884 文本 每格写“镜头(景别/角度)+人物动作+表情+环境/光影”；需要参考图/素材库就输入 @。
+																8896 编辑 (settable, string) 分镜 01 描述（输入 @ 选参考图/素材库） Description: 分镜 01 描述（输入 @ 选参考图/素材库） Value: @图1 正面中景，纯白背景，同一个红色木制立方体完整居中，无人无字。
+																8897 编辑 (settable, string) 分镜 02 描述（输入 @ 选参考图/素材库） Description: 分镜 02 描述（输入 @ 选参考图/素材库） Value: 同一个红色木块，镜头从右侧45度看，完整全景，纯白背景，无人无字。
+																8898 编辑 (settable, string) 分镜 03 描述（输入 @ 选参考图/素材库） Description: 分镜 03 描述（输入 @ 选参考图/素材库） Value: 俯视同一个红色木块，保留木纹和形状，纯白背景，无人无字。
+																8899 编辑 (settable, string) 分镜 04 描述（输入 @ 选参考图/素材库） Description: 分镜 04 描述（输入 @ 选参考图/素材库）
+																8924 编辑 (settable, string) 分镜 05 描述（输入 @ 选参考图/素材库） Description: 分镜 05 描述（输入 @ 选参考图/素材库）
+																8925 编辑 (settable, string) 分镜 06 描述（输入 @ 选参考图/素材库） Description: 分镜 06 描述（输入 @ 选参考图/素材库）
+																8889 按钮 ChatGPT Image 2
+																8890 按钮 自动 · 2K
+																8891 按钮
+																8892 文本 提示：每格输入 @ 可选「参考图/素材库」；先在节点工具条把图片加入素材库（模特/场景）
+																8893 组
+																8894 组
+																8895 组
+														8922 按钮 删除
+														8923 按钮 连接 · 1
+													8820 图形 Mini Map Description: Mini Map
+													8821 组 ID: react-flow__aria-live-1
+												8822 按钮 生成历史 Description: 生成历史
+													8823 组 共 0 条生成记录
+												8824 按钮 添加节点 Description: 添加节点
+												8825 切换按钮 选择节点 Description: 选择节点
+												8826 切换按钮 拖动画布 Description: 拖动画布
+												8827 按钮 118% Description: 恢复 100%
+												8828 滑块 (settable, float) 画布缩放 Value: 118
+												8829 按钮 适配视图 Description: 适配视图
+												8830 按钮 撤销 Description: 撤销
+												8831 按钮 (disabled) 重做 Description: 重做
+												8832 按钮 快捷键指南 Description: 快捷键指南
+												8833 按钮 素材库 Description: 素材库
+												8834 按钮 提示词库 Description: 提示词库
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				8041 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+```
+SUBMIT: 3x2; Image2 auto/2K; first3 filled last3 blank; one library prop
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										8450 组 ID: root
+											8814 按钮 返回 Description: 返回
+											8452 文本 灰豆AI光影引擎
+											8453 文本 36,417
+											8454 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											8815 按钮 AI 照相馆 Description: AI 照相馆
+												8816 图形
+											8457 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											8458 文本 v7.7.1
+											8459 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											8460 按钮 English Description: English
+											8461 按钮 浅色 Description: 浅色
+											8462 按钮 设置 Description: 设置
+											8463 按钮 最小化 Description: 最小化
+											8464 按钮 最大化 Description: 最大化
+											8465 按钮 关闭 Description: 关闭
+											8466 主要
+												8817 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												8818 应用程序
+													8819 组
+														8913 图形
+															8914 edge Edge from b0c05dc5-5a3e-4506-a585-43704aa6d0f4 to 5304bf43-60a1-4be0-9b0e-8f50440be240
+														8915 node
+															8916 组
+																8917 图形
+																8918 按钮 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 Description: 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。
+																8919 图形 已上传素材
+																8920 组
+																8921 组
+														8858 node
+															8859 组
+																8860 按钮 分镜生成 Description: 分镜生成
+																8861 按钮 折叠 Description: 折叠
+																8862 文本 R
+																8863 按钮
+																8864 文本 3
+																8865 按钮
+																8866 文本 C
+																8867 按钮
+																8868 文本 2
+																8869 按钮
+																8870 文本 =
+																8871 文本 6
+																8872 文本 单格比例
+																8873 文本 :
+																8874 文本
+																8875 文本 1:1
+																8876 文本 |
+																8877 文本 整体比例
+																8878 文本 :
+																8879 文本
+																8880 文本 2:3
+																8881 按钮 整体比
+																8882 按钮 单格比
+																8883 文本 提示词小抄：
+																8884 文本 每格写“镜头(景别/角度)+人物动作+表情+环境/光影”；需要参考图/素材库就输入 @。
+																8896 编辑 (settable, string) 分镜 01 描述（输入 @ 选参考图/素材库） Description: 分镜 01 描述（输入 @ 选参考图/素材库） Value: @图1 正面中景，纯白背景，同一个红色木制立方体完整居中，无人无字。
+																8897 编辑 (settable, string) 分镜 02 描述（输入 @ 选参考图/素材库） Description: 分镜 02 描述（输入 @ 选参考图/素材库） Value: 同一个红色木块，镜头从右侧45度看，完整全景，纯白背景，无人无字。
+																8898 编辑 (settable, string) 分镜 03 描述（输入 @ 选参考图/素材库） Description: 分镜 03 描述（输入 @ 选参考图/素材库） Value: 俯视同一个红色木块，保留木纹和形状，纯白背景，无人无字。
+																8899 编辑 (settable, string) 分镜 04 描述（输入 @ 选参考图/素材库） Description: 分镜 04 描述（输入 @ 选参考图/素材库）
+																8924 编辑 (settable, string) 分镜 05 描述（输入 @ 选参考图/素材库） Description: 分镜 05 描述（输入 @ 选参考图/素材库）
+																8925 编辑 (settable, string) 分镜 06 描述（输入 @ 选参考图/素材库） Description: 分镜 06 描述（输入 @ 选参考图/素材库）
+																8889 按钮 ChatGPT Image 2
+																8890 按钮 自动 · 2K
+																8891 按钮
+																8892 文本 提示：每格输入 @ 可选「参考图/素材库」；先在节点工具条把图片加入素材库（模特/场景）
+																8893 组
+																8894 组
+																8895 组
+														8922 按钮 删除
+														8923 按钮 连接 · 1
+													8820 图形 Mini Map Description: Mini Map
+													8821 组 ID: react-flow__aria-live-1
+												8822 按钮 生成历史 Description: 生成历史
+													8823 组 共 0 条生成记录
+												8824 按钮 添加节点 Description: 添加节点
+												8825 切换按钮 选择节点 Description: 选择节点
+												8826 切换按钮 拖动画布 Description: 拖动画布
+												8827 按钮 118% Description: 恢复 100%
+												8828 滑块 (settable, float) 画布缩放 Value: 118
+												8829 按钮 适配视图 Description: 适配视图
+												8830 按钮 撤销 Description: 撤销
+												8831 按钮 (disabled) 重做 Description: 重做
+												8832 按钮 快捷键指南 Description: 快捷键指南
+												8833 按钮 素材库 Description: 素材库
+												8834 按钮 提示词库 Description: 提示词库
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				8041 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+```
+RESULT DOWNLOAD ATTEMPT
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										9012 组 ID: root
+											9013 按钮 返回 Description: 返回
+											9014 文本 灰豆AI光影引擎
+											9015 文本 36,409
+											9016 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											9017 按钮 AI 照相馆 Description: AI 照相馆
+												9018 图形
+											9019 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											9020 文本 v7.7.1
+											9021 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											9022 按钮 English Description: English
+											9023 按钮 浅色 Description: 浅色
+											9024 按钮 设置 Description: 设置
+											9025 按钮 最小化 Description: 最小化
+											9026 按钮 最大化 Description: 最大化
+											9027 按钮 关闭 Description: 关闭
+											9028 主要
+												9029 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												9030 应用程序
+													9031 组
+														9032 图形
+															9033 edge Edge from b0c05dc5-5a3e-4506-a585-43704aa6d0f4 to 5304bf43-60a1-4be0-9b0e-8f50440be240
+														9034 图形
+															9035 edge Edge from 5304bf43-60a1-4be0-9b0e-8f50440be240 to e4ff9fa3-6c60-41cd-9839-8cf474629a8c
+														9036 node
+															9037 组
+																9038 图形
+																9039 按钮 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 Description: 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。
+																9040 图形 已上传素材
+																9041 组
+																9042 组
+														9051 node
+															9052 组
+																9053 按钮 分镜生成 Description: 分镜生成
+																9054 按钮 折叠 Description: 折叠
+																9055 文本 R
+																9056 按钮
+																9057 文本 3
+																9058 按钮
+																9059 文本 C
+																9060 按钮
+																9061 文本 2
+																9062 按钮
+																9063 文本 =
+																9064 文本 6
+																9065 文本 提示词小抄：
+																9066 文本 每格写“镜头(景别/角度)+人物动作+表情+环境/光影”；需要参考图/素材库就输入 @。
+																9104 编辑 (settable, string) 分镜 01 描述（输入 @ 选参考图/素材库） Description: 分镜 01 描述（输入 @ 选参考图/素材库） Value: @图1 正面中景，纯白背景，同一个红色木制立方体完整居中，无人无字。
+																9105 编辑 (settable, string) 分镜 02 描述（输入 @ 选参考图/素材库） Description: 分镜 02 描述（输入 @ 选参考图/素材库） Value: 同一个红色木块，镜头从右侧45度看，完整全景，纯白背景，无人无字。
+																9106 编辑 (settable, string) 分镜 03 描述（输入 @ 选参考图/素材库） Description: 分镜 03 描述（输入 @ 选参考图/素材库） Value: 俯视同一个红色木块，保留木纹和形状，纯白背景，无人无字。
+																9107 编辑 (settable, string) 分镜 04 描述（输入 @ 选参考图/素材库） Description: 分镜 04 描述（输入 @ 选参考图/素材库）
+																9108 编辑 (settable, string) 分镜 05 描述（输入 @ 选参考图/素材库） Description: 分镜 05 描述（输入 @ 选参考图/素材库）
+																9109 编辑 (settable, string) 分镜 06 描述（输入 @ 选参考图/素材库） Description: 分镜 06 描述（输入 @ 选参考图/素材库）
+																9073 按钮 ChatGPT Image 2
+																9074 按钮 自动 · 2K
+																9075 按钮
+																9076 文本 提示：每格输入 @ 可选「参考图/素材库」；先在节点工具条把图片加入素材库（模特/场景）
+																9077 组
+																9078 组
+																9079 组
+														9043 node
+															9044 组
+																9045 按钮 分镜输出 Description: 分镜输出
+																9097 图形 结果图
+																9048 组
+																9049 组
+																9050 组
+														9113 按钮 AI 修图
+															9114 图形
+														9115 按钮 重命名
+															9116 图形
+														9117 按钮 复制图片
+														9118 按钮 下载
+														9119 按钮 素材库
+															9120 图形
+															9121 组
+														9080 按钮 删除
+														9122 按钮 更多
+															9123 图形
+														9081 按钮 连接 · 1
+													9082 图形 Mini Map Description: Mini Map
+													9083 组 ID: react-flow__aria-live-1
+												9084 按钮 生成历史 Description: 生成历史
+													9085 组 共 1 条生成记录
+												9086 按钮 添加节点 Description: 添加节点
+												9087 切换按钮 选择节点 Description: 选择节点
+												9088 切换按钮 拖动画布 Description: 拖动画布
+												9089 按钮 118% Description: 恢复 100%
+												9090 滑块 (settable, float) 画布缩放 Value: 118
+												9091 按钮 适配视图 Description: 适配视图
+												9092 按钮 撤销 Description: 撤销
+												9093 按钮 (disabled) 重做 Description: 重做
+												9094 按钮 快捷键指南 Description: 快捷键指南
+												9095 按钮 素材库 Description: 素材库
+												9096 按钮 提示词库 Description: 提示词库
+										9124 组
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				8041 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+```
+RESULT OBSERVED: 2 rows x3 columns despite requested 3x2; bottom-left and bottom-right include human hands, blank inferred cells not constrained to no people. Download click did not create file yet.
+
+CUT ACTUAL 2x3 / 0.5%
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										9012 组 ID: root
+											9013 按钮 返回 Description: 返回
+											9014 文本 灰豆AI光影引擎
+											9015 文本 36,409
+											9016 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											9017 按钮 AI 照相馆 Description: AI 照相馆
+												9018 图形
+											9019 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											9020 文本 v7.7.1
+											9021 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											9022 按钮 English Description: English
+											9023 按钮 浅色 Description: 浅色
+											9024 按钮 设置 Description: 设置
+											9025 按钮 最小化 Description: 最小化
+											9026 按钮 最大化 Description: 最大化
+											9027 按钮 关闭 Description: 关闭
+											9028 主要
+												9029 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												9030 应用程序
+													9031 组
+														9143 组
+															9032 图形
+																9033 edge Edge from b0c05dc5-5a3e-4506-a585-43704aa6d0f4 to 5304bf43-60a1-4be0-9b0e-8f50440be240
+															9034 图形
+																9035 edge Edge from 5304bf43-60a1-4be0-9b0e-8f50440be240 to e4ff9fa3-6c60-41cd-9839-8cf474629a8c
+															9036 node
+																9037 组
+																	9038 图形
+																	9039 按钮 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 Description: 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。
+																	9040 图形 已上传素材
+																	9041 组
+																	9042 组
+															9051 node
+																9052 组
+																	9053 按钮 分镜生成 Description: 分镜生成
+																	9054 按钮 折叠 Description: 折叠
+																	9055 文本 R
+																	9056 按钮
+																	9057 文本 3
+																	9058 按钮
+																	9059 文本 C
+																	9060 按钮
+																	9061 文本 2
+																	9062 按钮
+																	9063 文本 =
+																	9064 文本 6
+																	9065 文本 提示词小抄：
+																	9066 文本 每格写“镜头(景别/角度)+人物动作+表情+环境/光影”；需要参考图/素材库就输入 @。
+																	9150 编辑 (settable, string) 分镜 01 描述（输入 @ 选参考图/素材库） Description: 分镜 01 描述（输入 @ 选参考图/素材库） Value: @图1 正面中景，纯白背景，同一个红色木制立方体完整居中，无人无字。
+																	9151 编辑 (settable, string) 分镜 02 描述（输入 @ 选参考图/素材库） Description: 分镜 02 描述（输入 @ 选参考图/素材库） Value: 同一个红色木块，镜头从右侧45度看，完整全景，纯白背景，无人无字。
+																	9152 编辑 (settable, string) 分镜 03 描述（输入 @ 选参考图/素材库） Description: 分镜 03 描述（输入 @ 选参考图/素材库） Value: 俯视同一个红色木块，保留木纹和形状，纯白背景，无人无字。
+																	9153 编辑 (settable, string) 分镜 04 描述（输入 @ 选参考图/素材库） Description: 分镜 04 描述（输入 @ 选参考图/素材库）
+																	9154 编辑 (settable, string) 分镜 05 描述（输入 @ 选参考图/素材库） Description: 分镜 05 描述（输入 @ 选参考图/素材库）
+																	9155 编辑 (settable, string) 分镜 06 描述（输入 @ 选参考图/素材库） Description: 分镜 06 描述（输入 @ 选参考图/素材库）
+																	9073 按钮 ChatGPT Image 2
+																	9074 按钮 自动 · 2K
+																	9075 按钮
+																	9076 文本 提示：每格输入 @ 可选「参考图/素材库」；先在节点工具条把图片加入素材库（模特/场景）
+																	9077 组
+																	9078 组
+																	9079 组
+															9043 node
+																9044 组
+																	9045 按钮 分镜输出 Description: 分镜输出
+																	9097 图形 结果图
+																	9048 组
+																	9049 组
+																	9050 组
+														9128 按钮 AI 修图
+															9129 图形
+														9130 按钮 重命名
+															9131 图形
+														9132 按钮 复制图片
+														9133 按钮 下载
+														9134 按钮 素材库
+															9135 图形
+															9136 组
+														9137 按钮 删除
+														9138 按钮 更多
+															9139 图形
+														9140 按钮 连接 · 1
+													9141 图形 Mini Map Description: Mini Map
+													9083 组 ID: react-flow__aria-live-1
+												9084 按钮 生成历史 Description: 生成历史
+													9085 组 共 1 条生成记录
+												9086 按钮 添加节点 Description: 添加节点
+												9087 切换按钮 选择节点 Description: 选择节点
+												9088 切换按钮 拖动画布 Description: 拖动画布
+												9089 按钮 118% Description: 恢复 100%
+												9090 滑块 (settable, float) 画布缩放 Value: 118
+												9091 按钮 适配视图 Description: 适配视图
+												9092 按钮 撤销 Description: 撤销
+												9093 按钮 (disabled) 重做 Description: 重做
+												9094 按钮 快捷键指南 Description: 快捷键指南
+												9095 按钮 素材库 Description: 素材库
+												9096 按钮 提示词库 Description: 提示词库
+										9142 组
+										9174 组
+										9175 标题 切割工具
+										9176 按钮
+										9177 文本 原图 + 切割预览
+										9178 图形 split-preview
+										9179 文本 红色区域为切割时会丢弃的分割线像素
+										9180 文本 拖动线上的手柄，可修正不规则宫格
+										9181 文本 切割参数
+										9182 按钮 恢复等分
+										9183 文本 行数
+										9184 按钮 -
+										9185 调节按钮 (settable, float) Value: 2
+										9186 按钮 +
+										9187 文本 列数
+										9188 按钮 -
+										9189 调节按钮 (settable, float) Value: 3
+										9190 按钮 +
+										9191 文本 分割线粗细
+										9192 文本 0.5%
+										9193 滑块 (settable, float) Value: 0.5
+										9194 调节按钮 (settable, float) Value: 0.5
+										9195 文本 输出小格数量
+										9196 文本 6
+										9197 按钮 取消
+										9198 按钮 应用
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				8041 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+```
+MERGE SETTINGS: numbers+descriptions ON; cover fill; S prefix; overlay text; gap8; font4%; black/white
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										9012 组 ID: root
+											9013 按钮 返回 Description: 返回
+											9014 文本 灰豆AI光影引擎
+											9015 文本 36,409
+											9016 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											9017 按钮 AI 照相馆 Description: AI 照相馆
+												9018 图形
+											9019 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											9020 文本 v7.7.1
+											9021 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											9022 按钮 English Description: English
+											9023 按钮 浅色 Description: 浅色
+											9024 按钮 设置 Description: 设置
+											9025 按钮 最小化 Description: 最小化
+											9026 按钮 最大化 Description: 最大化
+											9027 按钮 关闭 Description: 关闭
+											9028 主要
+												9029 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												9030 应用程序
+													9031 组
+														9143 组
+															9032 图形
+																9033 edge Edge from b0c05dc5-5a3e-4506-a585-43704aa6d0f4 to 5304bf43-60a1-4be0-9b0e-8f50440be240
+															9034 图形
+																9035 edge Edge from 5304bf43-60a1-4be0-9b0e-8f50440be240 to e4ff9fa3-6c60-41cd-9839-8cf474629a8c
+															9199 图形
+																9200 edge Edge from e4ff9fa3-6c60-41cd-9839-8cf474629a8c to 82d73b84-7207-4d5c-bc9d-d8247c38db30
+															9036 node
+																9037 组
+																	9038 图形
+																	9039 按钮 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 Description: 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。
+																	9040 图形 已上传素材
+																	9041 组
+																	9042 组
+															9051 node
+																9052 组
+																	9053 按钮 分镜生成 Description: 分镜生成
+																	9054 按钮 折叠 Description: 折叠
+																	9055 文本 R
+																	9056 按钮
+																	9057 文本 3
+																	9058 按钮
+																	9059 文本 C
+																	9060 按钮
+																	9061 文本 2
+																	9062 按钮
+																	9063 文本 =
+																	9064 文本 6
+																	9065 文本 提示词小抄：
+																	9066 文本 每格写“镜头(景别/角度)+人物动作+表情+环境/光影”；需要参考图/素材库就输入 @。
+																	9150 编辑 (settable, string) 分镜 01 描述（输入 @ 选参考图/素材库） Description: 分镜 01 描述（输入 @ 选参考图/素材库） Value: @图1 正面中景，纯白背景，同一个红色木制立方体完整居中，无人无字。
+																	9151 编辑 (settable, string) 分镜 02 描述（输入 @ 选参考图/素材库） Description: 分镜 02 描述（输入 @ 选参考图/素材库） Value: 同一个红色木块，镜头从右侧45度看，完整全景，纯白背景，无人无字。
+																	9152 编辑 (settable, string) 分镜 03 描述（输入 @ 选参考图/素材库） Description: 分镜 03 描述（输入 @ 选参考图/素材库） Value: 俯视同一个红色木块，保留木纹和形状，纯白背景，无人无字。
+																	9153 编辑 (settable, string) 分镜 04 描述（输入 @ 选参考图/素材库） Description: 分镜 04 描述（输入 @ 选参考图/素材库）
+																	9154 编辑 (settable, string) 分镜 05 描述（输入 @ 选参考图/素材库） Description: 分镜 05 描述（输入 @ 选参考图/素材库）
+																	9155 编辑 (settable, string) 分镜 06 描述（输入 @ 选参考图/素材库） Description: 分镜 06 描述（输入 @ 选参考图/素材库）
+																	9073 按钮 ChatGPT Image 2
+																	9074 按钮 自动 · 2K
+																	9075 按钮
+																	9076 文本 提示：每格输入 @ 可选「参考图/素材库」；先在节点工具条把图片加入素材库（模特/场景）
+																	9077 组
+																	9078 组
+																	9079 组
+															9043 node
+																9044 组
+																	9045 按钮 分镜输出 Description: 分镜输出
+																	9097 图形 结果图
+																	9048 组
+																	9049 组
+																	9050 组
+															9201 node
+																9202 组
+																	9203 按钮 切割结果 Description: 切割结果
+																	9204 图形 Frame 1
+																	9205 文本 01
+																	9248 按钮 单独编辑此格 Description: 单独编辑此格
+																	9249 按钮 从输入图片替换 Description: 从输入图片替换
+																	9206 编辑 (settable, string) 填写分镜描述… Description: 填写分镜描述… Value: 正面中景，纯白背景，同一个红色木制立方体完整居中，无人无字。
+																	9207 图形 Frame 2
+																	9208 文本 02
+																	9250 按钮 单独编辑此格 Description: 单独编辑此格
+																	9251 按钮 从输入图片替换 Description: 从输入图片替换
+																	9209 编辑 (settable, string) 填写分镜描述… Description: 填写分镜描述… Value: 同一个红色木块，镜头从右侧45度看，完整全景，纯白背景，无人无字。
+																	9210 图形 Frame 3
+																	9211 文本 03
+																	9252 按钮 单独编辑此格 Description: 单独编辑此格
+																	9253 按钮 从输入图片替换 Description: 从输入图片替换
+																	9212 编辑 (settable, string) 填写分镜描述… Description: 填写分镜描述… Value: 俯视同一个红色木块，保留木纹和形状，纯白背景，无人无字。
+																	9213 图形 Frame 4
+																	9214 文本 04
+																	9254 按钮 单独编辑此格 Description: 单独编辑此格
+																	9255 按钮 从输入图片替换 Description: 从输入图片替换
+																	9215 编辑 (settable, string) 填写分镜描述… Description: 填写分镜描述…
+																	9216 图形 Frame 5
+																	9217 文本 05
+																	9256 按钮 单独编辑此格 Description: 单独编辑此格
+																	9257 按钮 从输入图片替换 Description: 从输入图片替换
+																	9218 编辑 (settable, string) 填写分镜描述… Description: 填写分镜描述…
+																	9219 图形 Frame 6
+																	9220 文本 06
+																	9258 按钮 单独编辑此格 Description: 单独编辑此格
+																	9259 按钮 从输入图片替换 Description: 从输入图片替换
+																	9221 编辑 (settable, string) 填写分镜描述… Description: 填写分镜描述…
+																	9222 按钮 导出设置
+																	9223 文本 2
+																	9224 文本 ×
+																	9225 文本 3
+																	9226 文本 ·
+																	9227 文本 6
+																	9228 文本 格
+																	9229 按钮 打包下载 Description: 打包下载
+																	9230 按钮 合并分镜 Description: 合并分镜
+																	9231 组
+																	9232 组
+																	9233 组
+														9265 按钮 删除
+														9266 按钮 连接 · 1
+													9141 图形 Mini Map Description: Mini Map
+													9083 组 ID: react-flow__aria-live-1
+												9084 按钮 生成历史 Description: 生成历史
+													9085 组 共 1 条生成记录
+												9086 按钮 添加节点 Description: 添加节点
+												9087 切换按钮 选择节点 Description: 选择节点
+												9088 切换按钮 拖动画布 Description: 拖动画布
+												9089 按钮 118% Description: 恢复 100%
+												9090 滑块 (settable, float) 画布缩放 Value: 118
+												9091 按钮 适配视图 Description: 适配视图
+												9092 按钮 撤销 Description: 撤销
+												9093 按钮 (disabled) 重做 Description: 重做
+												9094 按钮 快捷键指南 Description: 快捷键指南
+												9095 按钮 素材库 Description: 素材库
+												9096 按钮 提示词库 Description: 提示词库
+										9267 复选框 (settable, string) 显示分镜序号
+										9268 文本 显示分镜序号
+										9269 复选框 (settable, string) 显示分镜描述
+										9270 文本 显示分镜描述
+										9271 文本 图片填充
+										9272 按钮 填充满格子
+										9273 文本 序号前缀
+										9274 编辑 (settable, string) Value: S
+										9275 文本 描述位置
+										9276 按钮 图上遮罩
+										9277 文本 间距
+										9278 调节按钮 (settable, float) Value: 8
+										9279 文本 字号(%)
+										9280 调节按钮 (settable, float) Value: 4
+										9281 文本 背景
+										9282 颜色选择器 (settable, string) 背景 Value: 5% red 6% green 8% blue
+										9283 文本 文字
+										9284 颜色选择器 (settable, string) 文字 Value: 97% red 98% green 98% blue
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				8041 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+S
+```

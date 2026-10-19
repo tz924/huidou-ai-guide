@@ -1,0 +1,46 @@
+{
+  "purpose": "Huidou document import fixtures; generated locally, no private data",
+  "expected_code": "HD7426",
+  "files": [
+    {
+      "path": "examples/import-fixtures/HD7426-AI编写修订后.txt",
+      "bytes": 1902,
+      "sha256": "35dc5a1070349df2c9241f260de0d11a8d1e3967607ca1d307daa9c88f9fa190"
+    },
+    {
+      "path": "examples/import-fixtures/HD7426-场景生成提示词.txt",
+      "bytes": 447,
+      "sha256": "a70dbd5e3e864b67e494753ce5e8851f37dfc0dd0e8f55e6a3d8dbb4a795a00b"
+    },
+    {
+      "path": "examples/import-fixtures/HD7426-角色生成提示词.txt",
+      "bytes": 488,
+      "sha256": "5ac0e69fce12f9aa9ff52d4a27bb5ce0c1850e8d427a5e949222a0da7858eafc"
+    },
+    {
+      "path": "examples/import-fixtures/HD7426.docx",
+      "bytes": 37139,
+      "sha256": "103d7f30601523b75bf6dd47cec13ed95d79bb51b4a59c22055adb97827f1c2d"
+    },
+    {
+      "path": "examples/import-fixtures/HD7426.md",
+      "bytes": 518,
+      "sha256": "78755eb210319c0e14f7839ce9e6b37882503680e8264925ea3d14e8d8da9da9"
+    },
+    {
+      "path": "examples/import-fixtures/HD7426.srt",
+      "bytes": 135,
+      "sha256": "c62ad1164e0152ec490812608c51c15390f7cc7f8362b9d9deeca6dfd1864864"
+    },
+    {
+      "path": "examples/import-fixtures/HD7426.txt",
+      "bytes": 504,
+      "sha256": "8229adc598207ee52c37d7f64792d7b5530ef88a197172b27d33d104506b52e8"
+    },
+    {
+      "path": "examples/import-fixtures/HD7426.vtt",
+      "bytes": 139,
+      "sha256": "0012fc25a55472e1d1354671cdeaca634ef6454d211401d0ff3c679fa017582d"
+    }
+  ]
+}

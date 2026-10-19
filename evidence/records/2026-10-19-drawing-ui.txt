@@ -1,0 +1,1613 @@
+## Multiply selected
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										276 组 ID: root
+											5408 按钮 返回 Description: 返回
+											278 文本 灰豆AI光影引擎
+											279 文本 36,562
+											280 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											5409 按钮 AI 照相馆 Description: AI 照相馆
+												5410 图形
+											283 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											284 文本 v7.7.1
+											285 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											286 按钮 English Description: English
+											287 按钮 浅色 Description: 浅色
+											288 按钮 设置 Description: 设置
+											289 按钮 最小化 Description: 最小化
+											290 按钮 最大化 Description: 最大化
+											291 按钮 关闭 Description: 关闭
+											292 主要
+												5411 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												5412 应用程序
+													5413 组
+														5414 图形
+															5415 edge Edge from a823c4ac-3189-4a2a-9801-f2cef0b4f180 to 53775f7d-d900-409b-b55e-a27e4709c97b
+														5416 图形
+															5417 edge Edge from b54a93f5-70e7-4bb1-9aae-591a0b118579 to a823c4ac-3189-4a2a-9801-f2cef0b4f180
+														5626 图形
+															5627 edge Edge from 53775f7d-d900-409b-b55e-a27e4709c97b to bf277fce-ea28-4c0e-a13d-316aa9ef0523
+														5628 图形
+															5629 edge Edge from bf277fce-ea28-4c0e-a13d-316aa9ef0523 to 7a696678-2ac5-42da-83d2-fe9d027886d5
+														5418 node
+															5419 组
+																5420 图形
+																5421 按钮 文本注释 Description: 文本注释
+																5422 组
+																5423 组
+																5424 组
+																5425 标题 HD-7426
+																5426 文本 独立编组测试
+														5427 node
+															5428 组
+																5429 图形
+																5430 按钮 文本注释 Description: 文本注释
+																5431 组
+																5432 组
+																5433 组
+																5434 标题 HD-7426
+																5435 文本 独立编组测试
+														5436 node
+															5437 组
+																5438 按钮 AI 图片 Description: AI 图片
+																5439 按钮 参数 Description: 打开模型、画幅、清晰度、数量等生成参数
+																5440 按钮 展开 Description: 展开节点内容
+																5441 文本 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 单个蓝色陶瓷…
+																5490 编辑 (settable, string) 写备注：这个节点用途、镜头编号、待修改点... Description: 写备注：这个节点用途、镜头编号、待修改点...
+																5442 文本 折叠备注只用于整理画布，不会发送给模型
+																5443 文本 可直接输入
+																5444 组
+																5445 组
+																5446 组
+														5447 node
+															5448 组
+																5449 图形
+																5450 按钮 清晨无人盐湖浅水 Description: 清晨无人盐湖浅水
+																5451 图形 已上传素材
+																5452 组
+																5453 组
+														5500 node
+															5501 组
+																5502 按钮 将原图转换为细腻写实的彩铅插画风格，仅改变画面材质与绘画表现，不改变人物和服装设计。右侧保留一张清晰的正面人物半身像；左侧三视图仅展示服装，去除人物头部与身体外观，只保留完整服装的正面、侧面和背面结构。保持右侧人物原有脸型、五官比例、眼型、鼻型、嘴型、发型、发色和面部朝向一致，不美化或重新设计五官。使用清晰可见的彩铅笔触、纸张纹理、铅笔排线和自然色彩层次，同时保持原始构图和服装细节。 Description: 将原图转换为细腻写实的彩铅插画风格，仅改变画面材质与绘画表现，不改变人物和服装设计。右侧保留一张清晰的正面人物半身像；左侧三视图仅展示服装，去除人物头部与身体外观，只保留完整服装的正面、侧面和背面结构。保持右侧人物原有脸型、五官比例、眼型、鼻型、嘴型、发型、发色和面部朝向一致，不美化或重新设计五官。使用清晰可见的彩铅笔触、纸张纹理、铅笔排线和自然色彩层次，同时保持原始构图和服装细节。
+																5630 图形 结果图
+																5505 组
+																5506 组
+																5507 组
+														5454 node
+															5455 组
+																5456 按钮 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 Description: 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。
+																5457 图形 结果图
+																5458 组
+																5459 组
+																5460 组
+														5633 node
+															5634 组
+																5635 图形
+																5636 按钮 drawing.png Description: drawing.png
+																5637 图形 已上传素材
+																5638 组
+																5639 组
+														5508 node
+															5509 按钮 局部重绘 / 人脸防卡 Description: 局部重绘 / 人脸防卡
+															5510 组
+															5511 组
+															5512 图形 局部重绘 / 人脸防卡
+															5513 按钮 进入画布
+															5514 组
+														5631 按钮 删除
+														5632 按钮 连接 · 1
+													5474 图形 Mini Map Description: Mini Map
+													5475 组 ID: react-flow__aria-live-1
+												5476 按钮 生成历史 Description: 生成历史
+													5477 组 共 2 条生成记录
+												5478 按钮 添加节点 Description: 添加节点
+												5479 切换按钮 选择节点 Description: 选择节点
+												5480 切换按钮 拖动画布 Description: 拖动画布
+												5481 按钮 110% Description: 恢复 100%
+												5482 滑块 (settable, float) 画布缩放 Value: 110
+												5483 按钮 适配视图 Description: 适配视图
+												5484 按钮 撤销 Description: 撤销
+												5485 按钮 (disabled) 重做 Description: 重做
+												5486 按钮 快捷键指南 Description: 快捷键指南
+												5487 按钮 素材库 Description: 素材库
+												5488 按钮 提示词库 Description: 提示词库
+										5518 文本 局部重绘 / 人脸防卡
+										5519 按钮 画笔 Description: 画笔 (B)
+										5520 按钮 橡皮 Description: 橡皮 (E)
+										5521 按钮 拖拽 Description: 拖拽 (H / 空格)
+										5522 按钮 撤销 Ctrl+Z Description: 撤销 Ctrl+Z
+										5523 按钮 重做 Ctrl+Y Description: 重做 Ctrl+Y
+										5524 按钮 适应画布 Description: 适应画布
+										5525 按钮 清空当前图层 Description: 清空当前图层
+										5526 文本 1280
+										5527 文本 ×
+										5528 文本 720
+										5529 文本 88
+										5530 文本 %
+										5531 按钮 接到生视频
+										5532 按钮 退出画布
+										5533 图像
+										5534 文本 88
+										5535 文本 %
+										5536 文本 画笔
+										5537 文本 滚轮缩放 · 空格拖拽 · Alt 取色
+										5538 按钮 工具
+										5539 按钮 图层
+										5540 按钮 参考
+										5541 按钮 导出
+										5641 文本 图层
+										5642 按钮 新增图层 Description: 新增图层
+										5643 按钮 原图底图
+										5644 复选框 (settable, string)
+										5645 按钮 删除图层 Description: 删除图层
+										5646 文本 不透明度
+										5647 滑块 (settable, float) Value: 1
+										5648 文本 混合
+										5649 按钮 正常
+										5650 按钮 局部重绘遮罩
+										5651 复选框 (settable, string)
+										5652 按钮 删除图层 Description: 删除图层
+										5653 文本 不透明度
+										5654 滑块 (settable, float) Value: 0.6000000238418579
+										5655 文本 混合
+										5656 按钮 正片叠底
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				5056 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+```
+
+## Layer3 screen selected, layer2 hidden
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										276 组 ID: root
+											5408 按钮 返回 Description: 返回
+											278 文本 灰豆AI光影引擎
+											279 文本 36,562
+											280 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											5409 按钮 AI 照相馆 Description: AI 照相馆
+												5410 图形
+											283 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											284 文本 v7.7.1
+											285 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											286 按钮 English Description: English
+											287 按钮 浅色 Description: 浅色
+											288 按钮 设置 Description: 设置
+											289 按钮 最小化 Description: 最小化
+											290 按钮 最大化 Description: 最大化
+											291 按钮 关闭 Description: 关闭
+											292 主要
+												5411 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												5412 应用程序
+													5413 组
+														5414 图形
+															5415 edge Edge from a823c4ac-3189-4a2a-9801-f2cef0b4f180 to 53775f7d-d900-409b-b55e-a27e4709c97b
+														5416 图形
+															5417 edge Edge from b54a93f5-70e7-4bb1-9aae-591a0b118579 to a823c4ac-3189-4a2a-9801-f2cef0b4f180
+														5626 图形
+															5627 edge Edge from 53775f7d-d900-409b-b55e-a27e4709c97b to bf277fce-ea28-4c0e-a13d-316aa9ef0523
+														5628 图形
+															5629 edge Edge from bf277fce-ea28-4c0e-a13d-316aa9ef0523 to 7a696678-2ac5-42da-83d2-fe9d027886d5
+														5418 node
+															5419 组
+																5420 图形
+																5421 按钮 文本注释 Description: 文本注释
+																5422 组
+																5423 组
+																5424 组
+																5425 标题 HD-7426
+																5426 文本 独立编组测试
+														5427 node
+															5428 组
+																5429 图形
+																5430 按钮 文本注释 Description: 文本注释
+																5431 组
+																5432 组
+																5433 组
+																5434 标题 HD-7426
+																5435 文本 独立编组测试
+														5436 node
+															5437 组
+																5438 按钮 AI 图片 Description: AI 图片
+																5439 按钮 参数 Description: 打开模型、画幅、清晰度、数量等生成参数
+																5440 按钮 展开 Description: 展开节点内容
+																5441 文本 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 单个蓝色陶瓷…
+																5490 编辑 (settable, string) 写备注：这个节点用途、镜头编号、待修改点... Description: 写备注：这个节点用途、镜头编号、待修改点...
+																5442 文本 折叠备注只用于整理画布，不会发送给模型
+																5443 文本 可直接输入
+																5444 组
+																5445 组
+																5446 组
+														5447 node
+															5448 组
+																5449 图形
+																5450 按钮 清晨无人盐湖浅水 Description: 清晨无人盐湖浅水
+																5451 图形 已上传素材
+																5452 组
+																5453 组
+														5500 node
+															5501 组
+																5502 按钮 将原图转换为细腻写实的彩铅插画风格，仅改变画面材质与绘画表现，不改变人物和服装设计。右侧保留一张清晰的正面人物半身像；左侧三视图仅展示服装，去除人物头部与身体外观，只保留完整服装的正面、侧面和背面结构。保持右侧人物原有脸型、五官比例、眼型、鼻型、嘴型、发型、发色和面部朝向一致，不美化或重新设计五官。使用清晰可见的彩铅笔触、纸张纹理、铅笔排线和自然色彩层次，同时保持原始构图和服装细节。 Description: 将原图转换为细腻写实的彩铅插画风格，仅改变画面材质与绘画表现，不改变人物和服装设计。右侧保留一张清晰的正面人物半身像；左侧三视图仅展示服装，去除人物头部与身体外观，只保留完整服装的正面、侧面和背面结构。保持右侧人物原有脸型、五官比例、眼型、鼻型、嘴型、发型、发色和面部朝向一致，不美化或重新设计五官。使用清晰可见的彩铅笔触、纸张纹理、铅笔排线和自然色彩层次，同时保持原始构图和服装细节。
+																5630 图形 结果图
+																5505 组
+																5506 组
+																5507 组
+														5454 node
+															5455 组
+																5456 按钮 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 Description: 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。
+																5457 图形 结果图
+																5458 组
+																5459 组
+																5460 组
+														5633 node
+															5634 组
+																5635 图形
+																5636 按钮 drawing.png Description: drawing.png
+																5637 图形 已上传素材
+																5638 组
+																5639 组
+														5671 node
+															5672 组
+																5673 图形
+																5674 按钮 drawing.png Description: drawing.png
+																5675 图形 已上传素材
+																5676 组
+																5677 组
+														5711 node
+															5712 组
+																5713 图形
+																5714 按钮 drawing.png Description: drawing.png
+																5715 图形 已上传素材
+																5716 组
+																5717 组
+														5508 node
+															5509 按钮 局部重绘 / 人脸防卡 Description: 局部重绘 / 人脸防卡
+															5510 组
+															5511 组
+															5512 图形 局部重绘 / 人脸防卡
+															5513 按钮 进入画布
+															5514 组
+														5631 按钮 删除
+														5632 按钮 连接 · 1
+													5474 图形 Mini Map Description: Mini Map
+													5475 组 ID: react-flow__aria-live-1
+												5476 按钮 生成历史 Description: 生成历史
+													5477 组 共 2 条生成记录
+												5478 按钮 添加节点 Description: 添加节点
+												5479 切换按钮 选择节点 Description: 选择节点
+												5480 切换按钮 拖动画布 Description: 拖动画布
+												5481 按钮 110% Description: 恢复 100%
+												5482 滑块 (settable, float) 画布缩放 Value: 110
+												5483 按钮 适配视图 Description: 适配视图
+												5484 按钮 撤销 Description: 撤销
+												5485 按钮 (disabled) 重做 Description: 重做
+												5486 按钮 快捷键指南 Description: 快捷键指南
+												5487 按钮 素材库 Description: 素材库
+												5488 按钮 提示词库 Description: 提示词库
+										5518 文本 局部重绘 / 人脸防卡
+										5519 按钮 画笔 Description: 画笔 (B)
+										5520 按钮 橡皮 Description: 橡皮 (E)
+										5521 按钮 拖拽 Description: 拖拽 (H / 空格)
+										5522 按钮 撤销 Ctrl+Z Description: 撤销 Ctrl+Z
+										5523 按钮 重做 Ctrl+Y Description: 重做 Ctrl+Y
+										5524 按钮 适应画布 Description: 适应画布
+										5525 按钮 清空当前图层 Description: 清空当前图层
+										5526 文本 1280
+										5527 文本 ×
+										5528 文本 720
+										5529 文本 88
+										5530 文本 %
+										5531 按钮 接到生视频
+										5532 按钮 退出画布
+										5533 图像
+										5534 文本 88
+										5535 文本 %
+										5536 文本 画笔
+										5537 文本 滚轮缩放 · 空格拖拽 · Alt 取色
+										5538 按钮 工具
+										5539 按钮 图层
+										5540 按钮 参考
+										5541 按钮 导出
+										5719 文本 图层
+										5720 按钮 新增图层 Description: 新增图层
+										5721 按钮 原图底图
+										5722 复选框 (settable, string)
+										5723 按钮 删除图层 Description: 删除图层
+										5724 文本 不透明度
+										5725 滑块 (settable, float) Value: 1
+										5726 文本 混合
+										5727 按钮 正常
+										5728 按钮 局部重绘遮罩
+										5729 复选框 (settable, string)
+										5730 按钮 删除图层 Description: 删除图层
+										5731 文本 不透明度
+										5732 滑块 (settable, float) Value: 0.6000000238418579
+										5733 文本 混合
+										5734 按钮 正片叠底
+										5735 按钮 图层 3
+										5736 复选框 (settable, string)
+										5737 按钮 删除图层 Description: 删除图层
+										5738 文本 不透明度
+										5739 滑块 (settable, float) Value: 1
+										5740 文本 混合
+										5741 按钮 滤色
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				5056 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+```
+
+## Layer3 overlay selected
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										276 组 ID: root
+											5408 按钮 返回 Description: 返回
+											278 文本 灰豆AI光影引擎
+											279 文本 36,562
+											280 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											5409 按钮 AI 照相馆 Description: AI 照相馆
+												5410 图形
+											283 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											284 文本 v7.7.1
+											285 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											286 按钮 English Description: English
+											287 按钮 浅色 Description: 浅色
+											288 按钮 设置 Description: 设置
+											289 按钮 最小化 Description: 最小化
+											290 按钮 最大化 Description: 最大化
+											291 按钮 关闭 Description: 关闭
+											292 主要
+												5411 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												5412 应用程序
+													5413 组
+														5414 图形
+															5415 edge Edge from a823c4ac-3189-4a2a-9801-f2cef0b4f180 to 53775f7d-d900-409b-b55e-a27e4709c97b
+														5416 图形
+															5417 edge Edge from b54a93f5-70e7-4bb1-9aae-591a0b118579 to a823c4ac-3189-4a2a-9801-f2cef0b4f180
+														5626 图形
+															5627 edge Edge from 53775f7d-d900-409b-b55e-a27e4709c97b to bf277fce-ea28-4c0e-a13d-316aa9ef0523
+														5628 图形
+															5629 edge Edge from bf277fce-ea28-4c0e-a13d-316aa9ef0523 to 7a696678-2ac5-42da-83d2-fe9d027886d5
+														5418 node
+															5419 组
+																5420 图形
+																5421 按钮 文本注释 Description: 文本注释
+																5422 组
+																5423 组
+																5424 组
+																5425 标题 HD-7426
+																5426 文本 独立编组测试
+														5427 node
+															5428 组
+																5429 图形
+																5430 按钮 文本注释 Description: 文本注释
+																5431 组
+																5432 组
+																5433 组
+																5434 标题 HD-7426
+																5435 文本 独立编组测试
+														5436 node
+															5437 组
+																5438 按钮 AI 图片 Description: AI 图片
+																5439 按钮 参数 Description: 打开模型、画幅、清晰度、数量等生成参数
+																5440 按钮 展开 Description: 展开节点内容
+																5441 文本 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 单个蓝色陶瓷…
+																5490 编辑 (settable, string) 写备注：这个节点用途、镜头编号、待修改点... Description: 写备注：这个节点用途、镜头编号、待修改点...
+																5442 文本 折叠备注只用于整理画布，不会发送给模型
+																5443 文本 可直接输入
+																5444 组
+																5445 组
+																5446 组
+														5447 node
+															5448 组
+																5449 图形
+																5450 按钮 清晨无人盐湖浅水 Description: 清晨无人盐湖浅水
+																5451 图形 已上传素材
+																5452 组
+																5453 组
+														5500 node
+															5501 组
+																5502 按钮 将原图转换为细腻写实的彩铅插画风格，仅改变画面材质与绘画表现，不改变人物和服装设计。右侧保留一张清晰的正面人物半身像；左侧三视图仅展示服装，去除人物头部与身体外观，只保留完整服装的正面、侧面和背面结构。保持右侧人物原有脸型、五官比例、眼型、鼻型、嘴型、发型、发色和面部朝向一致，不美化或重新设计五官。使用清晰可见的彩铅笔触、纸张纹理、铅笔排线和自然色彩层次，同时保持原始构图和服装细节。 Description: 将原图转换为细腻写实的彩铅插画风格，仅改变画面材质与绘画表现，不改变人物和服装设计。右侧保留一张清晰的正面人物半身像；左侧三视图仅展示服装，去除人物头部与身体外观，只保留完整服装的正面、侧面和背面结构。保持右侧人物原有脸型、五官比例、眼型、鼻型、嘴型、发型、发色和面部朝向一致，不美化或重新设计五官。使用清晰可见的彩铅笔触、纸张纹理、铅笔排线和自然色彩层次，同时保持原始构图和服装细节。
+																5630 图形 结果图
+																5505 组
+																5506 组
+																5507 组
+														5454 node
+															5455 组
+																5456 按钮 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 Description: 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。
+																5457 图形 结果图
+																5458 组
+																5459 组
+																5460 组
+														5633 node
+															5634 组
+																5635 图形
+																5636 按钮 drawing.png Description: drawing.png
+																5637 图形 已上传素材
+																5638 组
+																5639 组
+														5671 node
+															5672 组
+																5673 图形
+																5674 按钮 drawing.png Description: drawing.png
+																5675 图形 已上传素材
+																5676 组
+																5677 组
+														5711 node
+															5712 组
+																5713 图形
+																5714 按钮 drawing.png Description: drawing.png
+																5715 图形 已上传素材
+																5716 组
+																5717 组
+														5756 node
+															5757 组
+																5758 图形
+																5759 按钮 drawing.png Description: drawing.png
+																5760 图形 已上传素材
+																5761 组
+																5762 组
+														5508 node
+															5509 按钮 局部重绘 / 人脸防卡 Description: 局部重绘 / 人脸防卡
+															5510 组
+															5511 组
+															5512 图形 局部重绘 / 人脸防卡
+															5513 按钮 进入画布
+															5514 组
+														5631 按钮 删除
+														5632 按钮 连接 · 1
+													5474 图形 Mini Map Description: Mini Map
+													5475 组 ID: react-flow__aria-live-1
+												5476 按钮 生成历史 Description: 生成历史
+													5477 组 共 2 条生成记录
+												5478 按钮 添加节点 Description: 添加节点
+												5479 切换按钮 选择节点 Description: 选择节点
+												5480 切换按钮 拖动画布 Description: 拖动画布
+												5481 按钮 110% Description: 恢复 100%
+												5482 滑块 (settable, float) 画布缩放 Value: 110
+												5483 按钮 适配视图 Description: 适配视图
+												5484 按钮 撤销 Description: 撤销
+												5485 按钮 (disabled) 重做 Description: 重做
+												5486 按钮 快捷键指南 Description: 快捷键指南
+												5487 按钮 素材库 Description: 素材库
+												5488 按钮 提示词库 Description: 提示词库
+										5518 文本 局部重绘 / 人脸防卡
+										5519 按钮 画笔 Description: 画笔 (B)
+										5520 按钮 橡皮 Description: 橡皮 (E)
+										5521 按钮 拖拽 Description: 拖拽 (H / 空格)
+										5522 按钮 撤销 Ctrl+Z Description: 撤销 Ctrl+Z
+										5523 按钮 重做 Ctrl+Y Description: 重做 Ctrl+Y
+										5524 按钮 适应画布 Description: 适应画布
+										5525 按钮 清空当前图层 Description: 清空当前图层
+										5526 文本 1280
+										5527 文本 ×
+										5528 文本 720
+										5529 文本 88
+										5530 文本 %
+										5531 按钮 接到生视频
+										5532 按钮 退出画布
+										5533 图像
+										5534 文本 88
+										5535 文本 %
+										5536 文本 画笔
+										5537 文本 滚轮缩放 · 空格拖拽 · Alt 取色
+										5538 按钮 工具
+										5539 按钮 图层
+										5540 按钮 参考
+										5541 按钮 导出
+										5764 文本 图层
+										5765 按钮 新增图层 Description: 新增图层
+										5766 按钮 原图底图
+										5767 复选框 (settable, string)
+										5768 按钮 删除图层 Description: 删除图层
+										5769 文本 不透明度
+										5770 滑块 (settable, float) Value: 1
+										5771 文本 混合
+										5772 按钮 正常
+										5773 按钮 局部重绘遮罩
+										5774 复选框 (settable, string)
+										5775 按钮 删除图层 Description: 删除图层
+										5776 文本 不透明度
+										5777 滑块 (settable, float) Value: 0.6000000238418579
+										5778 文本 混合
+										5779 按钮 正片叠底
+										5780 按钮 图层 3
+										5781 复选框 (settable, string)
+										5782 按钮 删除图层 Description: 删除图层
+										5783 文本 不透明度
+										5784 滑块 (settable, float) Value: 1
+										5785 文本 混合
+										5786 按钮 叠加
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				5056 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+```
+
+## Eraser gap actual
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										276 组 ID: root
+											5408 按钮 返回 Description: 返回
+											278 文本 灰豆AI光影引擎
+											279 文本 36,562
+											280 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											5409 按钮 AI 照相馆 Description: AI 照相馆
+												5410 图形
+											283 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											284 文本 v7.7.1
+											285 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											286 按钮 English Description: English
+											287 按钮 浅色 Description: 浅色
+											288 按钮 设置 Description: 设置
+											289 按钮 最小化 Description: 最小化
+											290 按钮 最大化 Description: 最大化
+											291 按钮 关闭 Description: 关闭
+											292 主要
+												5411 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												5412 应用程序
+													5413 组
+														5414 图形
+															5415 edge Edge from a823c4ac-3189-4a2a-9801-f2cef0b4f180 to 53775f7d-d900-409b-b55e-a27e4709c97b
+														5416 图形
+															5417 edge Edge from b54a93f5-70e7-4bb1-9aae-591a0b118579 to a823c4ac-3189-4a2a-9801-f2cef0b4f180
+														5626 图形
+															5627 edge Edge from 53775f7d-d900-409b-b55e-a27e4709c97b to bf277fce-ea28-4c0e-a13d-316aa9ef0523
+														5628 图形
+															5629 edge Edge from bf277fce-ea28-4c0e-a13d-316aa9ef0523 to 7a696678-2ac5-42da-83d2-fe9d027886d5
+														5418 node
+															5419 组
+																5420 图形
+																5421 按钮 文本注释 Description: 文本注释
+																5422 组
+																5423 组
+																5424 组
+																5425 标题 HD-7426
+																5426 文本 独立编组测试
+														5427 node
+															5428 组
+																5429 图形
+																5430 按钮 文本注释 Description: 文本注释
+																5431 组
+																5432 组
+																5433 组
+																5434 标题 HD-7426
+																5435 文本 独立编组测试
+														5436 node
+															5437 组
+																5438 按钮 AI 图片 Description: AI 图片
+																5439 按钮 参数 Description: 打开模型、画幅、清晰度、数量等生成参数
+																5440 按钮 展开 Description: 展开节点内容
+																5441 文本 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 单个蓝色陶瓷…
+																5490 编辑 (settable, string) 写备注：这个节点用途、镜头编号、待修改点... Description: 写备注：这个节点用途、镜头编号、待修改点...
+																5442 文本 折叠备注只用于整理画布，不会发送给模型
+																5443 文本 可直接输入
+																5444 组
+																5445 组
+																5446 组
+														5447 node
+															5448 组
+																5449 图形
+																5450 按钮 清晨无人盐湖浅水 Description: 清晨无人盐湖浅水
+																5451 图形 已上传素材
+																5452 组
+																5453 组
+														5500 node
+															5501 组
+																5502 按钮 将原图转换为细腻写实的彩铅插画风格，仅改变画面材质与绘画表现，不改变人物和服装设计。右侧保留一张清晰的正面人物半身像；左侧三视图仅展示服装，去除人物头部与身体外观，只保留完整服装的正面、侧面和背面结构。保持右侧人物原有脸型、五官比例、眼型、鼻型、嘴型、发型、发色和面部朝向一致，不美化或重新设计五官。使用清晰可见的彩铅笔触、纸张纹理、铅笔排线和自然色彩层次，同时保持原始构图和服装细节。 Description: 将原图转换为细腻写实的彩铅插画风格，仅改变画面材质与绘画表现，不改变人物和服装设计。右侧保留一张清晰的正面人物半身像；左侧三视图仅展示服装，去除人物头部与身体外观，只保留完整服装的正面、侧面和背面结构。保持右侧人物原有脸型、五官比例、眼型、鼻型、嘴型、发型、发色和面部朝向一致，不美化或重新设计五官。使用清晰可见的彩铅笔触、纸张纹理、铅笔排线和自然色彩层次，同时保持原始构图和服装细节。
+																5630 图形 结果图
+																5505 组
+																5506 组
+																5507 组
+														5454 node
+															5455 组
+																5456 按钮 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 Description: 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。
+																5457 图形 结果图
+																5458 组
+																5459 组
+																5460 组
+														5633 node
+															5634 组
+																5635 图形
+																5636 按钮 drawing.png Description: drawing.png
+																5637 图形 已上传素材
+																5638 组
+																5639 组
+														5671 node
+															5672 组
+																5673 图形
+																5674 按钮 drawing.png Description: drawing.png
+																5675 图形 已上传素材
+																5676 组
+																5677 组
+														5711 node
+															5712 组
+																5713 图形
+																5714 按钮 drawing.png Description: drawing.png
+																5715 图形 已上传素材
+																5716 组
+																5717 组
+														5756 node
+															5757 组
+																5758 图形
+																5759 按钮 drawing.png Description: drawing.png
+																5760 图形 已上传素材
+																5761 组
+																5762 组
+														5801 node
+															5802 组
+																5803 图形
+																5804 按钮 drawing.png Description: drawing.png
+																5805 图形 已上传素材
+																5806 组
+																5807 组
+														5508 node
+															5509 按钮 局部重绘 / 人脸防卡 Description: 局部重绘 / 人脸防卡
+															5510 组
+															5511 组
+															5512 图形 局部重绘 / 人脸防卡
+															5513 按钮 进入画布
+															5514 组
+														5631 按钮 删除
+														5632 按钮 连接 · 1
+													5474 图形 Mini Map Description: Mini Map
+													5475 组 ID: react-flow__aria-live-1
+												5476 按钮 生成历史 Description: 生成历史
+													5477 组 共 2 条生成记录
+												5478 按钮 添加节点 Description: 添加节点
+												5479 切换按钮 选择节点 Description: 选择节点
+												5480 切换按钮 拖动画布 Description: 拖动画布
+												5481 按钮 110% Description: 恢复 100%
+												5482 滑块 (settable, float) 画布缩放 Value: 110
+												5483 按钮 适配视图 Description: 适配视图
+												5484 按钮 撤销 Description: 撤销
+												5485 按钮 (disabled) 重做 Description: 重做
+												5486 按钮 快捷键指南 Description: 快捷键指南
+												5487 按钮 素材库 Description: 素材库
+												5488 按钮 提示词库 Description: 提示词库
+										5518 文本 局部重绘 / 人脸防卡
+										5519 按钮 画笔 Description: 画笔 (B)
+										5520 按钮 橡皮 Description: 橡皮 (E)
+										5521 按钮 拖拽 Description: 拖拽 (H / 空格)
+										5522 按钮 撤销 Ctrl+Z Description: 撤销 Ctrl+Z
+										5523 按钮 重做 Ctrl+Y Description: 重做 Ctrl+Y
+										5524 按钮 适应画布 Description: 适应画布
+										5525 按钮 清空当前图层 Description: 清空当前图层
+										5526 文本 1280
+										5527 文本 ×
+										5528 文本 720
+										5529 文本 88
+										5530 文本 %
+										5531 按钮 接到生视频
+										5532 按钮 退出画布
+										5533 图像
+										5534 文本 88
+										5535 文本 %
+										5536 文本 橡皮
+										5537 文本 滚轮缩放 · 空格拖拽 · Alt 取色
+										5538 按钮 工具
+										5539 按钮 图层
+										5540 按钮 参考
+										5541 按钮 导出
+										5792 文本 导入 / 输出
+										5793 组
+											5794 文本 导入图片
+											5795 文本 新图层
+											5796 按钮 导入图片 新图层: 未选择文件 Value: 未选择文件
+										5797 按钮 导出为图片节点
+										5798 按钮 导出并接入 AI 生图
+										5799 文本 透明背景
+										5800 复选框 (settable, string) 透明背景
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				5056 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+```
+
+## Lite editor bottom options, no symmetry/perspective
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										276 组 ID: root
+											5408 按钮 返回 Description: 返回
+											278 文本 灰豆AI光影引擎
+											279 文本 36,562
+											280 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											5409 按钮 AI 照相馆 Description: AI 照相馆
+												5410 图形
+											283 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											284 文本 v7.7.1
+											285 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											286 按钮 English Description: English
+											287 按钮 浅色 Description: 浅色
+											288 按钮 设置 Description: 设置
+											289 按钮 最小化 Description: 最小化
+											290 按钮 最大化 Description: 最大化
+											291 按钮 关闭 Description: 关闭
+											292 主要
+												5411 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												5412 应用程序
+													5413 组
+														5414 图形
+															5415 edge Edge from a823c4ac-3189-4a2a-9801-f2cef0b4f180 to 53775f7d-d900-409b-b55e-a27e4709c97b
+														5416 图形
+															5417 edge Edge from b54a93f5-70e7-4bb1-9aae-591a0b118579 to a823c4ac-3189-4a2a-9801-f2cef0b4f180
+														5626 图形
+															5627 edge Edge from 53775f7d-d900-409b-b55e-a27e4709c97b to bf277fce-ea28-4c0e-a13d-316aa9ef0523
+														5628 图形
+															5629 edge Edge from bf277fce-ea28-4c0e-a13d-316aa9ef0523 to 7a696678-2ac5-42da-83d2-fe9d027886d5
+														5418 node
+															5419 组
+																5420 图形
+																5421 按钮 文本注释 Description: 文本注释
+																5422 组
+																5423 组
+																5424 组
+																5425 标题 HD-7426
+																5426 文本 独立编组测试
+														5427 node
+															5428 组
+																5429 图形
+																5430 按钮 文本注释 Description: 文本注释
+																5431 组
+																5432 组
+																5433 组
+																5434 标题 HD-7426
+																5435 文本 独立编组测试
+														5436 node
+															5437 组
+																5438 按钮 AI 图片 Description: AI 图片
+																5439 按钮 参数 Description: 打开模型、画幅、清晰度、数量等生成参数
+																5440 按钮 展开 Description: 展开节点内容
+																5441 文本 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 单个蓝色陶瓷…
+																5490 编辑 (settable, string) 写备注：这个节点用途、镜头编号、待修改点... Description: 写备注：这个节点用途、镜头编号、待修改点...
+																5442 文本 折叠备注只用于整理画布，不会发送给模型
+																5443 文本 可直接输入
+																5444 组
+																5445 组
+																5446 组
+														5447 node
+															5448 组
+																5449 图形
+																5450 按钮 清晨无人盐湖浅水 Description: 清晨无人盐湖浅水
+																5451 图形 已上传素材
+																5452 组
+																5453 组
+														5500 node
+															5501 组
+																5502 按钮 将原图转换为细腻写实的彩铅插画风格，仅改变画面材质与绘画表现，不改变人物和服装设计。右侧保留一张清晰的正面人物半身像；左侧三视图仅展示服装，去除人物头部与身体外观，只保留完整服装的正面、侧面和背面结构。保持右侧人物原有脸型、五官比例、眼型、鼻型、嘴型、发型、发色和面部朝向一致，不美化或重新设计五官。使用清晰可见的彩铅笔触、纸张纹理、铅笔排线和自然色彩层次，同时保持原始构图和服装细节。 Description: 将原图转换为细腻写实的彩铅插画风格，仅改变画面材质与绘画表现，不改变人物和服装设计。右侧保留一张清晰的正面人物半身像；左侧三视图仅展示服装，去除人物头部与身体外观，只保留完整服装的正面、侧面和背面结构。保持右侧人物原有脸型、五官比例、眼型、鼻型、嘴型、发型、发色和面部朝向一致，不美化或重新设计五官。使用清晰可见的彩铅笔触、纸张纹理、铅笔排线和自然色彩层次，同时保持原始构图和服装细节。
+																5630 图形 结果图
+																5505 组
+																5506 组
+																5507 组
+														5454 node
+															5455 组
+																5456 按钮 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 Description: 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。
+																5457 图形 结果图
+																5458 组
+																5459 组
+																5460 组
+														5633 node
+															5634 组
+																5635 图形
+																5636 按钮 drawing.png Description: drawing.png
+																5637 图形 已上传素材
+																5638 组
+																5639 组
+														5671 node
+															5672 组
+																5673 图形
+																5674 按钮 drawing.png Description: drawing.png
+																5675 图形 已上传素材
+																5676 组
+																5677 组
+														5711 node
+															5712 组
+																5713 图形
+																5714 按钮 drawing.png Description: drawing.png
+																5715 图形 已上传素材
+																5716 组
+																5717 组
+														5756 node
+															5757 组
+																5758 图形
+																5759 按钮 drawing.png Description: drawing.png
+																5760 图形 已上传素材
+																5761 组
+																5762 组
+														5801 node
+															5802 组
+																5803 图形
+																5804 按钮 drawing.png Description: drawing.png
+																5805 图形 已上传素材
+																5806 组
+																5807 组
+														5809 node
+															5810 组
+																5811 图形
+																5812 按钮 drawing.png Description: drawing.png
+																5813 图形 已上传素材
+																5814 组
+																5815 组
+														5508 node
+															5509 按钮 局部重绘 / 人脸防卡 Description: 局部重绘 / 人脸防卡
+															5510 组
+															5511 组
+															5512 图形 局部重绘 / 人脸防卡
+															5513 按钮 进入画布
+															5514 组
+														5631 按钮 删除
+														5632 按钮 连接 · 1
+													5474 图形 Mini Map Description: Mini Map
+													5475 组 ID: react-flow__aria-live-1
+												5476 按钮 生成历史 Description: 生成历史
+													5477 组 共 2 条生成记录
+												5478 按钮 添加节点 Description: 添加节点
+												5479 切换按钮 选择节点 Description: 选择节点
+												5480 切换按钮 拖动画布 Description: 拖动画布
+												5481 按钮 110% Description: 恢复 100%
+												5482 滑块 (settable, float) 画布缩放 Value: 110
+												5483 按钮 适配视图 Description: 适配视图
+												5484 按钮 撤销 Description: 撤销
+												5485 按钮 (disabled) 重做 Description: 重做
+												5486 按钮 快捷键指南 Description: 快捷键指南
+												5487 按钮 素材库 Description: 素材库
+												5488 按钮 提示词库 Description: 提示词库
+										5518 文本 局部重绘 / 人脸防卡
+										5519 按钮 画笔 Description: 画笔 (B)
+										5520 按钮 橡皮 Description: 橡皮 (E)
+										5521 按钮 拖拽 Description: 拖拽 (H / 空格)
+										5522 按钮 撤销 Ctrl+Z Description: 撤销 Ctrl+Z
+										5523 按钮 重做 Ctrl+Y Description: 重做 Ctrl+Y
+										5524 按钮 适应画布 Description: 适应画布
+										5525 按钮 清空当前图层 Description: 清空当前图层
+										5526 文本 1280
+										5527 文本 ×
+										5528 文本 720
+										5529 文本 88
+										5530 文本 %
+										5531 按钮 接到生视频
+										5532 按钮 退出画布
+										5533 图像
+										5534 文本 88
+										5535 文本 %
+										5536 文本 橡皮
+										5537 文本 滚轮缩放 · 空格拖拽 · Alt 取色
+										5538 按钮 工具
+										5539 按钮 图层
+										5540 按钮 参考
+										5541 按钮 导出
+										5817 文本 工具
+										5818 按钮 橡皮 (E)
+										5819 文本 颜色
+										5820 颜色选择器 (disabled) Value: 92% red 28% green 60% blue
+										5821 文本 Alt 取色
+										5822 文本 大小
+										5823 滑块 (settable, float) Value: 14
+										5824 文本 14
+										5825 文本 不透明
+										5826 滑块 (settable, float) Value: 0.7599999904632568
+										5827 文本 76
+										5828 文本 %
+										5829 文本 硬度
+										5830 滑块 (settable, float) Value: 0.5
+										5831 文本 50
+										5832 文本 %
+										5833 文本 流量
+										5834 滑块 (settable, float) Value: 1
+										5835 文本 100
+										5836 文本 %
+										5837 组 Description: 稳定越高越防抖，但响应更柔
+											5838 文本 稳定
+											5839 滑块 (settable, float) Value: 0.10000000149011612
+											5840 文本 12
+											5841 文本 %
+										5842 按钮 适应
+										5843 按钮 撤销
+										5844 按钮 重做
+										5845 按钮 清空
+										5846 文本 创作流转
+										5847 文本 导入参考、输出节点、继续 AI 精修
+										5848 按钮 更多
+										5849 组
+											5850 文本 导入图片
+											5851 文本 新图层
+											5852 按钮 导入图片 新图层: 未选择文件 Value: 未选择文件
+										5853 按钮 接到生视频
+										5854 按钮 保存处理图
+										5855 文本 画布状态
+										5856 文本 88
+										5857 文本 %
+										5858 文本 尺寸
+										5859 文本 1280
+										5860 文本 ×
+										5861 文本 720
+										5862 文本 图层
+										5863 文本 3
+										5864 文本 个 ·
+										5865 文本 2
+										5866 文本 可见
+										5867 文本 背景
+										5868 文本 透明
+										5869 文本 参考
+										5870 文本 隐藏
+										5871 文本 快捷键
+										5872 文本 B
+										5873 文本 画笔
+										5874 文本 E
+										5875 文本 橡皮
+										5876 文本 空格
+										5877 文本 拖拽
+										5878 文本 Alt
+										5879 文本 取色
+										5880 文本 [ / ]
+										5881 文本 笔刷大小
+										5882 文本 Shift
+										5883 文本 直线
+										5884 文本 Ctrl+Z
+										5885 文本 撤销
+										5886 文本 滚轮
+										5887 文本 缩放
+										5888 文本 推荐流程
+										5889 文本 1. 导入参考图或直接起草构图
+										5890 文本 2. 用新图层补线稿、遮罩或局部修改
+										5891 文本 3. 发送到 AI 生图继续精修
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				5056 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+￼
+```
+
+## Drawing to AI image before one submission balance36562 Image2 2K 16:9 x1 ref1
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										276 组 ID: root
+											5408 按钮 返回 Description: 返回
+											278 文本 灰豆AI光影引擎
+											279 文本 36,562
+											280 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											5409 按钮 AI 照相馆 Description: AI 照相馆
+												5410 图形
+											283 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											284 文本 v7.7.1
+											285 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											286 按钮 English Description: English
+											287 按钮 浅色 Description: 浅色
+											288 按钮 设置 Description: 设置
+											289 按钮 最小化 Description: 最小化
+											290 按钮 最大化 Description: 最大化
+											291 按钮 关闭 Description: 关闭
+											292 主要
+												5411 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												5412 应用程序
+													5413 组
+														5990 组
+															5414 图形
+																5415 edge Edge from a823c4ac-3189-4a2a-9801-f2cef0b4f180 to 53775f7d-d900-409b-b55e-a27e4709c97b
+															5416 图形
+																5417 edge Edge from b54a93f5-70e7-4bb1-9aae-591a0b118579 to a823c4ac-3189-4a2a-9801-f2cef0b4f180
+															5626 图形
+																5627 edge Edge from 53775f7d-d900-409b-b55e-a27e4709c97b to bf277fce-ea28-4c0e-a13d-316aa9ef0523
+															5628 图形
+																5629 edge Edge from bf277fce-ea28-4c0e-a13d-316aa9ef0523 to 7a696678-2ac5-42da-83d2-fe9d027886d5
+															5901 图形
+																5902 edge Edge from 1997d584-b8cb-4c17-a8dd-c0f127fd055c to c37bd299-deb5-4205-93ed-956633867856
+															5418 node
+																5419 组
+																	5420 图形
+																	5421 按钮 文本注释 Description: 文本注释
+																	5422 组
+																	5423 组
+																	5424 组
+																	5425 标题 HD-7426
+																	5426 文本 独立编组测试
+															5427 node
+																5428 组
+																	5429 图形
+																	5430 按钮 文本注释 Description: 文本注释
+																	5431 组
+																	5432 组
+																	5433 组
+																	5434 标题 HD-7426
+																	5435 文本 独立编组测试
+															5436 node
+																5437 组
+																	5438 按钮 AI 图片 Description: AI 图片
+																	5439 按钮 参数 Description: 打开模型、画幅、清晰度、数量等生成参数
+																	5440 按钮 展开 Description: 展开节点内容
+																	5441 文本 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 单个蓝色陶瓷…
+																	5490 编辑 (settable, string) 写备注：这个节点用途、镜头编号、待修改点... Description: 写备注：这个节点用途、镜头编号、待修改点...
+																	5442 文本 折叠备注只用于整理画布，不会发送给模型
+																	5443 文本 可直接输入
+																	5444 组
+																	5445 组
+																	5446 组
+															5447 node
+																5448 组
+																	5449 图形
+																	5450 按钮 清晨无人盐湖浅水 Description: 清晨无人盐湖浅水
+																	5451 图形 已上传素材
+																	5452 组
+																	5453 组
+															5500 node
+																5501 组
+																	5502 按钮 将原图转换为细腻写实的彩铅插画风格，仅改变画面材质与绘画表现，不改变人物和服装设计。右侧保留一张清晰的正面人物半身像；左侧三视图仅展示服装，去除人物头部与身体外观，只保留完整服装的正面、侧面和背面结构。保持右侧人物原有脸型、五官比例、眼型、鼻型、嘴型、发型、发色和面部朝向一致，不美化或重新设计五官。使用清晰可见的彩铅笔触、纸张纹理、铅笔排线和自然色彩层次，同时保持原始构图和服装细节。 Description: 将原图转换为细腻写实的彩铅插画风格，仅改变画面材质与绘画表现，不改变人物和服装设计。右侧保留一张清晰的正面人物半身像；左侧三视图仅展示服装，去除人物头部与身体外观，只保留完整服装的正面、侧面和背面结构。保持右侧人物原有脸型、五官比例、眼型、鼻型、嘴型、发型、发色和面部朝向一致，不美化或重新设计五官。使用清晰可见的彩铅笔触、纸张纹理、铅笔排线和自然色彩层次，同时保持原始构图和服装细节。
+																	5630 图形 结果图
+																	5505 组
+																	5506 组
+																	5507 组
+															5454 node
+																5455 组
+																	5456 按钮 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 Description: 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。
+																	5457 图形 结果图
+																	5458 组
+																	5459 组
+																	5460 组
+															5944 node
+																5945 组
+																5946 按钮 彩铅参考图 · 生视频 Description: 彩铅参考图 · 生视频
+																5947 组
+																5948 组
+																5949 文本 生成模型
+																5950 文本 时长
+																5951 文本 画幅
+																5952 文本 清晰度
+																5953 按钮 Wan3.0 经济版｜签约特价 · 下午高峰较慢｜不卡人脸 · 最长30秒
+																5954 按钮 10 秒
+																5955 按钮 16:9
+																5956 按钮 720p
+																5957 文本 导演指令
+																5958 文本
+																5959 文本 描述动作、镜头与画面变化
+																5960 按钮 上传参考图
+																5961 按钮 从素材库选择
+																5962 按钮 智能优化 Description: 按需优化动作与镜头描述，点击后生成建议供你确认。
+																5963 编辑 (settable, string) 描述人物动作、镜头运动和画面变化…… Description: 描述人物动作、镜头运动和画面变化…… Value: 以已连接的参考图作为对应人物的身份与外观依据。仅去除彩铅绘画质感并恢复自然真实的真人摄影质感，保持各人物脸型、五官形状与比例、发型发色、服装及身份特征与各自参考图一致。不美化、不重塑五官，不混合或交换不同人物特征。在此基础上执行以下动作：
+																5964 按钮 参考素材舱 图片 1 / 10 音频 0 / 5 视频 0 / 5 收起
+																5965 文本 2. 参考图
+																5966 文本 已连接 1 张参考图，可点击缩略图插入 @图 标记。
+																5967 组 Description: @将原图转换为细腻写实的彩… / @图1 / 人物
+																	5968 按钮 参考图1 @将原图转换为细腻写实的彩… 主参考
+																		5969 图形 参考图1
+																	5970 按钮 移除引用 @将原图转换为细腻写实的彩…
+																5971 文本 视频系统 ·
+																5972 文本
+																5973 文本 待命
+																5974 文本 10 秒
+																5975 文本 ·
+																5976 文本
+																5977 文本 16:9
+																5978 文本 ·
+																5979 文本
+																5980 文本 720p
+																5981 文本 视频预览区 · 生成后在这里查看
+																5982 文本 10 秒
+																5983 文本 ·
+																5984 文本
+																5985 文本 16:9
+																5986 文本 ·
+																5987 文本
+																5988 文本 720p
+																5989 按钮 生成视频
+															5633 node
+																5634 组
+																	5635 图形
+																	5636 按钮 drawing.png Description: drawing.png
+																	5637 图形 已上传素材
+																	5638 组
+																	5639 组
+															5671 node
+																5672 组
+																	5673 图形
+																	5674 按钮 drawing.png Description: drawing.png
+																	5675 图形 已上传素材
+																	5676 组
+																	5677 组
+															5711 node
+																5712 组
+																	5713 图形
+																	5714 按钮 drawing.png Description: drawing.png
+																	5715 图形 已上传素材
+																	5716 组
+																	5717 组
+															5756 node
+																5757 组
+																	5758 图形
+																	5759 按钮 drawing.png Description: drawing.png
+																	5760 图形 已上传素材
+																	5761 组
+																	5762 组
+															5801 node
+																5802 组
+																	5803 图形
+																	5804 按钮 drawing.png Description: drawing.png
+																	5805 图形 已上传素材
+																	5806 组
+																	5807 组
+															5809 node
+																5810 组
+																	5811 图形
+																	5812 按钮 drawing.png Description: drawing.png
+																	5813 图形 已上传素材
+																	5814 组
+																	5815 组
+															5903 node
+																5904 组
+																	5905 图形
+																	5906 按钮 drawing.png Description: drawing.png
+																	5907 图形 已上传素材
+																	5908 组
+																	5909 组
+															5910 node
+																5911 组
+																	5912 按钮 AI 图片 Description: AI 图片
+																	5913 按钮 参数 Description: 打开模型、画幅、清晰度、数量等生成参数
+																	5914 按钮 折叠 Description: 折叠节点内容，保留简洁预览
+																	5915 文本 创作工具
+																	5916 按钮 模板与快捷词
+																	5917 文本 输入 @ 可绑定参考素材
+																	5918 文本 1. 描述画面
+																	5919 文本 主体、动作、环境、光影、风格越明确，结果越稳定
+																	5920 切换按钮 透明背景 Description: 生成透明底 PNG，适合 Logo、贴纸、电商素材和设计合成
+																	5921 按钮 中译英 Description: 忠实翻译为英文，不扩写提示词
+																	5922 按钮 3D摄影棚
+																	5923 按钮 智能优化
+																	5924 编辑 (settable, string) 例如：赛博朋克雨夜街头，年轻女主站在霓虹灯下，半身中景，湿润反光地面，电影感蓝紫光，细节清晰… Description: 例如：赛博朋克雨夜街头，年轻女主站在霓虹灯下，半身中景，湿润反光地面，电影感蓝紫光，细节清晰… Value: 以@图1为唯一参考。保留同一个红色木制立方体的形状、红色木纹、三分之四视角和居中位置。仅清除所有粉红色横线与笔迹，改为纯白色背景。不要新增人物、其他道具、文字或水印。
+																	5925 文本 可输入 @ 插入参考图 / 素材库；空间不够时拖右下角放大
+																	5926 按钮 灵感词库
+																	5927 按钮 清空内容
+																	5928 按钮 参考素材舱 角色 / 姿势 / 风格 / 场景 / 道具 1 展开 ›
+																	5929 文本 3. 生成设置
+																	5930 按钮 ⭐ ChatGPT Image 2 Description: 模型
+																	5931 按钮 画幅 16:9 Description: 画幅
+																	5932 按钮 清晰度 2K Description: 清晰度
+																	5933 按钮 数量 ×1 Description: 数量
+																	5934 按钮 高级设置 Description: 高级设置
+																	5935 按钮 生成视频 Description: 用生成结果或参考图创建 AI 视频节点
+																	5936 按钮 立即生成
+																	5937 文本 ↘
+																	5938 文本 拖右下角放大输入框
+																	5939 按钮 关闭提示
+																	5940 组
+																	5941 组
+																	5942 组
+															5508 node
+																5509 按钮 局部重绘 / 人脸防卡 Description: 局部重绘 / 人脸防卡
+																5510 组
+																5511 组
+																5512 图形 局部重绘 / 人脸防卡
+																5513 按钮 进入画布
+																5514 组
+														5631 按钮 删除
+														5632 按钮 连接 · 1
+													5474 图形 Mini Map Description: Mini Map
+													5475 组 ID: react-flow__aria-live-1
+												5476 按钮 生成历史 Description: 生成历史
+													5477 组 共 2 条生成记录
+												5478 按钮 添加节点 Description: 添加节点
+												5479 切换按钮 选择节点 Description: 选择节点
+												5480 切换按钮 拖动画布 Description: 拖动画布
+												5481 按钮 55% Description: 恢复 100%
+												5482 滑块 (settable, float) 画布缩放 Value: 55
+												5483 按钮 适配视图 Description: 适配视图
+												5484 按钮 撤销 Description: 撤销
+												5485 按钮 (disabled) 重做 Description: 重做
+												5486 按钮 快捷键指南 Description: 快捷键指南
+												5487 按钮 素材库 Description: 素材库
+												5488 按钮 提示词库 Description: 提示词库
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				5056 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+以@图1为唯一参考。保留同一个红色木制立方体的形状、红色木纹、三分之四视角和居中位置。仅清除所有粉红色横线与笔迹，改为纯白色背景。不要新增人物、其他道具、文字或水印。
+```
+
+## Full drawing editor inspected, 2560x1440, no symmetry/perspective observed
+Window: "灰豆AI光影引擎", App: huidou-ai-comics.exe.
+	0 窗口 灰豆AI光影引擎 Secondary Actions: Raise
+		1 窗格 TAURI_DRAG_RESIZE_WINDOW
+		2 窗格
+			3 窗格 分镜助手 Storyboard-Copilot
+				4 窗格 (disabled)
+				5 区域 分镜助手 Storyboard-Copilot - Web 内容
+					6 区域
+						7 区域
+						8 区域
+							9 区域
+								10 文档 分镜助手 Storyboard-Copilot Value: http://tauri.localhost/ ID: RootWebArea
+									11 组
+										276 组 ID: root
+											5408 按钮 返回 Description: 返回
+											278 文本 灰豆AI光影引擎
+											279 文本 36,562
+											280 按钮 新手手册 Description: 打开快速使用手册和节点说明
+											5409 按钮 AI 照相馆 Description: AI 照相馆
+												5410 图形
+											283 按钮 B站 / 抖音搜索：特效小哥灰豆 Description: 点击复制搜索文案
+											284 文本 v7.7.1
+											285 按钮 打开下载图片文件夹（查看已保存图片） Description: 打开下载图片文件夹（查看已保存图片）
+											286 按钮 English Description: English
+											287 按钮 浅色 Description: 浅色
+											288 按钮 设置 Description: 设置
+											289 按钮 最小化 Description: 最小化
+											290 按钮 最大化 Description: 最大化
+											291 按钮 关闭 Description: 关闭
+											292 主要
+												5411 按钮 AI创作中心 看图 · 读文档 · 写剧本 · 做创意 Description: AI创作中心 · 看图 · 读文档 · 写剧本 · 做创意
+												5412 应用程序
+													5413 组
+														5990 组
+															5414 图形
+																5415 edge Edge from a823c4ac-3189-4a2a-9801-f2cef0b4f180 to 53775f7d-d900-409b-b55e-a27e4709c97b
+															5416 图形
+																5417 edge Edge from b54a93f5-70e7-4bb1-9aae-591a0b118579 to a823c4ac-3189-4a2a-9801-f2cef0b4f180
+															5626 图形
+																5627 edge Edge from 53775f7d-d900-409b-b55e-a27e4709c97b to bf277fce-ea28-4c0e-a13d-316aa9ef0523
+															5628 图形
+																5629 edge Edge from bf277fce-ea28-4c0e-a13d-316aa9ef0523 to 7a696678-2ac5-42da-83d2-fe9d027886d5
+															5901 图形
+																5902 edge Edge from 1997d584-b8cb-4c17-a8dd-c0f127fd055c to c37bd299-deb5-4205-93ed-956633867856
+															5991 图形
+																5992 edge Edge from c37bd299-deb5-4205-93ed-956633867856 to 388cfc19-40c2-450a-9b75-7a7fc9da1b65
+															5418 node
+																5419 组
+																	5420 图形
+																	5421 按钮 文本注释 Description: 文本注释
+																	5422 组
+																	5423 组
+																	5424 组
+																	5425 标题 HD-7426
+																	5426 文本 独立编组测试
+															5427 node
+																5428 组
+																	5429 图形
+																	5430 按钮 文本注释 Description: 文本注释
+																	5431 组
+																	5432 组
+																	5433 组
+																	5434 标题 HD-7426
+																	5435 文本 独立编组测试
+															5436 node
+																5437 组
+																	5438 按钮 AI 图片 Description: AI 图片
+																	5439 按钮 参数 Description: 打开模型、画幅、清晰度、数量等生成参数
+																	5440 按钮 展开 Description: 展开节点内容
+																	5441 文本 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 单个蓝色陶瓷…
+																	5490 编辑 (settable, string) 写备注：这个节点用途、镜头编号、待修改点... Description: 写备注：这个节点用途、镜头编号、待修改点...
+																	5442 文本 折叠备注只用于整理画布，不会发送给模型
+																	5443 文本 可直接输入
+																	5444 组
+																	5445 组
+																	5446 组
+															5447 node
+																5448 组
+																	5449 图形
+																	5450 按钮 清晨无人盐湖浅水 Description: 清晨无人盐湖浅水
+																	5451 图形 已上传素材
+																	5452 组
+																	5453 组
+															5500 node
+																5501 组
+																	5502 按钮 将原图转换为细腻写实的彩铅插画风格，仅改变画面材质与绘画表现，不改变人物和服装设计。右侧保留一张清晰的正面人物半身像；左侧三视图仅展示服装，去除人物头部与身体外观，只保留完整服装的正面、侧面和背面结构。保持右侧人物原有脸型、五官比例、眼型、鼻型、嘴型、发型、发色和面部朝向一致，不美化或重新设计五官。使用清晰可见的彩铅笔触、纸张纹理、铅笔排线和自然色彩层次，同时保持原始构图和服装细节。 Description: 将原图转换为细腻写实的彩铅插画风格，仅改变画面材质与绘画表现，不改变人物和服装设计。右侧保留一张清晰的正面人物半身像；左侧三视图仅展示服装，去除人物头部与身体外观，只保留完整服装的正面、侧面和背面结构。保持右侧人物原有脸型、五官比例、眼型、鼻型、嘴型、发型、发色和面部朝向一致，不美化或重新设计五官。使用清晰可见的彩铅笔触、纸张纹理、铅笔排线和自然色彩层次，同时保持原始构图和服装细节。
+																	5630 图形 结果图
+																	5505 组
+																	5506 组
+																	5507 组
+															5454 node
+																5455 组
+																	5456 按钮 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。 Description: 画面中仅有一个红色木制立方体，采用三分之四视角，完整显示且严格居中，作为唯一道具；不要出现人物、文字、水印、地面和投影；背景为透明背景；16:9 构图，2K 清晰度。
+																	5457 图形 结果图
+																	5458 组
+																	5459 组
+																	5460 组
+															5944 node
+																5945 组
+																5946 按钮 彩铅参考图 · 生视频 Description: 彩铅参考图 · 生视频
+																5947 组
+																5948 组
+																5949 文本 生成模型
+																5950 文本 时长
+																5951 文本 画幅
+																5952 文本 清晰度
+																5953 按钮 Wan3.0 经济版｜签约特价 · 下午高峰较慢｜不卡人脸 · 最长30秒
+																5954 按钮 10 秒
+																5955 按钮 16:9
+																5956 按钮 720p
+																5957 文本 导演指令
+																5958 文本
+																5959 文本 描述动作、镜头与画面变化
+																5960 按钮 上传参考图
+																5961 按钮 从素材库选择
+																5962 按钮 智能优化 Description: 按需优化动作与镜头描述，点击后生成建议供你确认。
+																5963 编辑 (settable, string) 描述人物动作、镜头运动和画面变化…… Description: 描述人物动作、镜头运动和画面变化…… Value: 以已连接的参考图作为对应人物的身份与外观依据。仅去除彩铅绘画质感并恢复自然真实的真人摄影质感，保持各人物脸型、五官形状与比例、发型发色、服装及身份特征与各自参考图一致。不美化、不重塑五官，不混合或交换不同人物特征。在此基础上执行以下动作：
+																5964 按钮 参考素材舱 图片 1 / 10 音频 0 / 5 视频 0 / 5 收起
+																5965 文本 2. 参考图
+																5966 文本 已连接 1 张参考图，可点击缩略图插入 @图 标记。
+																5967 组 Description: @将原图转换为细腻写实的彩… / @图1 / 人物
+																	5968 按钮 参考图1 @将原图转换为细腻写实的彩… 主参考
+																		5969 图形 参考图1
+																	5970 按钮 移除引用 @将原图转换为细腻写实的彩…
+																5971 文本 视频系统 ·
+																5972 文本
+																5973 文本 待命
+																5974 文本 10 秒
+																5975 文本 ·
+																5976 文本
+																5977 文本 16:9
+																5978 文本 ·
+																5979 文本
+																5980 文本 720p
+																5981 文本 视频预览区 · 生成后在这里查看
+																5982 文本 10 秒
+																5983 文本 ·
+																5984 文本
+																5985 文本 16:9
+																5986 文本 ·
+																5987 文本
+																5988 文本 720p
+																5989 按钮 生成视频
+															5633 node
+																5634 组
+																	5635 图形
+																	5636 按钮 drawing.png Description: drawing.png
+																	5637 图形 已上传素材
+																	5638 组
+																	5639 组
+															5671 node
+																5672 组
+																	5673 图形
+																	5674 按钮 drawing.png Description: drawing.png
+																	5675 图形 已上传素材
+																	5676 组
+																	5677 组
+															5711 node
+																5712 组
+																	5713 图形
+																	5714 按钮 drawing.png Description: drawing.png
+																	5715 图形 已上传素材
+																	5716 组
+																	5717 组
+															5756 node
+																5757 组
+																	5758 图形
+																	5759 按钮 drawing.png Description: drawing.png
+																	5760 图形 已上传素材
+																	5761 组
+																	5762 组
+															5801 node
+																5802 组
+																	5803 图形
+																	5804 按钮 drawing.png Description: drawing.png
+																	5805 图形 已上传素材
+																	5806 组
+																	5807 组
+															5809 node
+																5810 组
+																	5811 图形
+																	5812 按钮 drawing.png Description: drawing.png
+																	5813 图形 已上传素材
+																	5814 组
+																	5815 组
+															5903 node
+																5904 组
+																	5905 图形
+																	5906 按钮 drawing.png Description: drawing.png
+																	5907 图形 已上传素材
+																	5908 组
+																	5909 组
+															5910 node
+																5911 组
+																	5912 按钮 AI 图片 Description: AI 图片
+																	5913 按钮 参数 Description: 打开模型、画幅、清晰度、数量等生成参数
+																	5914 按钮 折叠 Description: 折叠节点内容，保留简洁预览
+																	5915 文本 创作工具
+																	5916 按钮 模板与快捷词
+																	5917 文本 输入 @ 可绑定参考素材
+																	5918 文本 1. 描述画面
+																	5919 文本 主体、动作、环境、光影、风格越明确，结果越稳定
+																	5920 切换按钮 透明背景 Description: 生成透明底 PNG，适合 Logo、贴纸、电商素材和设计合成
+																	5921 按钮 中译英 Description: 忠实翻译为英文，不扩写提示词
+																	5922 按钮 3D摄影棚
+																	5923 按钮 智能优化
+																	5924 编辑 (settable, string) 例如：赛博朋克雨夜街头，年轻女主站在霓虹灯下，半身中景，湿润反光地面，电影感蓝紫光，细节清晰… Description: 例如：赛博朋克雨夜街头，年轻女主站在霓虹灯下，半身中景，湿润反光地面，电影感蓝紫光，细节清晰… Value: 以@图1为唯一参考。保留同一个红色木制立方体的形状、红色木纹、三分之四视角和居中位置。仅清除所有粉红色横线与笔迹，改为纯白色背景。不要新增人物、其他道具、文字或水印。
+																	5925 文本 可输入 @ 插入参考图 / 素材库；空间不够时拖右下角放大
+																	5926 按钮 灵感词库
+																	5927 按钮 清空内容
+																	5928 按钮 参考素材舱 角色 / 姿势 / 风格 / 场景 / 道具 1 展开 ›
+																	5929 文本 3. 生成设置
+																	5930 按钮 ⭐ ChatGPT Image 2 Description: 模型
+																	5931 按钮 画幅 16:9 Description: 画幅
+																	5932 按钮 清晰度 2K Description: 清晰度
+																	5933 按钮 数量 ×1 Description: 数量
+																	5934 按钮 高级设置 Description: 高级设置
+																	5935 按钮 生成视频 Description: 用生成结果或参考图创建 AI 视频节点
+																	5936 按钮 立即生成
+																	5937 文本 ↘
+																	5938 文本 拖右下角放大输入框
+																	5939 按钮 关闭提示
+																	5940 组
+																	5941 组
+																	5942 组
+															5993 node
+																5994 组
+																	5995 按钮 以图1为唯一参考。保留同一个红色木制立方体的形状、红色木纹、三分之四视角和居中位置。仅清除所有粉红色横线与笔迹，改为纯白色背景。不要新增人物、其他道具、文字或水印。 Description: 以图1为唯一参考。保留同一个红色木制立方体的形状、红色木纹、三分之四视角和居中位置。仅清除所有粉红色横线与笔迹，改为纯白色背景。不要新增人物、其他道具、文字或水印。
+																	5996 文本 视觉核心正在构筑
+																	5997 组 能量蓄力中
+																	5998 组
+																	5999 组
+																	6000 组
+															5508 node
+																5509 按钮 局部重绘 / 人脸防卡 Description: 局部重绘 / 人脸防卡
+																5510 组
+																5511 组
+																5512 图形 局部重绘 / 人脸防卡
+																5513 按钮 进入画布
+																5514 组
+															6011 node
+																6012 按钮 小豆子绘梦画布 Description: 小豆子绘梦画布
+																6013 组
+																6014 组
+																6015 按钮 进入画布
+																6016 组
+														5631 按钮 删除
+													5474 图形 Mini Map Description: Mini Map
+													5475 组 ID: react-flow__aria-live-1
+												5476 按钮 生成历史 Description: 生成历史
+													5477 组 共 2 条生成记录
+												5478 按钮 添加节点 Description: 添加节点
+												5479 切换按钮 选择节点 Description: 选择节点
+												5480 切换按钮 拖动画布 Description: 拖动画布
+												5481 按钮 55% Description: 恢复 100%
+												5482 滑块 (settable, float) 画布缩放 Value: 55
+												5483 按钮 适配视图 Description: 适配视图
+												5484 按钮 撤销 Description: 撤销
+												5485 按钮 (disabled) 重做 Description: 重做
+												5486 按钮 快捷键指南 Description: 快捷键指南
+												5487 按钮 素材库 Description: 素材库
+												5488 按钮 提示词库 Description: 提示词库
+										6017 文本 小豆子绘梦画布
+										6018 按钮 画笔 Description: 画笔 (B)
+										6019 按钮 橡皮 Description: 橡皮 (E)
+										6020 按钮 拖拽 Description: 拖拽 (H / 空格)
+										6021 按钮 撤销 Ctrl+Z Description: 撤销 Ctrl+Z
+										6022 按钮 重做 Ctrl+Y Description: 重做 Ctrl+Y
+										6023 按钮 适应画布 Description: 适应画布
+										6024 按钮 清空当前图层 Description: 清空当前图层
+										6025 文本 2560
+										6026 文本 ×
+										6027 文本 1440
+										6028 文本 44
+										6029 文本 %
+										6030 按钮 发送到 AI 生图
+										6031 按钮 退出画布
+										6032 图像
+										6033 文本 44
+										6034 文本 %
+										6035 文本 画笔
+										6036 文本 滚轮缩放 · 空格拖拽 · Alt 取色
+										6037 文本 从草图开始，或导入一张参考图
+										6038 文本 画完后可一键发送到 AI 生图继续精修
+										6039 按钮 工具
+										6040 按钮 图层
+										6041 按钮 参考
+										6042 按钮 导出
+										6118 文本 导入 / 输出
+										6119 组
+											6120 文本 导入图片
+											6121 文本 新图层
+											6122 按钮 导入图片 新图层: 未选择文件 Value: 未选择文件
+										6123 按钮 导出为图片节点
+										6124 按钮 导出并接入 AI 生图
+										6125 文本 透明背景
+										6126 复选框 (settable, string) 透明背景
+								165 区域
+		166 标题栏 (settable, string) Value: 灰豆AI光影引擎
+			167 菜单栏 系统 ID: MenuBar
+				5056 菜单项 系统
+			169 按钮 最小化
+			170 按钮 最大化
+			171 按钮 关闭
+
+Document text: ```
+以@图1为唯一参考。保留同一个红色木制立方体的形状、红色木纹、三分之四视角和居中位置。仅清除所有粉红色横线与笔迹，改为纯白色背景。不要新增人物、其他道具、文字或水印。
+```

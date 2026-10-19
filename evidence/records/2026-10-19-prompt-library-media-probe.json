@@ -1,0 +1,23 @@
+{
+  "output": {
+    "path": "evidence/media/提示词库-创作中心无人空镜-Image2.png",
+    "bytes": 4126562,
+    "sha256": "32e0763deacf81c77cf651e36ddfa8bb5556be56e5ff54d73a7fbf351a5a4d0a",
+    "size": [
+      2048,
+      1152
+    ],
+    "mode": "RGB"
+  },
+  "model": "ChatGPT Image 2",
+  "quality": "2K",
+  "aspect": "16:9",
+  "reference_count": 0,
+  "count": 1,
+  "submissions": 1,
+  "balance_before": 36393,
+  "balance_after": 36377,
+  "prompt": "清晨无人盐湖，冷青晨光，远山与盐晶纹理，写实电影空镜，16:9；排除人物、动物、建筑、文字。",
+  "route": "AI creative centre text returned earlier -> manually saved as local prompt template -> 使用到AI生图 -> explicit single generate -> download",
+  "visual": "Full file inspected: empty salt lake with mountains, salt crystal texture, cool morning light; no visible people, animals, buildings, or text."
+}

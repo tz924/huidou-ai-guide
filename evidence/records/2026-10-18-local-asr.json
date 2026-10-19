@@ -1,0 +1,315 @@
+{
+  "method": "Local faster-whisper CPU int8, small multilingual; no audio uploaded; automatic transcription is not human listening or lip-sync verification.",
+  "source": "https://github.com/SYSTRAN/faster-whisper",
+  "versions": {
+    "faster-whisper": "1.2.1",
+    "ctranslate2": "4.8.3",
+    "av": "19.0.1"
+  },
+  "model": "Systran/faster-whisper-small",
+  "options": {
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 8,
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "word_timestamps": true,
+    "initial_prompt": null,
+    "condition_on_previous_text": false
+  },
+  "decode": "FFmpeg local 16kHz mono float32 ndarray; avoids faster-whisper1.2.1/PyAV19 metadata_errors API incompatibility observed on first attempt.",
+  "files": [
+    {
+      "path": "evidence/media/镜头-01-task_1nDqCr1S1E0Frb5PR9XdVO99slOCrjeE.mp4",
+      "sha256": "716c920f591ad4b24e90dd8a0723258e37ef6bd6562f664bef254ce165949103",
+      "segments": [
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 4.82,
+          "end": 6.14,
+          "text": "这片湖",
+          "tokens": [
+            50364,
+            5562,
+            16668,
+            33744,
+            244,
+            50464
+          ],
+          "avg_logprob": -0.43283686973154545,
+          "compression_ratio": 0.7317073170731707,
+          "no_speech_prob": 0.031097332015633583,
+          "words": [
+            {
+              "start": 4.82,
+              "end": 5.36,
+              "word": "这",
+              "probability": 0.587919294834137
+            },
+            {
+              "start": 5.36,
+              "end": 5.7,
+              "word": "片",
+              "probability": 0.9966540336608887
+            },
+            {
+              "start": 5.7,
+              "end": 6.14,
+              "word": "湖",
+              "probability": 0.9167775511741638
+            }
+          ],
+          "temperature": 0.0
+        },
+        {
+          "id": 2,
+          "seek": 0,
+          "start": 6.96,
+          "end": 9.52,
+          "text": "记得每一次黎明",
+          "tokens": [
+            50464,
+            34756,
+            5916,
+            23664,
+            27505,
+            6173,
+            236,
+            11100,
+            50614
+          ],
+          "avg_logprob": -0.43283686973154545,
+          "compression_ratio": 0.7317073170731707,
+          "no_speech_prob": 0.031097332015633583,
+          "words": [
+            {
+              "start": 6.96,
+              "end": 7.64,
+              "word": "记",
+              "probability": 0.46333229541778564
+            },
+            {
+              "start": 7.64,
+              "end": 7.94,
+              "word": "得",
+              "probability": 0.9951382875442505
+            },
+            {
+              "start": 7.94,
+              "end": 8.26,
+              "word": "每",
+              "probability": 0.9889863729476929
+            },
+            {
+              "start": 8.26,
+              "end": 8.88,
+              "word": "一次",
+              "probability": 0.9840995073318481
+            },
+            {
+              "start": 8.88,
+              "end": 9.18,
+              "word": "黎",
+              "probability": 0.9332882761955261
+            },
+            {
+              "start": 9.18,
+              "end": 9.52,
+              "word": "明",
+              "probability": 0.9145315289497375
+            }
+          ],
+          "temperature": 0.0
+        }
+      ],
+      "elapsed_seconds": 10.34,
+      "text": "这片湖记得每一次黎明"
+    },
+    {
+      "path": "evidence/media/镜头-02-task_UWmgXNnikYQGObUa0NFpn7YXNGfEwxkA.mp4",
+      "sha256": "fbabbbcbe01f2540709710a9ad645c0176ff5f7afa5e95a287e234d27512a93a",
+      "segments": [
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 7.89,
+          "end": 9.11,
+          "text": "我醒了",
+          "tokens": [
+            50364,
+            1654,
+            40796,
+            2289,
+            50464
+          ],
+          "avg_logprob": -0.49900521834691364,
+          "compression_ratio": 0.5294117647058824,
+          "no_speech_prob": 0.04144146293401718,
+          "words": [
+            {
+              "start": 7.89,
+              "end": 8.25,
+              "word": "我",
+              "probability": 0.9764484167098999
+            },
+            {
+              "start": 8.25,
+              "end": 8.67,
+              "word": "醒",
+              "probability": 0.9905766248703003
+            },
+            {
+              "start": 8.67,
+              "end": 9.11,
+              "word": "了",
+              "probability": 0.7633613348007202
+            }
+          ],
+          "temperature": 0.0
+        }
+      ],
+      "elapsed_seconds": 10.09,
+      "text": "我醒了"
+    },
+    {
+      "path": "evidence/media/镜头-03-task_c6DnbMohwT9tn8q5iaJezM6rbNwm8weo.mp4",
+      "sha256": "5a24c2b0c38ec1940d79980c5c4f4b02ddd31c85e0a2c838849a1ea1ff0bb189",
+      "segments": [
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 6.54,
+          "end": 8.52,
+          "text": "我會守住這裡",
+          "tokens": [
+            50364,
+            1654,
+            6236,
+            48480,
+            21632,
+            18771,
+            50464
+          ],
+          "avg_logprob": -0.5586992651224136,
+          "compression_ratio": 0.6666666666666666,
+          "no_speech_prob": 0.053964871913194656,
+          "words": [
+            {
+              "start": 6.54,
+              "end": 7.12,
+              "word": "我",
+              "probability": 0.9497365355491638
+            },
+            {
+              "start": 7.12,
+              "end": 7.38,
+              "word": "會",
+              "probability": 0.6991739869117737
+            },
+            {
+              "start": 7.38,
+              "end": 7.74,
+              "word": "守",
+              "probability": 0.9957985281944275
+            },
+            {
+              "start": 7.74,
+              "end": 8.14,
+              "word": "住",
+              "probability": 0.9503986239433289
+            },
+            {
+              "start": 8.14,
+              "end": 8.52,
+              "word": "這裡",
+              "probability": 0.8124196529388428
+            }
+          ],
+          "temperature": 0.0
+        }
+      ],
+      "elapsed_seconds": 11.51,
+      "text": "我會守住這裡"
+    },
+    {
+      "path": "evidence/media/参考驱动-Wan3经济版-4秒480p.mp4",
+      "sha256": "866b65b3a4b173504a37932e199e6a375e4bc05ea1519ae8474b9d87c4a8c474",
+      "segments": [
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 1.42,
+          "end": 3.3,
+          "text": "陈光回来了",
+          "tokens": [
+            50364,
+            8842,
+            230,
+            20690,
+            8350,
+            34912,
+            50464
+          ],
+          "avg_logprob": -0.5212840437889099,
+          "compression_ratio": 0.625,
+          "no_speech_prob": 0.09040476381778717,
+          "words": [
+            {
+              "start": 1.42,
+              "end": 2.12,
+              "word": "陈",
+              "probability": 0.6754870563745499
+            },
+            {
+              "start": 2.12,
+              "end": 2.46,
+              "word": "光",
+              "probability": 0.992324948310852
+            },
+            {
+              "start": 2.46,
+              "end": 2.9,
+              "word": "回",
+              "probability": 0.9894621968269348
+            },
+            {
+              "start": 2.9,
+              "end": 3.3,
+              "word": "来了",
+              "probability": 0.8986654877662659
+            }
+          ],
+          "temperature": 0.0
+        }
+      ],
+      "elapsed_seconds": 9.11,
+      "text": "陈光回来了"
+    }
+  ],
+  "comparison": [
+    {
+      "expected": "这片湖，记得每一次黎明。",
+      "result": "Automatic text matches after punctuation removal; not human listening"
+    },
+    {
+      "expected": "我醒了。",
+      "result": "Automatic text matches after punctuation removal; not human listening"
+    },
+    {
+      "expected": "我会守住这里。",
+      "result": "Automatic traditional-character text matches after simplification; not human listening"
+    },
+    {
+      "expected": "晨光回来了。",
+      "result": "ASR returned 陈光回来了, homophone character discrepancy, unaccepted pending listening"
+    }
+  ],
+  "subtitle": {
+    "path": "evidence/media/盐湖苏醒-自动转写字幕-待人工校对.srt",
+    "bytes": 207,
+    "sha256": "ad8112489d9c3ca6e47a1f36c212cd1d99bbeaf2ee7f0e3f780efb686dd37b75",
+    "method": "ASR segment times plus 0/10/20-second offsets matching external hard-cut review; unedited recognized text; not native Huidou export; pending manual timing and hearing review."
+  }
+}

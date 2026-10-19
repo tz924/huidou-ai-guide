@@ -1,0 +1,190 @@
+{
+  "method": "Official GUI exported .huidou-project images, inspected independently; reference numbers are not array indexes. SHA256/Pillow RGBA.",
+  "files": [
+    {
+      "path": "evidence/media/彩铅快捷-红块源却返回服装女子.png",
+      "source_export_filename": "9613cab15d8ef4163d747bb66cce1c9a.png",
+      "sha256": "de2f72a4f39c4834aca45c985984e70314fc5f5e6a773758823326852a5940fb",
+      "bytes": 2048768,
+      "size": [
+        1672,
+        941
+      ],
+      "alpha": {
+        "transparent": 738741,
+        "opaque": 11,
+        "partial": 834600
+      }
+    },
+    {
+      "path": "evidence/media/绘梦补测-Image2清除笔迹.png",
+      "source_export_filename": "c883b1a7433ea7d6e60a73f0d039483d.png",
+      "sha256": "68ca51b28e4f02d621b2cc93c006bda94cca8254dcb34ece6da267c72e51510c",
+      "bytes": 1681591,
+      "size": [
+        2048,
+        1152
+      ],
+      "alpha": {
+        "transparent": 0,
+        "opaque": 2359296,
+        "partial": 0
+      }
+    },
+    {
+      "path": "evidence/media/绘梦补测-遮罩正常.png",
+      "source_export_filename": "7050d38ce37122f3d63b62d5671b4035.png",
+      "sha256": "b21a947c4f7d08e2466cc3f4e13bd9b530ed04d113a338a8486aa6981b4f25fa",
+      "bytes": 456602,
+      "size": [
+        865,
+        595
+      ],
+      "alpha": {
+        "transparent": 297150,
+        "opaque": 5,
+        "partial": 217520
+      }
+    },
+    {
+      "path": "evidence/media/绘梦补测-遮罩正片叠底.png",
+      "source_export_filename": "a941c7501416fe7e7b2c7de278070418.png",
+      "sha256": "c5e5a54b976c8b6940b7d4552bfaf436e30807e6c46a8f3461885d34aad41577",
+      "bytes": 454417,
+      "size": [
+        865,
+        595
+      ],
+      "alpha": {
+        "transparent": 297150,
+        "opaque": 5,
+        "partial": 217520
+      }
+    },
+    {
+      "path": "evidence/media/绘梦补测-图层3滤色.png",
+      "source_export_filename": "38805eb34c3f0ff9e871447b27afe233.png",
+      "sha256": "f5546aae1b9d909758b3090fb0c476278253703fe13a4933a75890a64afa89e7",
+      "bytes": 456200,
+      "size": [
+        800,
+        595
+      ],
+      "alpha": {
+        "transparent": 259695,
+        "opaque": 4759,
+        "partial": 211546
+      }
+    },
+    {
+      "path": "evidence/media/绘梦补测-图层3正常.png",
+      "source_export_filename": "7c0c147b9a9b1aa5a6d5a14c5fda286b.png",
+      "sha256": "725c3af42a02e984a818bffec4c2dd8ed29c3c18435efb7d6d086707b51ce954",
+      "bytes": 454992,
+      "size": [
+        800,
+        595
+      ],
+      "alpha": {
+        "transparent": 259695,
+        "opaque": 4759,
+        "partial": 211546
+      }
+    },
+    {
+      "path": "evidence/media/绘梦补测-图层3叠加.png",
+      "source_export_filename": "0c643b379a9386c99513ec19513a1289.png",
+      "sha256": "e6fb4970f8fc862a73c1f90f9ce07e83f7c4af2154382027068acdf27160d9a2",
+      "bytes": 454228,
+      "size": [
+        800,
+        595
+      ],
+      "alpha": {
+        "transparent": 259695,
+        "opaque": 4759,
+        "partial": 211546
+      }
+    },
+    {
+      "path": "evidence/media/绘梦补测-叠加后橡皮缺口.png",
+      "source_export_filename": "5d125325f278d8ae1126319ee68deb04.png",
+      "sha256": "998b053da24a0ed8a3c211250021ec948ad4b117412d00f5d3300ba1b9a76af6",
+      "bytes": 453995,
+      "size": [
+        800,
+        595
+      ],
+      "alpha": {
+        "transparent": 259695,
+        "opaque": 2958,
+        "partial": 213347
+      }
+    },
+    {
+      "path": "evidence/media/绘梦补测-接AI完整参考.png",
+      "source_export_filename": "9b1321dff716c0269668016129910d80.png",
+      "sha256": "7b6868425cc029c0ad491b8f959372fe4753bf432d53bc4c6d04027bbe0feedc",
+      "bytes": 467848,
+      "size": [
+        1280,
+        720
+      ],
+      "alpha": {
+        "transparent": 705293,
+        "opaque": 2958,
+        "partial": 213349
+      }
+    }
+  ],
+  "differences": [
+    {
+      "a": "遮罩正常",
+      "b": "遮罩正片叠底",
+      "changed_pixels": 7020,
+      "bbox": [
+        177,
+        247,
+        679,
+        261
+      ]
+    },
+    {
+      "a": "图层3滤色",
+      "b": "图层3正常",
+      "changed_pixels": 6861,
+      "bbox": [
+        137,
+        349,
+        633,
+        363
+      ]
+    },
+    {
+      "a": "图层3滤色",
+      "b": "图层3叠加",
+      "changed_pixels": 6967,
+      "bbox": [
+        135,
+        349,
+        635,
+        363
+      ]
+    },
+    {
+      "a": "图层3叠加",
+      "b": "叠加后橡皮缺口",
+      "changed_pixels": 2569,
+      "bbox": [
+        311,
+        349,
+        497,
+        363
+      ]
+    }
+  ],
+  "notes": [
+    "Samples identified by color: screen is brighter than normal on the same red cube stroke; RGB examples at (400,355): screen 238/73/147, normal 230/69/146, overlay 191/3/5. All three differ only within stroke region.",
+    "Drawing project stores source/layer paths outside package; layer PNGs are not included in this image directory. Exported composite PNGs retained independently."
+  ]
+}
