@@ -95,6 +95,11 @@
     "sha256": "c1b83fcd4f0117314ef369f26b586dd33e84ce426204d64fe184fce60085bbab"
   },
   {
+    "path": "evidence/media/单格再生图-摄影棚鸟瞰85mm-Image2.png",
+    "bytes": 1644356,
+    "sha256": "5a31926a0e93929c6267618e0d6623c37cb7067453bbdbe09b290b33bf086ac9"
+  },
+  {
     "path": "evidence/media/参考音频-镜头02前10秒.wav",
     "bytes": 480078,
     "sha256": "e34b34613e382ccaec0d71c543bce6ee9076a51b3bab763f3e1521e347731bca"
@@ -163,6 +168,11 @@
     "path": "evidence/media/提示词库-创作中心无人空镜-Image2.png",
     "bytes": 4126562,
     "sha256": "32e0763deacf81c77cf651e36ddfa8bb5556be56e5ff54d73a7fbf351a5a4d0a"
+  },
+  {
+    "path": "evidence/media/普通视频-Wan极速-无人盐湖4秒480p.mp4",
+    "bytes": 2293542,
+    "sha256": "658b668278e411db318ae05f114e89d4967d48a03e5ef4bc046aa9380f63e920"
   },
   {
     "path": "evidence/media/漫剧202610181520-成片-20261018-153132.mp4",
@@ -323,6 +333,16 @@
     "path": "evidence/media/绘梦补测-遮罩正片叠底.png",
     "bytes": 454417,
     "sha256": "c5e5a54b976c8b6940b7d4552bfaf436e30807e6c46a8f3461885d34aad41577"
+  },
+  {
+    "path": "evidence/media/视频抽帧-3D双人-当前2秒.png",
+    "bytes": 443456,
+    "sha256": "a7f50004841d8a27af1b818bed71b0564ca7e4c13843423b7c038fa6d5da3b86"
+  },
+  {
+    "path": "evidence/media/视频抽帧-更换无人盐湖后1秒.png",
+    "bytes": 849325,
+    "sha256": "0288b40c20c89b4819461820b16a96d47ffb8c8b1b48debed230b5e4a834f5ee"
   },
   {
     "path": "evidence/media/透明背景提示-Image2-红木方块.png",

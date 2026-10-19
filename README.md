@@ -11,7 +11,7 @@
 3. 换电脑按 [迁移与启动说明](docs/SECOND-COMPUTER.md) 配置路径、软件和桌面控制工具。
 4. 测试后补充证据与手册，再提交推送。首次可直接使用 [接手提示词](prompts/RESUME.md)。
 
-34项为功能分组，并非全部子功能通过。完整范围继续按[已发现功能与工作流审计](progress/WORKFLOW-AUDIT.md)逐项补齐。
+34项为功能分组，并非全部子功能通过。本轮可执行补测已收尾，包含运行时新增入口；失败、工具受限和待人工/跨机验收项保留在[逐项审计](progress/WORKFLOW-AUDIT.md)，最新证据见[最终补测](evidence/records/2026-10-19-final-workflows.md)。
 
 ```powershell
 git clone https://github.com/tz924/huidou-ai-guide.git

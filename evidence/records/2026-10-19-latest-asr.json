@@ -1,0 +1,165 @@
+{
+  "method": "Local faster-whisper CPU int8, small multilingual; no audio uploaded; automatic transcription is not human listening or lip-sync verification.",
+  "source": "https://github.com/SYSTRAN/faster-whisper",
+  "versions": {
+    "faster-whisper": "1.2.1",
+    "ctranslate2": "4.8.3",
+    "av": "19.0.1"
+  },
+  "model": "Systran/faster-whisper-small",
+  "options": {
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 8,
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "word_timestamps": true,
+    "initial_prompt": null,
+    "condition_on_previous_text": false
+  },
+  "decode": "FFmpeg local 16kHz mono float32 ndarray; avoids faster-whisper1.2.1/PyAV19 metadata_errors API incompatibility observed on first attempt.",
+  "files": [
+    {
+      "path": "evidence/media/3D接AI视频-Wan经济4秒480p.mp4",
+      "sha256": "8088d316a552e0cdda387f5b25c481b96c9245a39742ed1f0e3d9040f72a5e50",
+      "segments": [
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 0.0,
+          "end": 1.82,
+          "text": "你的選擇到此為止了",
+          "tokens": [
+            50364,
+            18961,
+            21625,
+            13167,
+            229,
+            4511,
+            17947,
+            6344,
+            30438,
+            2289,
+            50464
+          ],
+          "avg_logprob": -0.3487835620578967,
+          "compression_ratio": 0.8035714285714286,
+          "no_speech_prob": 0.006508940830826759,
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.12,
+              "word": "你的",
+              "probability": 0.973487377166748
+            },
+            {
+              "start": 0.12,
+              "end": 0.34,
+              "word": "選",
+              "probability": 0.760474443435669
+            },
+            {
+              "start": 0.34,
+              "end": 0.96,
+              "word": "擇",
+              "probability": 0.999742716550827
+            },
+            {
+              "start": 0.96,
+              "end": 1.1,
+              "word": "到",
+              "probability": 0.9781830310821533
+            },
+            {
+              "start": 1.1,
+              "end": 1.32,
+              "word": "此",
+              "probability": 0.9993278980255127
+            },
+            {
+              "start": 1.32,
+              "end": 1.44,
+              "word": "為",
+              "probability": 0.9912697076797485
+            },
+            {
+              "start": 1.44,
+              "end": 1.66,
+              "word": "止",
+              "probability": 0.99953293800354
+            },
+            {
+              "start": 1.66,
+              "end": 1.82,
+              "word": "了",
+              "probability": 0.92756187915802
+            }
+          ],
+          "temperature": 0.0
+        },
+        {
+          "id": 2,
+          "seek": 0,
+          "start": 2.58,
+          "end": 3.66,
+          "text": "沒有回頭路了",
+          "tokens": [
+            50501,
+            6963,
+            8350,
+            19921,
+            24658,
+            2289,
+            50551
+          ],
+          "avg_logprob": -0.3487835620578967,
+          "compression_ratio": 0.8035714285714286,
+          "no_speech_prob": 0.006508940830826759,
+          "words": [
+            {
+              "start": 2.58,
+              "end": 2.94,
+              "word": "沒有",
+              "probability": 0.5649239420890808
+            },
+            {
+              "start": 2.94,
+              "end": 3.22,
+              "word": "回",
+              "probability": 0.9959128499031067
+            },
+            {
+              "start": 3.22,
+              "end": 3.36,
+              "word": "頭",
+              "probability": 0.9908934831619263
+            },
+            {
+              "start": 3.36,
+              "end": 3.54,
+              "word": "路",
+              "probability": 0.9711697697639465
+            },
+            {
+              "start": 3.54,
+              "end": 3.66,
+              "word": "了",
+              "probability": 0.9794749021530151
+            }
+          ],
+          "temperature": 0.0
+        }
+      ],
+      "elapsed_seconds": 10.53,
+      "text": "你的選擇到此為止了沒有回頭路了"
+    },
+    {
+      "path": "evidence/media/普通视频-Wan极速-无人盐湖4秒480p.mp4",
+      "sha256": "658b668278e411db318ae05f114e89d4967d48a03e5ef4bc046aa9380f63e920",
+      "segments": [],
+      "elapsed_seconds": 0.43,
+      "text": ""
+    }
+  ]
+}

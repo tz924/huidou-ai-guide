@@ -1,0 +1,39 @@
+{
+  "source": "evidence/media/3D接AI视频-Wan经济4秒480p.mp4",
+  "ui_time_seconds": 2,
+  "output": "evidence/media/视频抽帧-3D双人-当前2秒.png",
+  "bytes": 443456,
+  "sha256": "a7f50004841d8a27af1b818bed71b0564ca7e4c13843423b7c038fa6d5da3b86",
+  "size": [
+    854,
+    480
+  ],
+  "comparison": "FFmpeg -ss 2; browser and FFmpeg color conversion may differ",
+  "mean_absolute_rgb_error": [
+    1.9815207845433256,
+    1.860677693208431,
+    2.0320086846213896
+  ],
+  "max_rgb_difference": [
+    32,
+    25,
+    36
+  ],
+  "replacement": {
+    "source": "evidence/media/普通视频-Wan极速-无人盐湖4秒480p.mp4",
+    "time_seconds": 1,
+    "output": "evidence/media/视频抽帧-更换无人盐湖后1秒.png",
+    "bytes": 849325,
+    "sha256": "0288b40c20c89b4819461820b16a96d47ffb8c8b1b48debed230b5e4a834f5ee",
+    "size": [
+      854,
+      480
+    ],
+    "mean_absolute_rgb_error": [
+      0.9972165300546448,
+      1.4986753512880562,
+      0.9790471311475409
+    ],
+    "reopen": "Filename remained but player gray00:00/00:00 after library return/reopen and play attempt; PNG retained. File needs reselecting. Failed local video persistence."
+  }
+}
